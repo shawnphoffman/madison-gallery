@@ -1,6 +1,6 @@
 {
-  "release": "v1",
-  "count": 25,
+  "release": "v2",
+  "count": 55,
   "native_size": [
     320,
     180
@@ -16,527 +16,1027 @@
   "duration_ms": 8000,
   "assets": [
     {
-      "id": "base-day",
-      "label": "Base with water",
+      "id": "base-day-calm",
+      "label": "Base with water - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-base-day-v1.png",
-          "sha256": "bbfc886ed9146629d37aa8c4636968c8ffb6a6dcc67037ef7742cb5501d9baa8",
-          "bytes": 143174
+          "path": "downloads/madison-bg-base-day-calm-v2.png",
+          "sha256": "f3dd9d08d638d9888fdb4eeedb33ca1869dfd9dc4f98db1a9688aae6089c4f61",
+          "bytes": 143081
         },
         "preview": {
-          "path": "downloads/madison-bg-base-day-v1-native.gif",
-          "sha256": "aa11cfba5368c084105f13bb0e61b5024fd6c69bf5abcfeab7e6f666d6f26792",
-          "bytes": 2994897
+          "path": "downloads/madison-bg-base-day-calm-v2-native.gif",
+          "sha256": "0ba54eece47d602ac4ef0b78687c68bf2c8eada4df9db7bf0a5b9d73777e5fec",
+          "bytes": 1498982
         },
         "native_png": {
-          "path": "assets/posters/base-day-native.png",
-          "sha256": "17d78df3c709def8829f0abc1d18f2777cd0f9cf064634a3b2c08ff8fb6b7dd5",
-          "bytes": 73961
+          "path": "assets/posters/base-day-calm-native.png",
+          "sha256": "ccd3cbfcdc0eb8a182aa0ec0335041e64313255e346d18c6c5d7b4b8ff84dada",
+          "bytes": 73832
         }
       }
     },
     {
-      "id": "spring-day",
-      "label": "Spring",
+      "id": "base-day-breeze",
+      "label": "Base with water - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-spring-day-v1.png",
-          "sha256": "bafee642a87db37ef3b7d1918d5350ffc174f02d2b81981530dd5be97bf9e5d9",
-          "bytes": 145193
-        },
-        "preview": {
-          "path": "downloads/madison-bg-spring-day-v1-native.gif",
-          "sha256": "d146bff312224f8ce179a94f721c9952f088201d0e62c241e69c5df4c470ca40",
-          "bytes": 3060410
+          "path": "downloads/madison-bg-base-day-breeze-v2.png",
+          "sha256": "70cd403f4e90013758829f9582559001a1ea4a1da3ccee596e72cec880925555",
+          "bytes": 143165
         },
         "native_png": {
-          "path": "assets/posters/spring-day-native.png",
-          "sha256": "a5937e4b9ce3c1504997772c610ed969bfa4441835a1974154d712e937e1d7b7",
-          "bytes": 76393
+          "path": "assets/posters/base-day-breeze-native.png",
+          "sha256": "ee833de29653d45baa8317f158c989a9a05181ab25ee6bffd9b0a6fccddb362a",
+          "bytes": 73956
         }
       }
     },
     {
-      "id": "summer-day",
-      "label": "Summer",
+      "id": "spring-day-calm",
+      "label": "Spring - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-summer-day-v1.png",
-          "sha256": "9a6980fd60cda28ef88be3c47752c28a3402edcf07607ddeb5b5c3a2b4e15545",
-          "bytes": 137787
+          "path": "downloads/madison-bg-spring-day-calm-v2.png",
+          "sha256": "3a975992bc1127d4425432ff9ccee3df68eb50b7c05223486b77213b7ba56301",
+          "bytes": 145111
         },
         "preview": {
-          "path": "downloads/madison-bg-summer-day-v1-native.gif",
-          "sha256": "634ff7ac2a4e3ef4f20b96e0af5dde8bfd7de33f2ede25c4ff96e6ae729daba6",
-          "bytes": 2976289
+          "path": "downloads/madison-bg-spring-day-calm-v2-native.gif",
+          "sha256": "9fb45e62fe623f57150860fb1126855cb5084a0f756da49b7ba551db121f60c8",
+          "bytes": 1536014
         },
         "native_png": {
-          "path": "assets/posters/summer-day-native.png",
-          "sha256": "f0dbdec27621714606673cc0168a600d4fd41ba3ab4d0b0116da78676cc80d81",
-          "bytes": 72736
+          "path": "assets/posters/spring-day-calm-native.png",
+          "sha256": "77d34fbb0520ef187dd01b0ed7c2e4dfa897db68614926f02b9f368d10ed487e",
+          "bytes": 76250
         }
       }
     },
     {
-      "id": "autumn-day",
-      "label": "Autumn",
+      "id": "spring-day-breeze",
+      "label": "Spring - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-autumn-day-v1.png",
-          "sha256": "cb0d24d1b34b331933551bc0253c367b30c54257a3b3926a1c950acd0a11372b",
-          "bytes": 136936
-        },
-        "preview": {
-          "path": "downloads/madison-bg-autumn-day-v1-native.gif",
-          "sha256": "21ac5482caec6f678abe12d5a2506a08cdec91f74c6f9d58916192d6aaba9c66",
-          "bytes": 2987080
+          "path": "downloads/madison-bg-spring-day-breeze-v2.png",
+          "sha256": "6729051b596e6b5f14097f5e1d31b908697cf47d7ead839b551816cfd9b15d47",
+          "bytes": 145186
         },
         "native_png": {
-          "path": "assets/posters/autumn-day-native.png",
-          "sha256": "b877c63529091681c2521459f0eefdb0f8a642641884f5b6ae01012716f8d383",
-          "bytes": 71292
+          "path": "assets/posters/spring-day-breeze-native.png",
+          "sha256": "ac1930194ed311cce81104718af187d1a0ed4a64c1c611f5ba712a8d6e49da07",
+          "bytes": 76387
         }
       }
     },
     {
-      "id": "autumn-leaves-day",
-      "label": "Autumn with falling leaves",
+      "id": "summer-day-calm",
+      "label": "Summer - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-autumn-leaves-day-v1.png",
-          "sha256": "012d64cca8288eeaba6702a72ac755eafd14938f445198cbbb9cbee48fa68761",
-          "bytes": 137030
+          "path": "downloads/madison-bg-summer-day-calm-v2.png",
+          "sha256": "47108e08b6803cfd95ac7c492f7de926ffa53faf9d9223e90493062f78eeb1e4",
+          "bytes": 137832
         },
         "preview": {
-          "path": "downloads/madison-bg-autumn-leaves-day-v1-native.gif",
-          "sha256": "047868f410b851224977140668d79112b161293faff59d7b0b71dc5523d7dcf5",
-          "bytes": 4180896
+          "path": "downloads/madison-bg-summer-day-calm-v2-native.gif",
+          "sha256": "90421b0e849cd4ae516c53490a58cc70f265d8e32664042aa8cc28a8f5757d73",
+          "bytes": 1491701
         },
         "native_png": {
-          "path": "assets/posters/autumn-leaves-day-native.png",
-          "sha256": "3f7f3530215bf081090ba9062c54cead858f3064ca64c3187acef18ae0cdc216",
-          "bytes": 71460
+          "path": "assets/posters/summer-day-calm-native.png",
+          "sha256": "b4e47bb333ce7d1de118b9b5534ce149056e02790d5e60d7b5d6d88b518ca852",
+          "bytes": 72637
         }
       }
     },
     {
-      "id": "winter-day",
-      "label": "Calm winter",
+      "id": "summer-day-breeze",
+      "label": "Summer - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-winter-day-v1.png",
-          "sha256": "620f376fa72a985881dcc5ba664064936f8d5e7d7cb62f4d167ceeed66dd36b4",
-          "bytes": 153276
-        },
-        "preview": {
-          "path": "downloads/madison-bg-winter-day-v1-native.gif",
-          "sha256": "579cb364e7d9a7346963749f7c3fc7feada3f20525fb6a430dc3c3210eb61223",
-          "bytes": 3264640
+          "path": "downloads/madison-bg-summer-day-breeze-v2.png",
+          "sha256": "99afd7e7b4e3c5d3efaaef25706ad72787eab4524a6d1ce06f0cb38da9d058c6",
+          "bytes": 137768
         },
         "native_png": {
-          "path": "assets/posters/winter-day-native.png",
-          "sha256": "a2b0c16844eda27bff812bcbca4fb813740fb701d52ff63be0db958a32b24492",
-          "bytes": 83577
+          "path": "assets/posters/summer-day-breeze-native.png",
+          "sha256": "c11a04cdd785431fef63ceb7a61cfa26937d5cd0d3ccc4b494d3cd98051e19f5",
+          "bytes": 72741
         }
       }
     },
     {
-      "id": "clear-night",
-      "label": "Quiet starry night",
+      "id": "autumn-day-calm",
+      "label": "Autumn - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-clear-night-v1.png",
+          "path": "downloads/madison-bg-autumn-day-calm-v2.png",
+          "sha256": "4f29e36352f0067e479083289a3abb9ce0fb707b8d279a0f6f0a90c5e587ef95",
+          "bytes": 136975
+        },
+        "preview": {
+          "path": "downloads/madison-bg-autumn-day-calm-v2-native.gif",
+          "sha256": "54d3dd3578a7e3fb4f9109bd3b44618ff345df3f011cc9f0bd0d0e50987b7733",
+          "bytes": 1514879
+        },
+        "native_png": {
+          "path": "assets/posters/autumn-day-calm-native.png",
+          "sha256": "63ede9f87e5a7fd5f77f9555bc419b093cca011886177c596190a439a52c87cd",
+          "bytes": 71155
+        }
+      }
+    },
+    {
+      "id": "autumn-day-breeze",
+      "label": "Autumn - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-autumn-day-breeze-v2.png",
+          "sha256": "35d798c22caeb85acf487127f99de959dbba9c3033bd52a03622a12f864f6658",
+          "bytes": 136924
+        },
+        "native_png": {
+          "path": "assets/posters/autumn-day-breeze-native.png",
+          "sha256": "5148d5219d03f7d9151c7cadac3d0a57ebc13bda57a3da5046c65efc7451abff",
+          "bytes": 71287
+        }
+      }
+    },
+    {
+      "id": "autumn-leaves-day-calm",
+      "label": "Autumn with falling leaves - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-autumn-leaves-day-calm-v2.png",
+          "sha256": "7638cb30b4cf85242051629392d1e4d7236a13ee3077894f9e54d8207daa5e4c",
+          "bytes": 137110
+        },
+        "preview": {
+          "path": "downloads/madison-bg-autumn-leaves-day-calm-v2-native.gif",
+          "sha256": "bfe15b87332190969311573a69ba9fcac2eda38ee683f3c797e78c2aac3c34fd",
+          "bytes": 3790005
+        },
+        "native_png": {
+          "path": "assets/posters/autumn-leaves-day-calm-native.png",
+          "sha256": "6d97f787923f31a260b8141115a8f0891bfc26aaddde433391dbfab721431f56",
+          "bytes": 71276
+        }
+      }
+    },
+    {
+      "id": "autumn-leaves-day-breeze",
+      "label": "Autumn with falling leaves - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-autumn-leaves-day-breeze-v2.png",
+          "sha256": "b42cef76e30350526bba42783e6d5971f40eb5cd8f8c802f3471264d171f2e23",
+          "bytes": 137017
+        },
+        "native_png": {
+          "path": "assets/posters/autumn-leaves-day-breeze-native.png",
+          "sha256": "0068c1b888dd6ca9e755f2df155a99b0f16974ab18145c8e86906334b3effa3b",
+          "bytes": 71447
+        }
+      }
+    },
+    {
+      "id": "winter-day-calm",
+      "label": "Calm winter - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-winter-day-calm-v2.png",
+          "sha256": "2bcb0f82f53d41f19ae9f7d6c5f0a0ae459dfba6f810ebe7903297f0eb23b885",
+          "bytes": 153282
+        },
+        "preview": {
+          "path": "downloads/madison-bg-winter-day-calm-v2-native.gif",
+          "sha256": "495f462bb936760f1b891ef194e3041c1b463021de9c43d01b15b26558ca76ae",
+          "bytes": 1571314
+        },
+        "native_png": {
+          "path": "assets/posters/winter-day-calm-native.png",
+          "sha256": "86a9c38c6fe5c3cd5da66588f75dcc43332348d18650a0fa67f4ccae14297c41",
+          "bytes": 83574
+        }
+      }
+    },
+    {
+      "id": "winter-day-breeze",
+      "label": "Calm winter - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-winter-day-breeze-v2.png",
+          "sha256": "965dacd614d0749f416af4266a0608a99694c1d4122a5942dc44054dcc142767",
+          "bytes": 153265
+        },
+        "native_png": {
+          "path": "assets/posters/winter-day-breeze-native.png",
+          "sha256": "62db4f399681ec7b79ab1efa0502ed73805ed33caa1fa039302f6bb4101d9dfd",
+          "bytes": 83574
+        }
+      }
+    },
+    {
+      "id": "clear-night-calm",
+      "label": "Quiet starry night - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-clear-night-calm-v2.png",
+          "sha256": "52b430bbb027d329d5ff32796c431616f36a825bf668c1696e180704d6ff7aa1",
+          "bytes": 105374
+        },
+        "preview": {
+          "path": "downloads/madison-bg-clear-night-calm-v2-native.gif",
+          "sha256": "ac0bc8bdcdc43a24554789cae64cb35b4b613a86f916481c8d48712ceacf4bbe",
+          "bytes": 27158
+        },
+        "native_png": {
+          "path": "assets/posters/clear-night-calm-native.png",
+          "sha256": "4f876dce0a50805647913a5b695d9af61794884641c53ce1eb3f8f42d54feccb",
+          "bytes": 53444
+        }
+      }
+    },
+    {
+      "id": "clear-night-breeze",
+      "label": "Quiet starry night - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-clear-night-breeze-v2.png",
           "sha256": "8e08713eaed9b69260e0aa1e9fb1c4e01b1d7a2b9ebaa3cd775999eb90d20ef4",
           "bytes": 105572
         },
-        "preview": {
-          "path": "downloads/madison-bg-clear-night-v1-native.gif",
-          "sha256": "8e04c01e69a85024b778ac4584dc7152f18299480d286d48469644cf49c2b81f",
-          "bytes": 505286
-        },
         "native_png": {
-          "path": "assets/posters/clear-night-native.png",
+          "path": "assets/posters/clear-night-breeze-native.png",
           "sha256": "89f98b8fabd8c66684087ac519c993bb8a2c76e5e0c99fd902cc76b9be6ac0e1",
           "bytes": 53643
         }
       }
     },
     {
-      "id": "rain-steady-day",
-      "label": "Steady rain",
+      "id": "rain-steady-day-calm",
+      "label": "Steady rain - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-rain-steady-day-v1.png",
-          "sha256": "7651fe16d7b61f38aadc3bbd38e8e0eb3e95a84aeda603ca7f38275813962c36",
-          "bytes": 131332
+          "path": "downloads/madison-bg-rain-steady-day-calm-v2.png",
+          "sha256": "3d41fdce95f462dc79c440a3d51f1179b8fa7f5fd76cd7a728664b2bc9c764de",
+          "bytes": 131395
         },
         "preview": {
-          "path": "downloads/madison-bg-rain-steady-day-v1-native.gif",
-          "sha256": "afb791d3f8e917418b2ad1970ef9c93f0ba7e8340b431dbf84f580378f5990be",
-          "bytes": 4736822
+          "path": "downloads/madison-bg-rain-steady-day-calm-v2-native.gif",
+          "sha256": "2fe2d7bf2b6160e13169d822585c74d1916be76ad274aacf5571086e1c324f5c",
+          "bytes": 4730707
         },
         "native_png": {
-          "path": "assets/posters/rain-steady-day-native.png",
-          "sha256": "20ecb3fe78218fa7bcc07325fd2c7f16ed6f25d8be0f4a3333be1d52bac71647",
-          "bytes": 67751
+          "path": "assets/posters/rain-steady-day-calm-native.png",
+          "sha256": "b61ecbe5963ce16ed41ddb4feda191db2ac26a1cc25885d319b8aceaf263fdb4",
+          "bytes": 67745
         }
       }
     },
     {
-      "id": "rain-heavy-day",
-      "label": "Heavy rain",
+      "id": "rain-steady-day-breeze",
+      "label": "Steady rain - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-rain-heavy-day-v1.png",
-          "sha256": "a5d81f83194a0caad0338e58d61df98ce46ffc40196dc912ec3ee84109135a10",
-          "bytes": 134465
-        },
-        "preview": {
-          "path": "downloads/madison-bg-rain-heavy-day-v1-native.gif",
-          "sha256": "47224838759ab09d95c6bd203595e4fc7f83a12859d0f012a843cb70f1f8f42b",
-          "bytes": 4958527
+          "path": "downloads/madison-bg-rain-steady-day-breeze-v2.png",
+          "sha256": "d64939b6c07bf442c8eb760b34227e4932678ffa0a1c311efa95b5ad6ea067a0",
+          "bytes": 131313
         },
         "native_png": {
-          "path": "assets/posters/rain-heavy-day-native.png",
-          "sha256": "28c4a580a06d0f4408d228532760c902169e605b615d4c9e13bbe84ca20b9679",
-          "bytes": 69966
+          "path": "assets/posters/rain-steady-day-breeze-native.png",
+          "sha256": "1de3eba24ee73f16cb40c107adef9e6de4352cdbb01b2fd73c2cd818509efcb8",
+          "bytes": 67726
         }
       }
     },
     {
-      "id": "snow-gentle-day",
-      "label": "Gentle snow",
+      "id": "rain-heavy-day-calm",
+      "label": "Heavy rain - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-snow-gentle-day-v1.png",
-          "sha256": "5290b679be2d364dbc4b86f65978101a4b97070ea00c9fe8a50bea8b407df5cb",
-          "bytes": 145474
+          "path": "downloads/madison-bg-rain-heavy-day-calm-v2.png",
+          "sha256": "f0aef2e91c9a36a6ef859d5a2e5a8342207d9d2c17ff4ad0bdc17a9857785744",
+          "bytes": 134513
         },
         "preview": {
-          "path": "downloads/madison-bg-snow-gentle-day-v1-native.gif",
-          "sha256": "17dc1e10536c04aa12d377a3defd864ec23fe40f6b96e9acf130be468d6328dc",
-          "bytes": 5319419
+          "path": "downloads/madison-bg-rain-heavy-day-calm-v2-native.gif",
+          "sha256": "44d22446b27b9651952aac43f6b2771a7994a27013c8611cac33a483eaa90227",
+          "bytes": 4951194
         },
         "native_png": {
-          "path": "assets/posters/snow-gentle-day-native.png",
-          "sha256": "936ecbff52ce0e1d761e3c2d88bbbf097b04ce80463cba9dc907f2a130b69559",
-          "bytes": 78972
+          "path": "assets/posters/rain-heavy-day-calm-native.png",
+          "sha256": "b13155b37bc4260bba8ba1afb7fa47f51333cdc09d84b2fbf06512250687528d",
+          "bytes": 70088
         }
       }
     },
     {
-      "id": "snow-fuller-day",
-      "label": "Fuller snow",
+      "id": "rain-heavy-day-breeze",
+      "label": "Heavy rain - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-snow-fuller-day-v1.png",
-          "sha256": "14e100b84ff6bb47d67e49af1604a616c8b76855109e776db929eca18f85a081",
-          "bytes": 156485
-        },
-        "preview": {
-          "path": "downloads/madison-bg-snow-fuller-day-v1-native.gif",
-          "sha256": "d4b0c52b2ce451744f38e375eedc27862781e9be25d65441d78e891fe0ea8895",
-          "bytes": 5702440
+          "path": "downloads/madison-bg-rain-heavy-day-breeze-v2.png",
+          "sha256": "9a7721d1f578226f0a4933fcf00cd8b7b941c8c9e18d2b70cb08ccf89948c553",
+          "bytes": 134432
         },
         "native_png": {
-          "path": "assets/posters/snow-fuller-day-native.png",
-          "sha256": "705e4984fae3c3fea85fee55fcdfcadd7a2b6ca367abf62300d15e5cab5472b9",
-          "bytes": 85970
+          "path": "assets/posters/rain-heavy-day-breeze-native.png",
+          "sha256": "25f33da5f27ae05bc5a9cd567f70a4ee45c0911142e092a33205e43cdaebcf6b",
+          "bytes": 69949
         }
       }
     },
     {
-      "id": "snow-intense-day",
-      "label": "Intense snow",
+      "id": "snow-gentle-day-calm",
+      "label": "Gentle snow - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-snow-intense-day-v1.png",
-          "sha256": "70a1bb245656adb45270d97132286b513d6726e9558c87cf96c8280e9e89b589",
-          "bytes": 162700
+          "path": "downloads/madison-bg-snow-gentle-day-calm-v2.png",
+          "sha256": "677ce977514786c357344d52ccc03110c6922d07f02cba14764391f8b28b6b65",
+          "bytes": 145625
         },
         "preview": {
-          "path": "downloads/madison-bg-snow-intense-day-v1-native.gif",
-          "sha256": "8b682ae5af8cc86c87232b7efbe528ecfad5eb69c2a6258ef3c65d9ec8df9436",
-          "bytes": 5964398
+          "path": "downloads/madison-bg-snow-gentle-day-calm-v2-native.gif",
+          "sha256": "7900401d51191b860b620fcfbef2fb80987f62135fee79765676f2382f4da8fc",
+          "bytes": 5302312
         },
         "native_png": {
-          "path": "assets/posters/snow-intense-day-native.png",
-          "sha256": "75b0835fd2085a22a6f94d1ccf5f92b28783c2b18d30f32f5d28a3473207416b",
-          "bytes": 90060
+          "path": "assets/posters/snow-gentle-day-calm-native.png",
+          "sha256": "2667a5c7d341d20ab03492543a57cc243847a157f3685eafc59c7be8a9506ea4",
+          "bytes": 78749
         }
       }
     },
     {
-      "id": "fog-light-day",
-      "label": "Light fog",
+      "id": "snow-gentle-day-breeze",
+      "label": "Gentle snow - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-fog-light-day-v1.png",
-          "sha256": "bb94e40fefd6daad5e5e0ac4af43e0400236fbe2cca93839284424b7c8175241",
-          "bytes": 156003
-        },
-        "preview": {
-          "path": "downloads/madison-bg-fog-light-day-v1-native.gif",
-          "sha256": "96067557438f13b47f0b4b7dc63d9ad67b7b475b47f0d9f2571bf1e6fb02b50f",
-          "bytes": 3483700
+          "path": "downloads/madison-bg-snow-gentle-day-breeze-v2.png",
+          "sha256": "acaeb4bef0099b6bfa6edfb947fa9bbdfa655adc8d485bb76e5f3bffd04f2cf7",
+          "bytes": 145461
         },
         "native_png": {
-          "path": "assets/posters/fog-light-day-native.png",
-          "sha256": "954a79dc2f6f680c794f88d2272a5345a1987ae67d4669df589d48fff32c4439",
-          "bytes": 88374
+          "path": "assets/posters/snow-gentle-day-breeze-native.png",
+          "sha256": "44c6afeb001234adcf8df673b909cd2f35d57b738e5b2afb4122d962549082d7",
+          "bytes": 78936
         }
       }
     },
     {
-      "id": "fog-dense-day",
-      "label": "Dense fog",
+      "id": "snow-fuller-day-calm",
+      "label": "Fuller snow - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-fog-dense-day-v1.png",
-          "sha256": "f8f250536e0b7fd277ae2694d75eecced7abab3ab81e5cac41136f6345ba2585",
-          "bytes": 154976
+          "path": "downloads/madison-bg-snow-fuller-day-calm-v2.png",
+          "sha256": "c3ca984f6396a96fd68a72761adf140bc9ff6a166cc75731712d98a149a6f89b",
+          "bytes": 156572
         },
         "preview": {
-          "path": "downloads/madison-bg-fog-dense-day-v1-native.gif",
-          "sha256": "5c9ccefd6faf8e86ead525b9c9a8c784f13b021c35a55cc23b6086f3b3bb7ec2",
-          "bytes": 3508252
+          "path": "downloads/madison-bg-snow-fuller-day-calm-v2-native.gif",
+          "sha256": "254ca6db5313ae39056a96e1a529494dc6842929cf30faa43238db6b8917705e",
+          "bytes": 5697156
         },
         "native_png": {
-          "path": "assets/posters/fog-dense-day-native.png",
-          "sha256": "f3a84d3961c19df1d78b001cf2935f79f6ae64e359749005053649b5312fb6a8",
-          "bytes": 87761
+          "path": "assets/posters/snow-fuller-day-calm-native.png",
+          "sha256": "c573400c50b2b3498811b2092c5966a430a913d46de1732f5cbafac66122bbab",
+          "bytes": 85936
         }
       }
     },
     {
-      "id": "lightning-distant-day",
-      "label": "Distant lightning with rain",
+      "id": "snow-fuller-day-breeze",
+      "label": "Fuller snow - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-lightning-distant-day-v1.png",
-          "sha256": "7651fe16d7b61f38aadc3bbd38e8e0eb3e95a84aeda603ca7f38275813962c36",
-          "bytes": 131332
-        },
-        "preview": {
-          "path": "downloads/madison-bg-lightning-distant-day-v1-native.gif",
-          "sha256": "2b21ea6b7e6fcb6a2d300b33fd9195b27cb3617158051f880cbdb08bd3cd9325",
-          "bytes": 4701051
+          "path": "downloads/madison-bg-snow-fuller-day-breeze-v2.png",
+          "sha256": "f6ba200d563dc01fc23e4e0af8fd419cb49c520d3b107b95cfa171e018458ebc",
+          "bytes": 156469
         },
         "native_png": {
-          "path": "assets/posters/lightning-distant-day-native.png",
-          "sha256": "20ecb3fe78218fa7bcc07325fd2c7f16ed6f25d8be0f4a3333be1d52bac71647",
-          "bytes": 67751
+          "path": "assets/posters/snow-fuller-day-breeze-native.png",
+          "sha256": "f83bf0a68b009ab2582b8f65250f60de2966614549a244d3c12a68ca1db102b9",
+          "bytes": 85940
         }
       }
     },
     {
-      "id": "lightning-active-day",
-      "label": "Active lightning with rain",
+      "id": "snow-intense-day-calm",
+      "label": "Intense snow - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-lightning-active-day-v1.png",
-          "sha256": "7651fe16d7b61f38aadc3bbd38e8e0eb3e95a84aeda603ca7f38275813962c36",
-          "bytes": 131332
+          "path": "downloads/madison-bg-snow-intense-day-calm-v2.png",
+          "sha256": "23d362e1b8610e76d286ff20a3d0b3e05ce0ae930484fc494782ffa822ba45eb",
+          "bytes": 162786
         },
         "preview": {
-          "path": "downloads/madison-bg-lightning-active-day-v1-native.gif",
-          "sha256": "c42242e2601bf7bf38039331319e219ada3ff15255e8d9952af63d47e8cbe3f3",
-          "bytes": 4621302
+          "path": "downloads/madison-bg-snow-intense-day-calm-v2-native.gif",
+          "sha256": "de5197d54325bd8659ce1fdfc478e4b2b938366de0472c0e474ecb030d927fda",
+          "bytes": 5959121
         },
         "native_png": {
-          "path": "assets/posters/lightning-active-day-native.png",
-          "sha256": "20ecb3fe78218fa7bcc07325fd2c7f16ed6f25d8be0f4a3333be1d52bac71647",
-          "bytes": 67751
+          "path": "assets/posters/snow-intense-day-calm-native.png",
+          "sha256": "61c1253ba4fd1b696c89516124bdae2b98457d1415b27bde0dff1e0194929aa9",
+          "bytes": 90022
         }
       }
     },
     {
-      "id": "meteor-subtle-night",
-      "label": "Subtle shooting star",
+      "id": "snow-intense-day-breeze",
+      "label": "Intense snow - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-meteor-subtle-night-v1.png",
-          "sha256": "8e08713eaed9b69260e0aa1e9fb1c4e01b1d7a2b9ebaa3cd775999eb90d20ef4",
-          "bytes": 105572
-        },
-        "preview": {
-          "path": "downloads/madison-bg-meteor-subtle-night-v1-native.gif",
-          "sha256": "07b4c67171c67d3aed1ade1f4d8803a41e93225af3106a68403d49338a25264c",
-          "bytes": 546116
+          "path": "downloads/madison-bg-snow-intense-day-breeze-v2.png",
+          "sha256": "e767eca1cf7bfba49eb5959285551f874b93dce802bb4cfd020efa21443a0b78",
+          "bytes": 162680
         },
         "native_png": {
-          "path": "assets/posters/meteor-subtle-night-native.png",
-          "sha256": "89f98b8fabd8c66684087ac519c993bb8a2c76e5e0c99fd902cc76b9be6ac0e1",
-          "bytes": 53643
+          "path": "assets/posters/snow-intense-day-breeze-native.png",
+          "sha256": "9c6205bb07e2345dad7266ff4153eb8a819794fe2f74cdb0d9485b5a7eab79e8",
+          "bytes": 90023
         }
       }
     },
     {
-      "id": "meteor-bright-night",
-      "label": "Bright shooting star",
+      "id": "fog-light-day-calm",
+      "label": "Light fog - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-meteor-bright-night-v1.png",
-          "sha256": "8e08713eaed9b69260e0aa1e9fb1c4e01b1d7a2b9ebaa3cd775999eb90d20ef4",
-          "bytes": 105572
+          "path": "downloads/madison-bg-fog-light-day-calm-v2.png",
+          "sha256": "6c4b07669f4171ee13ee49c0a6a75f2a4b39c214ef1f18669b673131d012d216",
+          "bytes": 156076
         },
         "preview": {
-          "path": "downloads/madison-bg-meteor-bright-night-v1-native.gif",
-          "sha256": "44974bbd6b17f0d7500f334ffe801793ab4ce9af3ed262e6d7698b51b15d117f",
-          "bytes": 551179
+          "path": "downloads/madison-bg-fog-light-day-calm-v2-native.gif",
+          "sha256": "d0ae25dc34cd85b7c2fa611976796025b3dac9a3ddc8403d30f34e9c2a291d7f",
+          "bytes": 2055075
         },
         "native_png": {
-          "path": "assets/posters/meteor-bright-night-native.png",
-          "sha256": "89f98b8fabd8c66684087ac519c993bb8a2c76e5e0c99fd902cc76b9be6ac0e1",
-          "bytes": 53643
+          "path": "assets/posters/fog-light-day-calm-native.png",
+          "sha256": "50d1c0c50ae9a1547937de5f3e6af595c592b10a4cf64c7fe4a383ccfd4f8450",
+          "bytes": 88255
         }
       }
     },
     {
-      "id": "drought-day",
-      "label": "Drought",
+      "id": "fog-light-day-breeze",
+      "label": "Light fog - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-drought-day-v1.png",
-          "sha256": "e420c7f668ee0742a98316e067932c1be1246079e023da7394f9c2bc5d52bbf9",
-          "bytes": 140544
-        },
-        "preview": {
-          "path": "downloads/madison-bg-drought-day-v1-native.gif",
-          "sha256": "c7d4b18f3a38ad3e6d3c65697b97db990179fe8db5c7fc0664205c7568cb928d",
-          "bytes": 558195
+          "path": "downloads/madison-bg-fog-light-day-breeze-v2.png",
+          "sha256": "b699412f77c330557116003556389de65db23b3e2d025ca7b7e92a268cc8920e",
+          "bytes": 155991
         },
         "native_png": {
-          "path": "assets/posters/drought-day-native.png",
-          "sha256": "7ad0af2168d1b68bee9a8a1c4448fcefb9017397332cbd1b97973e8aee3b1f26",
-          "bytes": 69041
+          "path": "assets/posters/fog-light-day-breeze-native.png",
+          "sha256": "e0f4384b23143f62015be1db15e16d20bc5fecba5d15801e14627f01eea114a8",
+          "bytes": 88370
         }
       }
     },
     {
-      "id": "rain-night",
-      "label": "Night rain",
+      "id": "fog-dense-day-calm",
+      "label": "Dense fog - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-rain-night-v1.png",
-          "sha256": "4e7c2a098694be0732580850c99f3797bd712b1531329e4cbb4fbc82aa42e367",
-          "bytes": 112300
+          "path": "downloads/madison-bg-fog-dense-day-calm-v2.png",
+          "sha256": "a0d4c92dffcbf5430d3a34747acfbc83e7b67e450213ced829e3f12fe92d3c5c",
+          "bytes": 155053
         },
         "preview": {
-          "path": "downloads/madison-bg-rain-night-v1-native.gif",
-          "sha256": "f3bdf5a05842b12073f0f08be836754a857d80326343edb65252f0447522f482",
-          "bytes": 4102884
+          "path": "downloads/madison-bg-fog-dense-day-calm-v2-native.gif",
+          "sha256": "9f73cdb0aaa5e403f369cded07eb66fa8dc65afb199604c897198b248c0d5b40",
+          "bytes": 2135912
         },
         "native_png": {
-          "path": "assets/posters/rain-night-native.png",
-          "sha256": "e60e8993ecb5abe1789fb76143f67ed5ddd534a20152744843ca8d3b4996cca9",
-          "bytes": 62419
+          "path": "assets/posters/fog-dense-day-calm-native.png",
+          "sha256": "f196eb4e5fc394b663caba7e52d49dd5534309ca62d1a0f1db0acb21ea242fbe",
+          "bytes": 87809
         }
       }
     },
     {
-      "id": "thunderstorm-night",
-      "label": "Night thunderstorm",
+      "id": "fog-dense-day-breeze",
+      "label": "Dense fog - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-thunderstorm-night-v1.png",
-          "sha256": "2ab91a5df9bb17cd6aab8e2e5f3ca2ac2de2855a4007df691b851484e9c707b4",
-          "bytes": 117106
-        },
-        "preview": {
-          "path": "downloads/madison-bg-thunderstorm-night-v1-native.gif",
-          "sha256": "fc3c4fc8a458c80f85619cdfbe483ec185dd776753e6e2ccc39eb8a39eb1c8c0",
-          "bytes": 4145194
+          "path": "downloads/madison-bg-fog-dense-day-breeze-v2.png",
+          "sha256": "996174dbfddb5b3794f66e4821e6017683042733586c69949911cfb3a811cecd",
+          "bytes": 154962
         },
         "native_png": {
-          "path": "assets/posters/thunderstorm-night-native.png",
-          "sha256": "2a81ba6d0e050490eef89b4f522b43b3603037ff5d6106ebabdd4155037fc525",
-          "bytes": 65443
+          "path": "assets/posters/fog-dense-day-breeze-native.png",
+          "sha256": "dae56ddbff56f08c0280288ac47eca8e66a55c75ded1ca310ab8cc60dd52f6f4",
+          "bytes": 87757
         }
       }
     },
     {
-      "id": "fog-night",
-      "label": "Night fog",
+      "id": "lightning-distant-day-calm",
+      "label": "Distant lightning with rain - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-fog-night-v1.png",
-          "sha256": "38b3cc535a2c8767679b544ee10d4931e6a25a6876ddb4886149f19f053f5999",
-          "bytes": 127484
+          "path": "downloads/madison-bg-lightning-distant-day-calm-v2.png",
+          "sha256": "3d41fdce95f462dc79c440a3d51f1179b8fa7f5fd76cd7a728664b2bc9c764de",
+          "bytes": 131395
         },
         "preview": {
-          "path": "downloads/madison-bg-fog-night-v1-native.gif",
-          "sha256": "ac4a9771329fde9dd218e0ac554adb878a13f4919da5c7a6e13df53fe94b557e",
-          "bytes": 2957616
+          "path": "downloads/madison-bg-lightning-distant-day-calm-v2-native.gif",
+          "sha256": "37801ae249257fa14c0ec9f3644619ca924ddb393a53960b2c82dabd233b372f",
+          "bytes": 4692866
         },
         "native_png": {
-          "path": "assets/posters/fog-night-native.png",
-          "sha256": "18576a1f8536388282b71d39704d84eb0602f8180c27c85f298b34c5f0b64c6f",
-          "bytes": 74469
+          "path": "assets/posters/lightning-distant-day-calm-native.png",
+          "sha256": "b61ecbe5963ce16ed41ddb4feda191db2ac26a1cc25885d319b8aceaf263fdb4",
+          "bytes": 67745
         }
       }
     },
     {
-      "id": "snow-night",
-      "label": "Night snow",
+      "id": "lightning-distant-day-breeze",
+      "label": "Distant lightning with rain - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-snow-night-v1.png",
-          "sha256": "d10e5e41a951dda2a5786c657c8a2cc85fe1a9e15d4a397aa78773157275439e",
-          "bytes": 130473
-        },
-        "preview": {
-          "path": "downloads/madison-bg-snow-night-v1-native.gif",
-          "sha256": "ef91a2b7c2eb480ba1da7be91b025c2f29a874ab40cc459093db8a10fa759b37",
-          "bytes": 4687126
+          "path": "downloads/madison-bg-lightning-distant-day-breeze-v2.png",
+          "sha256": "d64939b6c07bf442c8eb760b34227e4932678ffa0a1c311efa95b5ad6ea067a0",
+          "bytes": 131313
         },
         "native_png": {
-          "path": "assets/posters/snow-night-native.png",
-          "sha256": "9ad87bd7e35d8dc2a9de946147fcc1159fe4705aa151b85ba1adc0a203ade1a8",
-          "bytes": 73041
+          "path": "assets/posters/lightning-distant-day-breeze-native.png",
+          "sha256": "1de3eba24ee73f16cb40c107adef9e6de4352cdbb01b2fd73c2cd818509efcb8",
+          "bytes": 67726
         }
       }
     },
     {
-      "id": "wildfire-medium-day",
-      "label": "Medium wildfire",
+      "id": "lightning-active-day-calm",
+      "label": "Active lightning with rain - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-wildfire-medium-day-v1.png",
-          "sha256": "9fda1395a504186b3d647c74427668e6e52d2ce397df853cd38c1f1694df86e2",
-          "bytes": 147998
+          "path": "downloads/madison-bg-lightning-active-day-calm-v2.png",
+          "sha256": "3d41fdce95f462dc79c440a3d51f1179b8fa7f5fd76cd7a728664b2bc9c764de",
+          "bytes": 131395
         },
         "preview": {
-          "path": "downloads/madison-bg-wildfire-medium-day-v1-native.gif",
-          "sha256": "d269dad59236d0297c7c06bd77180dd82d63e4c6ad8252f9c26344115db8c385",
-          "bytes": 4401278
+          "path": "downloads/madison-bg-lightning-active-day-calm-v2-native.gif",
+          "sha256": "8505af1ba1f504675db4230de2fd0a0b2e9939448804cbda05e30e6dfc974470",
+          "bytes": 4607538
         },
         "native_png": {
-          "path": "assets/posters/wildfire-medium-day-native.png",
-          "sha256": "b545ecb1e90ea02eb19b0524d3a5fcbb20b4b4c4a062d71c15fd21b3f127bf31",
-          "bytes": 81444
+          "path": "assets/posters/lightning-active-day-calm-native.png",
+          "sha256": "b61ecbe5963ce16ed41ddb4feda191db2ac26a1cc25885d319b8aceaf263fdb4",
+          "bytes": 67745
         }
       }
     },
     {
-      "id": "wildfire-intense-day",
-      "label": "Intense wildfire",
+      "id": "lightning-active-day-breeze",
+      "label": "Active lightning with rain - earlier breeze",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-wildfire-intense-day-v1.png",
-          "sha256": "4751f45194229bf552bd8af401cd93b70360561ad6edf30761ad5fe64523fb47",
-          "bytes": 147802
-        },
-        "preview": {
-          "path": "downloads/madison-bg-wildfire-intense-day-v1-native.gif",
-          "sha256": "9a9cc8c3acfb569fc02bba3514fffe82d548695dc2e7fce156273f2a81efa779",
-          "bytes": 4421248
+          "path": "downloads/madison-bg-lightning-active-day-breeze-v2.png",
+          "sha256": "d64939b6c07bf442c8eb760b34227e4932678ffa0a1c311efa95b5ad6ea067a0",
+          "bytes": 131313
         },
         "native_png": {
-          "path": "assets/posters/wildfire-intense-day-native.png",
-          "sha256": "0cb1ea9910446690bd9715e8427886e74f92767136aa107b889c2c97991470eb",
-          "bytes": 81384
+          "path": "assets/posters/lightning-active-day-breeze-native.png",
+          "sha256": "1de3eba24ee73f16cb40c107adef9e6de4352cdbb01b2fd73c2cd818509efcb8",
+          "bytes": 67726
+        }
+      }
+    },
+    {
+      "id": "meteor-subtle-night-calm",
+      "label": "Subtle shooting star - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-meteor-subtle-night-calm-v2.png",
+          "sha256": "623bfc093ec63bf71a51fd2371a3f6576c4862485c39c659502fcda8ac0c91ea",
+          "bytes": 105462
+        },
+        "preview": {
+          "path": "downloads/madison-bg-meteor-subtle-night-calm-v2-native.gif",
+          "sha256": "4471069bdae2980e748bcc7bab145941b179a6bccd2ee8303e0e6b4fe82776f8",
+          "bytes": 29170
+        },
+        "native_png": {
+          "path": "assets/posters/meteor-subtle-night-calm-native.png",
+          "sha256": "75455e246f57e5a166a66e2d942355ce932d6799e46bb2f77efe090a6d14d1db",
+          "bytes": 53493
+        }
+      }
+    },
+    {
+      "id": "meteor-subtle-night-breeze",
+      "label": "Subtle shooting star - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-meteor-subtle-night-breeze-v2.png",
+          "sha256": "46dc1f0f7501627b0f0af77afca623667a40c6a65cfa926ebeda07431fac38b5",
+          "bytes": 105590
+        },
+        "native_png": {
+          "path": "assets/posters/meteor-subtle-night-breeze-native.png",
+          "sha256": "cd4590eb43336b6a6e79c69d95a485a41cf7242aa3ff0e253307e1e16692987b",
+          "bytes": 53635
+        }
+      }
+    },
+    {
+      "id": "meteor-bright-night-calm",
+      "label": "Bright shooting star - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-meteor-bright-night-calm-v2.png",
+          "sha256": "154c20ad97d93e9ee0941a884410bd4578f515c29c17485f0fed863327e3b3ec",
+          "bytes": 105554
+        },
+        "preview": {
+          "path": "downloads/madison-bg-meteor-bright-night-calm-v2-native.gif",
+          "sha256": "31dc4641c0cb194d427ab2764d99065f96660665d826dcd044eed6c5b16e8080",
+          "bytes": 29874
+        },
+        "native_png": {
+          "path": "assets/posters/meteor-bright-night-calm-native.png",
+          "sha256": "00cf350c8446aed91aaf14d533ca09ec5d5a09fa82ba80c1171a6704628d13bb",
+          "bytes": 53548
+        }
+      }
+    },
+    {
+      "id": "meteor-bright-night-breeze",
+      "label": "Bright shooting star - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-meteor-bright-night-breeze-v2.png",
+          "sha256": "9db87364fb6c518ebbf7f03b3ece5ab48516300d72a5b7399ab26b50dc27d1bc",
+          "bytes": 105673
+        },
+        "native_png": {
+          "path": "assets/posters/meteor-bright-night-breeze-native.png",
+          "sha256": "f273b0e6d3663cac65d37a293b451d27c6fe2ab9f53127ff6a2da259227fc70c",
+          "bytes": 53697
+        }
+      }
+    },
+    {
+      "id": "drought-day-calm",
+      "label": "Drought - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-drought-day-calm-v2.png",
+          "sha256": "5a2d5d261b58c7a063cfeb84ca78e350267cfd924044b60ce5038da8195f2334",
+          "bytes": 140766
+        },
+        "preview": {
+          "path": "downloads/madison-bg-drought-day-calm-v2-native.gif",
+          "sha256": "7daeed22812496e3dd18d4e74938502dbb887fd1ce46539dcce335c78444da02",
+          "bytes": 33185
+        },
+        "native_png": {
+          "path": "assets/posters/drought-day-calm-native.png",
+          "sha256": "23a6fb09583992ca01a67ff85752c13b1c449d7e18406d66673439d475ce18dc",
+          "bytes": 69016
+        }
+      }
+    },
+    {
+      "id": "drought-day-breeze",
+      "label": "Drought - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-drought-day-breeze-v2.png",
+          "sha256": "f8151d766fc972982ee14a20ec50f896e9691b513f9b72cd9055d10f31caf748",
+          "bytes": 140537
+        },
+        "native_png": {
+          "path": "assets/posters/drought-day-breeze-native.png",
+          "sha256": "98dd1427ba6313095c4e969bf48ba7e62c34c452eb562653db877163dca48cd2",
+          "bytes": 69036
+        }
+      }
+    },
+    {
+      "id": "rain-night-calm",
+      "label": "Night rain - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-rain-night-calm-v2.png",
+          "sha256": "3521448f8bdf46676dd61d71d2a77ecde492e30405dd48f6bce893f7338368e2",
+          "bytes": 112362
+        },
+        "preview": {
+          "path": "downloads/madison-bg-rain-night-calm-v2-native.gif",
+          "sha256": "6ce82f41687abe9413004d9b30ecc0d82c50c7d0560c9b1867991dd2ad2603e1",
+          "bytes": 4092768
+        },
+        "native_png": {
+          "path": "assets/posters/rain-night-calm-native.png",
+          "sha256": "ec1e078064ffe0eaf2c1d7f4ae3f1cc2ab7f7a5a21e83125aabd415ab0da17db",
+          "bytes": 62401
+        }
+      }
+    },
+    {
+      "id": "rain-night-breeze",
+      "label": "Night rain - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-rain-night-breeze-v2.png",
+          "sha256": "39f5d12c80a90deb93728602fe78c69a6d30a66a08e0895fe8b5d61870e5f0a1",
+          "bytes": 112279
+        },
+        "native_png": {
+          "path": "assets/posters/rain-night-breeze-native.png",
+          "sha256": "e4a7d1622d5d45287f2a36e46ef503235a85f0e7676a6d1d2a90e0b3f214c3d2",
+          "bytes": 62408
+        }
+      }
+    },
+    {
+      "id": "thunderstorm-night-calm",
+      "label": "Night thunderstorm - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-thunderstorm-night-calm-v2.png",
+          "sha256": "884f1f69d279ab7e3625698313a649e5f891ec0953be4daf6bc048336f100aec",
+          "bytes": 117084
+        },
+        "preview": {
+          "path": "downloads/madison-bg-thunderstorm-night-calm-v2-native.gif",
+          "sha256": "151b85ef00b9a6145835119faea969a07787ab213a06d98e245982ec623c86fd",
+          "bytes": 4147023
+        },
+        "native_png": {
+          "path": "assets/posters/thunderstorm-night-calm-native.png",
+          "sha256": "44786c216dc0aa04705ee326b2265e046b7d7508a7d63e4d515a190b9b8e1288",
+          "bytes": 65478
+        }
+      }
+    },
+    {
+      "id": "thunderstorm-night-breeze",
+      "label": "Night thunderstorm - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-thunderstorm-night-breeze-v2.png",
+          "sha256": "5f9582ce1fd55ad503bb034a3f42197cff6359a0ece6be30c65a7b458e4efd96",
+          "bytes": 117086
+        },
+        "native_png": {
+          "path": "assets/posters/thunderstorm-night-breeze-native.png",
+          "sha256": "843a58ba477bc1241448fe3f3c1fbd21d3f0e8336a46644ca6a5355ca272f28f",
+          "bytes": 65426
+        }
+      }
+    },
+    {
+      "id": "fog-night-calm",
+      "label": "Night fog - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-fog-night-calm-v2.png",
+          "sha256": "8e62173828682f08800aad4824cf76ab0be68e2394f07b5a37d56682b788cb2e",
+          "bytes": 127551
+        },
+        "preview": {
+          "path": "downloads/madison-bg-fog-night-calm-v2-native.gif",
+          "sha256": "e3c8daf537393b3ebebb401bfa2d02d4c6ee351a0b8d536233e37f2d3bcee53c",
+          "bytes": 1830136
+        },
+        "native_png": {
+          "path": "assets/posters/fog-night-calm-native.png",
+          "sha256": "7d0679b028e6545eeb298c1fc73ad45b831cf05faa2f788070e98a5e6d55c4a2",
+          "bytes": 74587
+        }
+      }
+    },
+    {
+      "id": "fog-night-breeze",
+      "label": "Night fog - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-fog-night-breeze-v2.png",
+          "sha256": "ad443ee479b8b338b73ea87bcd0720cb9361045b0a922c4c0c1e1647fee3ba90",
+          "bytes": 127470
+        },
+        "native_png": {
+          "path": "assets/posters/fog-night-breeze-native.png",
+          "sha256": "58381786acc08ce216c094b7ecb593672c4dbe13734279894488366c54ef961c",
+          "bytes": 74456
+        }
+      }
+    },
+    {
+      "id": "snow-night-calm",
+      "label": "Night snow - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-snow-night-calm-v2.png",
+          "sha256": "2d7ff9d48c540739b541b5e7894ba0c1cb1fe594c84433f5dfba01c91c5164f2",
+          "bytes": 130467
+        },
+        "preview": {
+          "path": "downloads/madison-bg-snow-night-calm-v2-native.gif",
+          "sha256": "c4485b0e371504bbf8c0fb4827def9d916d0ce3d1b196e6ae5d5d3a2a3cff7e2",
+          "bytes": 4680579
+        },
+        "native_png": {
+          "path": "assets/posters/snow-night-calm-native.png",
+          "sha256": "fe24a74e824e18679036f167f51b98fa6059b8ad5320776c6b16a0b0248b7659",
+          "bytes": 73007
+        }
+      }
+    },
+    {
+      "id": "snow-night-breeze",
+      "label": "Night snow - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-snow-night-breeze-v2.png",
+          "sha256": "7580c21961cfbfff12eafa6dc0733719337748b2306616a79be48689eae1b947",
+          "bytes": 130463
+        },
+        "native_png": {
+          "path": "assets/posters/snow-night-breeze-native.png",
+          "sha256": "bb27a8fabb4dcf16c4306ca745b3abb49d379bac3336c9871816873e22be5fe5",
+          "bytes": 73022
+        }
+      }
+    },
+    {
+      "id": "wildfire-medium-day-calm",
+      "label": "Medium wildfire - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-wildfire-medium-day-calm-v2.png",
+          "sha256": "ad94983c3b3f77135f27a5643c55aef78a623d715b0dca0dd7beda7aa1b32411",
+          "bytes": 148196
+        },
+        "preview": {
+          "path": "downloads/madison-bg-wildfire-medium-day-calm-v2-native.gif",
+          "sha256": "0c5b536aac4013c5139ea6082a04955b54e2f88edf1b711102001adfe78eae45",
+          "bytes": 2979499
+        },
+        "native_png": {
+          "path": "assets/posters/wildfire-medium-day-calm-native.png",
+          "sha256": "21cdaf38cc0a15347c074f98377d3c0d4d483d5a826c34d383e3258703f52275",
+          "bytes": 81461
+        }
+      }
+    },
+    {
+      "id": "wildfire-medium-day-breeze",
+      "label": "Medium wildfire - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-wildfire-medium-day-breeze-v2.png",
+          "sha256": "a3a9cb3302cd564f7e838607c90dbf14d8bc640bf4682ce6a728a73988ffb08e",
+          "bytes": 147995
+        },
+        "native_png": {
+          "path": "assets/posters/wildfire-medium-day-breeze-native.png",
+          "sha256": "5cee51f09f1fe941ae374679e4d4e9a5c7bdc5505e1ca448da19863b22d01492",
+          "bytes": 81439
+        }
+      }
+    },
+    {
+      "id": "wildfire-intense-day-calm",
+      "label": "Intense wildfire - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-wildfire-intense-day-calm-v2.png",
+          "sha256": "a95ccfa88fbacb96a71a7424d304e01c3853db8e9520494d0d585cddc7bbf25d",
+          "bytes": 147932
+        },
+        "preview": {
+          "path": "downloads/madison-bg-wildfire-intense-day-calm-v2-native.gif",
+          "sha256": "085f165c0c45c85f2492c54545c49cf29a6243f80db5bcb0d986b553852015f9",
+          "bytes": 2970435
+        },
+        "native_png": {
+          "path": "assets/posters/wildfire-intense-day-calm-native.png",
+          "sha256": "a9a91d199cd8c40ac0f98e5e7110764ef92f45a552ac360985f5c3f27dc576a3",
+          "bytes": 81451
+        }
+      }
+    },
+    {
+      "id": "wildfire-intense-day-breeze",
+      "label": "Intense wildfire - earlier breeze",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-wildfire-intense-day-breeze-v2.png",
+          "sha256": "e11b1616175127fd3281e443e4e472f1b8fcfaa776387daa54f0774673dc0180",
+          "bytes": 147798
+        },
+        "native_png": {
+          "path": "assets/posters/wildfire-intense-day-breeze-native.png",
+          "sha256": "29910c604dbba53041b2d6da78d110c5f68e2df6d1cccd37ffe9484f0d2c04e1",
+          "bytes": 81378
+        }
+      }
+    },
+    {
+      "id": "dawn-calm",
+      "label": "Dawn - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-dawn-calm-v2.png",
+          "sha256": "f7114ba19bb8a0f4f1eed0e83cb232eaa4e5dd6e9653408814f9b71c42e80032",
+          "bytes": 126579
+        },
+        "preview": {
+          "path": "downloads/madison-bg-dawn-calm-v2-native.gif",
+          "sha256": "2aa912d57f1b5aed41ebd006bd123f1076ae12b2628a96aad7d8cc79d1f48b66",
+          "bytes": 1460390
+        },
+        "native_png": {
+          "path": "assets/posters/dawn-calm-native.png",
+          "sha256": "af887441b6f737a17b16cbf9a76210389eb7c1f5c99acef6314dcb5924cbbfde",
+          "bytes": 66482
+        }
+      }
+    },
+    {
+      "id": "sunrise-calm",
+      "label": "Sunrise - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-sunrise-calm-v2.png",
+          "sha256": "2ee5e3ec9d26a46f73a2db387aeae0e377bf18df134236ed4370e48536c163cb",
+          "bytes": 131782
+        },
+        "preview": {
+          "path": "downloads/madison-bg-sunrise-calm-v2-native.gif",
+          "sha256": "3ad03a469fb7a1dd0f222cfa1a1b2baed1e97a8ecba2a4a4a45915702154a573",
+          "bytes": 1495811
+        },
+        "native_png": {
+          "path": "assets/posters/sunrise-calm-native.png",
+          "sha256": "211bf9f6513c131895b9cad5d224db7722abaecac3fb9f62cf327deca81e32eb",
+          "bytes": 67231
+        }
+      }
+    },
+    {
+      "id": "sunset-calm",
+      "label": "Sunset - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-sunset-calm-v2.png",
+          "sha256": "752cd8598201b2df852c0b23236cb137be308ce39382556c173d31a5ffc54d5d",
+          "bytes": 130481
+        },
+        "preview": {
+          "path": "downloads/madison-bg-sunset-calm-v2-native.gif",
+          "sha256": "5576c81abf531c016790f6a571066b3c3d727bae8481636f87112c8e36fe3a8f",
+          "bytes": 1495379
+        },
+        "native_png": {
+          "path": "assets/posters/sunset-calm-native.png",
+          "sha256": "aaccda0f7b29c292b2a7851915ad97bc29f69ac8ba46f5a68f6cc05cc29b0bdb",
+          "bytes": 66777
+        }
+      }
+    },
+    {
+      "id": "dusk-calm",
+      "label": "Dusk - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-dusk-calm-v2.png",
+          "sha256": "92ddc34b43723b2f4aa99939e1a123f52a0fbd74acfde2244db3d2b3fbe35c28",
+          "bytes": 119135
+        },
+        "preview": {
+          "path": "downloads/madison-bg-dusk-calm-v2-native.gif",
+          "sha256": "21cd8b2c389d976cc4962b7fea2994d20264c6781d686dd8058a79f8aa68a47e",
+          "bytes": 1383840
+        },
+        "native_png": {
+          "path": "assets/posters/dusk-calm-native.png",
+          "sha256": "41352b88bc232e20c9e9fb1e193c7dd7a4b6d792072e15f7585729a006766ca3",
+          "bytes": 64162
+        }
+      }
+    },
+    {
+      "id": "rain-heavy-connected-study",
+      "label": "Heavy rain - new sway study",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-rain-heavy-connected-study-v2.png",
+          "sha256": "1a3f2b9dd360a715f8227b1baa92d98d6ca2a2c3637c9cf1acc4b3cfcc8bfa07",
+          "bytes": 134502
+        },
+        "native_png": {
+          "path": "assets/posters/rain-heavy-connected-study-native.png",
+          "sha256": "12bfd1f6d344a1c7a8c0e41dddd243d728bef42a0a73efa254990cb1a18b6534",
+          "bytes": 70169
         }
       }
     }

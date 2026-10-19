@@ -1,0 +1,42 @@
+{
+  "id": "meteor-bright-night-breeze",
+  "label": "Bright shooting star - earlier breeze",
+  "group": "Events",
+  "channels": {
+    "wind": 0.35,
+    "water": 0.55,
+    "waterfall": 0.35,
+    "spray": 0.55,
+    "precipitation": 0.0,
+    "fire": 0.0,
+    "smoke": 0.0,
+    "fog": 0.0,
+    "lightning": 0.0,
+    "meteor": 1.0
+  },
+  "user_approved": false,
+  "mechanical_checks_passed": true,
+  "note": "Corrected sky/tree ownership. Earlier sway retained for comparison; use Windless to remove it.",
+  "wind_mode": "breeze",
+  "theme_id": "meteor-bright-night",
+  "review_status": "derived",
+  "static_only": false,
+  "poster_frame": 42,
+  "native_size": [
+    320,
+    180
+  ],
+  "hd_png_size": [
+    1920,
+    1080
+  ],
+  "gif_size": [
+    320,
+    180
+  ],
+  "frames": 160,
+  "frame_duration_ms": 50,
+  "duration_ms": 8000,
+  "loop": 0,
+  "clouds": "static"
+}
