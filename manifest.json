@@ -1,0 +1,546 @@
+{
+  "release": "v1",
+  "count": 25,
+  "native_size": [
+    320,
+    180
+  ],
+  "hd_png_size": [
+    1920,
+    1080
+  ],
+  "gif_size": [
+    320,
+    180
+  ],
+  "duration_ms": 8000,
+  "assets": [
+    {
+      "id": "base-day",
+      "label": "Base with water",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-base-day-v1.png",
+          "sha256": "bbfc886ed9146629d37aa8c4636968c8ffb6a6dcc67037ef7742cb5501d9baa8",
+          "bytes": 143174
+        },
+        "preview": {
+          "path": "downloads/madison-bg-base-day-v1-native.gif",
+          "sha256": "aa11cfba5368c084105f13bb0e61b5024fd6c69bf5abcfeab7e6f666d6f26792",
+          "bytes": 2994897
+        },
+        "native_png": {
+          "path": "assets/posters/base-day-native.png",
+          "sha256": "17d78df3c709def8829f0abc1d18f2777cd0f9cf064634a3b2c08ff8fb6b7dd5",
+          "bytes": 73961
+        }
+      }
+    },
+    {
+      "id": "spring-day",
+      "label": "Spring",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-spring-day-v1.png",
+          "sha256": "bafee642a87db37ef3b7d1918d5350ffc174f02d2b81981530dd5be97bf9e5d9",
+          "bytes": 145193
+        },
+        "preview": {
+          "path": "downloads/madison-bg-spring-day-v1-native.gif",
+          "sha256": "d146bff312224f8ce179a94f721c9952f088201d0e62c241e69c5df4c470ca40",
+          "bytes": 3060410
+        },
+        "native_png": {
+          "path": "assets/posters/spring-day-native.png",
+          "sha256": "a5937e4b9ce3c1504997772c610ed969bfa4441835a1974154d712e937e1d7b7",
+          "bytes": 76393
+        }
+      }
+    },
+    {
+      "id": "summer-day",
+      "label": "Summer",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-summer-day-v1.png",
+          "sha256": "9a6980fd60cda28ef88be3c47752c28a3402edcf07607ddeb5b5c3a2b4e15545",
+          "bytes": 137787
+        },
+        "preview": {
+          "path": "downloads/madison-bg-summer-day-v1-native.gif",
+          "sha256": "634ff7ac2a4e3ef4f20b96e0af5dde8bfd7de33f2ede25c4ff96e6ae729daba6",
+          "bytes": 2976289
+        },
+        "native_png": {
+          "path": "assets/posters/summer-day-native.png",
+          "sha256": "f0dbdec27621714606673cc0168a600d4fd41ba3ab4d0b0116da78676cc80d81",
+          "bytes": 72736
+        }
+      }
+    },
+    {
+      "id": "autumn-day",
+      "label": "Autumn",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-autumn-day-v1.png",
+          "sha256": "cb0d24d1b34b331933551bc0253c367b30c54257a3b3926a1c950acd0a11372b",
+          "bytes": 136936
+        },
+        "preview": {
+          "path": "downloads/madison-bg-autumn-day-v1-native.gif",
+          "sha256": "21ac5482caec6f678abe12d5a2506a08cdec91f74c6f9d58916192d6aaba9c66",
+          "bytes": 2987080
+        },
+        "native_png": {
+          "path": "assets/posters/autumn-day-native.png",
+          "sha256": "b877c63529091681c2521459f0eefdb0f8a642641884f5b6ae01012716f8d383",
+          "bytes": 71292
+        }
+      }
+    },
+    {
+      "id": "autumn-leaves-day",
+      "label": "Autumn with falling leaves",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-autumn-leaves-day-v1.png",
+          "sha256": "012d64cca8288eeaba6702a72ac755eafd14938f445198cbbb9cbee48fa68761",
+          "bytes": 137030
+        },
+        "preview": {
+          "path": "downloads/madison-bg-autumn-leaves-day-v1-native.gif",
+          "sha256": "047868f410b851224977140668d79112b161293faff59d7b0b71dc5523d7dcf5",
+          "bytes": 4180896
+        },
+        "native_png": {
+          "path": "assets/posters/autumn-leaves-day-native.png",
+          "sha256": "3f7f3530215bf081090ba9062c54cead858f3064ca64c3187acef18ae0cdc216",
+          "bytes": 71460
+        }
+      }
+    },
+    {
+      "id": "winter-day",
+      "label": "Calm winter",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-winter-day-v1.png",
+          "sha256": "620f376fa72a985881dcc5ba664064936f8d5e7d7cb62f4d167ceeed66dd36b4",
+          "bytes": 153276
+        },
+        "preview": {
+          "path": "downloads/madison-bg-winter-day-v1-native.gif",
+          "sha256": "579cb364e7d9a7346963749f7c3fc7feada3f20525fb6a430dc3c3210eb61223",
+          "bytes": 3264640
+        },
+        "native_png": {
+          "path": "assets/posters/winter-day-native.png",
+          "sha256": "a2b0c16844eda27bff812bcbca4fb813740fb701d52ff63be0db958a32b24492",
+          "bytes": 83577
+        }
+      }
+    },
+    {
+      "id": "clear-night",
+      "label": "Quiet starry night",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-clear-night-v1.png",
+          "sha256": "8e08713eaed9b69260e0aa1e9fb1c4e01b1d7a2b9ebaa3cd775999eb90d20ef4",
+          "bytes": 105572
+        },
+        "preview": {
+          "path": "downloads/madison-bg-clear-night-v1-native.gif",
+          "sha256": "8e04c01e69a85024b778ac4584dc7152f18299480d286d48469644cf49c2b81f",
+          "bytes": 505286
+        },
+        "native_png": {
+          "path": "assets/posters/clear-night-native.png",
+          "sha256": "89f98b8fabd8c66684087ac519c993bb8a2c76e5e0c99fd902cc76b9be6ac0e1",
+          "bytes": 53643
+        }
+      }
+    },
+    {
+      "id": "rain-steady-day",
+      "label": "Steady rain",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-rain-steady-day-v1.png",
+          "sha256": "7651fe16d7b61f38aadc3bbd38e8e0eb3e95a84aeda603ca7f38275813962c36",
+          "bytes": 131332
+        },
+        "preview": {
+          "path": "downloads/madison-bg-rain-steady-day-v1-native.gif",
+          "sha256": "afb791d3f8e917418b2ad1970ef9c93f0ba7e8340b431dbf84f580378f5990be",
+          "bytes": 4736822
+        },
+        "native_png": {
+          "path": "assets/posters/rain-steady-day-native.png",
+          "sha256": "20ecb3fe78218fa7bcc07325fd2c7f16ed6f25d8be0f4a3333be1d52bac71647",
+          "bytes": 67751
+        }
+      }
+    },
+    {
+      "id": "rain-heavy-day",
+      "label": "Heavy rain",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-rain-heavy-day-v1.png",
+          "sha256": "a5d81f83194a0caad0338e58d61df98ce46ffc40196dc912ec3ee84109135a10",
+          "bytes": 134465
+        },
+        "preview": {
+          "path": "downloads/madison-bg-rain-heavy-day-v1-native.gif",
+          "sha256": "47224838759ab09d95c6bd203595e4fc7f83a12859d0f012a843cb70f1f8f42b",
+          "bytes": 4958527
+        },
+        "native_png": {
+          "path": "assets/posters/rain-heavy-day-native.png",
+          "sha256": "28c4a580a06d0f4408d228532760c902169e605b615d4c9e13bbe84ca20b9679",
+          "bytes": 69966
+        }
+      }
+    },
+    {
+      "id": "snow-gentle-day",
+      "label": "Gentle snow",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-snow-gentle-day-v1.png",
+          "sha256": "5290b679be2d364dbc4b86f65978101a4b97070ea00c9fe8a50bea8b407df5cb",
+          "bytes": 145474
+        },
+        "preview": {
+          "path": "downloads/madison-bg-snow-gentle-day-v1-native.gif",
+          "sha256": "17dc1e10536c04aa12d377a3defd864ec23fe40f6b96e9acf130be468d6328dc",
+          "bytes": 5319419
+        },
+        "native_png": {
+          "path": "assets/posters/snow-gentle-day-native.png",
+          "sha256": "936ecbff52ce0e1d761e3c2d88bbbf097b04ce80463cba9dc907f2a130b69559",
+          "bytes": 78972
+        }
+      }
+    },
+    {
+      "id": "snow-fuller-day",
+      "label": "Fuller snow",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-snow-fuller-day-v1.png",
+          "sha256": "14e100b84ff6bb47d67e49af1604a616c8b76855109e776db929eca18f85a081",
+          "bytes": 156485
+        },
+        "preview": {
+          "path": "downloads/madison-bg-snow-fuller-day-v1-native.gif",
+          "sha256": "d4b0c52b2ce451744f38e375eedc27862781e9be25d65441d78e891fe0ea8895",
+          "bytes": 5702440
+        },
+        "native_png": {
+          "path": "assets/posters/snow-fuller-day-native.png",
+          "sha256": "705e4984fae3c3fea85fee55fcdfcadd7a2b6ca367abf62300d15e5cab5472b9",
+          "bytes": 85970
+        }
+      }
+    },
+    {
+      "id": "snow-intense-day",
+      "label": "Intense snow",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-snow-intense-day-v1.png",
+          "sha256": "70a1bb245656adb45270d97132286b513d6726e9558c87cf96c8280e9e89b589",
+          "bytes": 162700
+        },
+        "preview": {
+          "path": "downloads/madison-bg-snow-intense-day-v1-native.gif",
+          "sha256": "8b682ae5af8cc86c87232b7efbe528ecfad5eb69c2a6258ef3c65d9ec8df9436",
+          "bytes": 5964398
+        },
+        "native_png": {
+          "path": "assets/posters/snow-intense-day-native.png",
+          "sha256": "75b0835fd2085a22a6f94d1ccf5f92b28783c2b18d30f32f5d28a3473207416b",
+          "bytes": 90060
+        }
+      }
+    },
+    {
+      "id": "fog-light-day",
+      "label": "Light fog",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-fog-light-day-v1.png",
+          "sha256": "bb94e40fefd6daad5e5e0ac4af43e0400236fbe2cca93839284424b7c8175241",
+          "bytes": 156003
+        },
+        "preview": {
+          "path": "downloads/madison-bg-fog-light-day-v1-native.gif",
+          "sha256": "96067557438f13b47f0b4b7dc63d9ad67b7b475b47f0d9f2571bf1e6fb02b50f",
+          "bytes": 3483700
+        },
+        "native_png": {
+          "path": "assets/posters/fog-light-day-native.png",
+          "sha256": "954a79dc2f6f680c794f88d2272a5345a1987ae67d4669df589d48fff32c4439",
+          "bytes": 88374
+        }
+      }
+    },
+    {
+      "id": "fog-dense-day",
+      "label": "Dense fog",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-fog-dense-day-v1.png",
+          "sha256": "f8f250536e0b7fd277ae2694d75eecced7abab3ab81e5cac41136f6345ba2585",
+          "bytes": 154976
+        },
+        "preview": {
+          "path": "downloads/madison-bg-fog-dense-day-v1-native.gif",
+          "sha256": "5c9ccefd6faf8e86ead525b9c9a8c784f13b021c35a55cc23b6086f3b3bb7ec2",
+          "bytes": 3508252
+        },
+        "native_png": {
+          "path": "assets/posters/fog-dense-day-native.png",
+          "sha256": "f3a84d3961c19df1d78b001cf2935f79f6ae64e359749005053649b5312fb6a8",
+          "bytes": 87761
+        }
+      }
+    },
+    {
+      "id": "lightning-distant-day",
+      "label": "Distant lightning with rain",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-lightning-distant-day-v1.png",
+          "sha256": "7651fe16d7b61f38aadc3bbd38e8e0eb3e95a84aeda603ca7f38275813962c36",
+          "bytes": 131332
+        },
+        "preview": {
+          "path": "downloads/madison-bg-lightning-distant-day-v1-native.gif",
+          "sha256": "2b21ea6b7e6fcb6a2d300b33fd9195b27cb3617158051f880cbdb08bd3cd9325",
+          "bytes": 4701051
+        },
+        "native_png": {
+          "path": "assets/posters/lightning-distant-day-native.png",
+          "sha256": "20ecb3fe78218fa7bcc07325fd2c7f16ed6f25d8be0f4a3333be1d52bac71647",
+          "bytes": 67751
+        }
+      }
+    },
+    {
+      "id": "lightning-active-day",
+      "label": "Active lightning with rain",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-lightning-active-day-v1.png",
+          "sha256": "7651fe16d7b61f38aadc3bbd38e8e0eb3e95a84aeda603ca7f38275813962c36",
+          "bytes": 131332
+        },
+        "preview": {
+          "path": "downloads/madison-bg-lightning-active-day-v1-native.gif",
+          "sha256": "c42242e2601bf7bf38039331319e219ada3ff15255e8d9952af63d47e8cbe3f3",
+          "bytes": 4621302
+        },
+        "native_png": {
+          "path": "assets/posters/lightning-active-day-native.png",
+          "sha256": "20ecb3fe78218fa7bcc07325fd2c7f16ed6f25d8be0f4a3333be1d52bac71647",
+          "bytes": 67751
+        }
+      }
+    },
+    {
+      "id": "meteor-subtle-night",
+      "label": "Subtle shooting star",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-meteor-subtle-night-v1.png",
+          "sha256": "8e08713eaed9b69260e0aa1e9fb1c4e01b1d7a2b9ebaa3cd775999eb90d20ef4",
+          "bytes": 105572
+        },
+        "preview": {
+          "path": "downloads/madison-bg-meteor-subtle-night-v1-native.gif",
+          "sha256": "07b4c67171c67d3aed1ade1f4d8803a41e93225af3106a68403d49338a25264c",
+          "bytes": 546116
+        },
+        "native_png": {
+          "path": "assets/posters/meteor-subtle-night-native.png",
+          "sha256": "89f98b8fabd8c66684087ac519c993bb8a2c76e5e0c99fd902cc76b9be6ac0e1",
+          "bytes": 53643
+        }
+      }
+    },
+    {
+      "id": "meteor-bright-night",
+      "label": "Bright shooting star",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-meteor-bright-night-v1.png",
+          "sha256": "8e08713eaed9b69260e0aa1e9fb1c4e01b1d7a2b9ebaa3cd775999eb90d20ef4",
+          "bytes": 105572
+        },
+        "preview": {
+          "path": "downloads/madison-bg-meteor-bright-night-v1-native.gif",
+          "sha256": "44974bbd6b17f0d7500f334ffe801793ab4ce9af3ed262e6d7698b51b15d117f",
+          "bytes": 551179
+        },
+        "native_png": {
+          "path": "assets/posters/meteor-bright-night-native.png",
+          "sha256": "89f98b8fabd8c66684087ac519c993bb8a2c76e5e0c99fd902cc76b9be6ac0e1",
+          "bytes": 53643
+        }
+      }
+    },
+    {
+      "id": "drought-day",
+      "label": "Drought",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-drought-day-v1.png",
+          "sha256": "e420c7f668ee0742a98316e067932c1be1246079e023da7394f9c2bc5d52bbf9",
+          "bytes": 140544
+        },
+        "preview": {
+          "path": "downloads/madison-bg-drought-day-v1-native.gif",
+          "sha256": "c7d4b18f3a38ad3e6d3c65697b97db990179fe8db5c7fc0664205c7568cb928d",
+          "bytes": 558195
+        },
+        "native_png": {
+          "path": "assets/posters/drought-day-native.png",
+          "sha256": "7ad0af2168d1b68bee9a8a1c4448fcefb9017397332cbd1b97973e8aee3b1f26",
+          "bytes": 69041
+        }
+      }
+    },
+    {
+      "id": "rain-night",
+      "label": "Night rain",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-rain-night-v1.png",
+          "sha256": "4e7c2a098694be0732580850c99f3797bd712b1531329e4cbb4fbc82aa42e367",
+          "bytes": 112300
+        },
+        "preview": {
+          "path": "downloads/madison-bg-rain-night-v1-native.gif",
+          "sha256": "f3bdf5a05842b12073f0f08be836754a857d80326343edb65252f0447522f482",
+          "bytes": 4102884
+        },
+        "native_png": {
+          "path": "assets/posters/rain-night-native.png",
+          "sha256": "e60e8993ecb5abe1789fb76143f67ed5ddd534a20152744843ca8d3b4996cca9",
+          "bytes": 62419
+        }
+      }
+    },
+    {
+      "id": "thunderstorm-night",
+      "label": "Night thunderstorm",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-thunderstorm-night-v1.png",
+          "sha256": "2ab91a5df9bb17cd6aab8e2e5f3ca2ac2de2855a4007df691b851484e9c707b4",
+          "bytes": 117106
+        },
+        "preview": {
+          "path": "downloads/madison-bg-thunderstorm-night-v1-native.gif",
+          "sha256": "fc3c4fc8a458c80f85619cdfbe483ec185dd776753e6e2ccc39eb8a39eb1c8c0",
+          "bytes": 4145194
+        },
+        "native_png": {
+          "path": "assets/posters/thunderstorm-night-native.png",
+          "sha256": "2a81ba6d0e050490eef89b4f522b43b3603037ff5d6106ebabdd4155037fc525",
+          "bytes": 65443
+        }
+      }
+    },
+    {
+      "id": "fog-night",
+      "label": "Night fog",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-fog-night-v1.png",
+          "sha256": "38b3cc535a2c8767679b544ee10d4931e6a25a6876ddb4886149f19f053f5999",
+          "bytes": 127484
+        },
+        "preview": {
+          "path": "downloads/madison-bg-fog-night-v1-native.gif",
+          "sha256": "ac4a9771329fde9dd218e0ac554adb878a13f4919da5c7a6e13df53fe94b557e",
+          "bytes": 2957616
+        },
+        "native_png": {
+          "path": "assets/posters/fog-night-native.png",
+          "sha256": "18576a1f8536388282b71d39704d84eb0602f8180c27c85f298b34c5f0b64c6f",
+          "bytes": 74469
+        }
+      }
+    },
+    {
+      "id": "snow-night",
+      "label": "Night snow",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-snow-night-v1.png",
+          "sha256": "d10e5e41a951dda2a5786c657c8a2cc85fe1a9e15d4a397aa78773157275439e",
+          "bytes": 130473
+        },
+        "preview": {
+          "path": "downloads/madison-bg-snow-night-v1-native.gif",
+          "sha256": "ef91a2b7c2eb480ba1da7be91b025c2f29a874ab40cc459093db8a10fa759b37",
+          "bytes": 4687126
+        },
+        "native_png": {
+          "path": "assets/posters/snow-night-native.png",
+          "sha256": "9ad87bd7e35d8dc2a9de946147fcc1159fe4705aa151b85ba1adc0a203ade1a8",
+          "bytes": 73041
+        }
+      }
+    },
+    {
+      "id": "wildfire-medium-day",
+      "label": "Medium wildfire",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-wildfire-medium-day-v1.png",
+          "sha256": "9fda1395a504186b3d647c74427668e6e52d2ce397df853cd38c1f1694df86e2",
+          "bytes": 147998
+        },
+        "preview": {
+          "path": "downloads/madison-bg-wildfire-medium-day-v1-native.gif",
+          "sha256": "d269dad59236d0297c7c06bd77180dd82d63e4c6ad8252f9c26344115db8c385",
+          "bytes": 4401278
+        },
+        "native_png": {
+          "path": "assets/posters/wildfire-medium-day-native.png",
+          "sha256": "b545ecb1e90ea02eb19b0524d3a5fcbb20b4b4c4a062d71c15fd21b3f127bf31",
+          "bytes": 81444
+        }
+      }
+    },
+    {
+      "id": "wildfire-intense-day",
+      "label": "Intense wildfire",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-wildfire-intense-day-v1.png",
+          "sha256": "4751f45194229bf552bd8af401cd93b70360561ad6edf30761ad5fe64523fb47",
+          "bytes": 147802
+        },
+        "preview": {
+          "path": "downloads/madison-bg-wildfire-intense-day-v1-native.gif",
+          "sha256": "9a9cc8c3acfb569fc02bba3514fffe82d548695dc2e7fce156273f2a81efa779",
+          "bytes": 4421248
+        },
+        "native_png": {
+          "path": "assets/posters/wildfire-intense-day-native.png",
+          "sha256": "0cb1ea9910446690bd9715e8427886e74f92767136aa107b889c2c97991470eb",
+          "bytes": 81384
+        }
+      }
+    }
+  ],
+  "apngs_included": false,
+  "historical_studies_included": false
+}
