@@ -16,7 +16,7 @@
   },
   "user_approved": false,
   "mechanical_checks_passed": true,
-  "note": "Corrected sky/tree ownership. Trees stay still; other accepted effects retain their settings.",
+  "note": "Includes the seven previously unowned sky gaps. Corrected sky/tree ownership. Trees stay still; other accepted effects retain their settings.",
   "wind_mode": "calm",
   "theme_id": "meteor-subtle-night",
   "review_status": "derived",

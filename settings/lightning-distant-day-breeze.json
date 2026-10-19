@@ -15,7 +15,7 @@
   },
   "user_approved": false,
   "mechanical_checks_passed": true,
-  "note": "Corrected sky/tree ownership. Earlier sway retained for comparison; use Windless to remove it.",
+  "note": "Includes the seven previously unowned sky gaps. Corrected sky/tree ownership. Earlier sway retained for comparison; use Windless to remove it.",
   "wind_mode": "breeze",
   "theme_id": "lightning-distant-day",
   "review_status": "derived",

@@ -17,7 +17,7 @@
   },
   "user_approved": false,
   "mechanical_checks_passed": true,
-  "note": "New time-of-day candidate. Diffuse sky and water color treatment; no visible sun disk or new cast-shadow direction.",
+  "note": "Includes the seven previously unowned sky gaps. New time-of-day candidate. Diffuse sky and water color treatment; no visible sun disk or new cast-shadow direction.",
   "wind_mode": "calm",
   "theme_id": "dawn",
   "review_status": "candidate",
