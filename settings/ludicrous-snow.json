@@ -1,0 +1,27 @@
+{
+  "id": "ludicrous-snow",
+  "label": "Ludicrous snow",
+  "group": "Weather",
+  "user_approved": true,
+  "mechanical_checks_passed": true,
+  "note": "Approved static landscape. Animation is deferred.",
+  "wind_mode": "calm",
+  "theme_id": "ludicrous-snow",
+  "review_status": "approved",
+  "static_only": true,
+  "section": "backgrounds",
+  "native_size": [
+    320,
+    180
+  ],
+  "hd_png_size": [
+    1920,
+    1080
+  ],
+  "gif_size": null,
+  "frames": 1,
+  "frame_duration_ms": 50,
+  "duration_ms": 0,
+  "loop": 0,
+  "clouds": "static"
+}

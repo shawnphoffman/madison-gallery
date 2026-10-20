@@ -1,9 +1,9 @@
 {
   "release": "v3",
-  "count": 90,
-  "background_scenes": 29,
+  "count": 100,
+  "background_scenes": 39,
   "extras": 3,
-  "images": 90,
+  "images": 100,
   "animations": 87,
   "native_size": [
     320,
@@ -1891,6 +1891,166 @@
           "path": "downloads/dusk-gust.gif",
           "sha256": "1b125118c740f7e5653236a64df6751efe77cf4a0af5c3e3d152270879cff031",
           "bytes": 1544697
+        }
+      }
+    },
+    {
+      "id": "overcast-daylight",
+      "label": "Overcast daylight",
+      "files": {
+        "png": {
+          "path": "downloads/overcast-daylight.png",
+          "sha256": "9092d19c75585a3342f065110877d20413fd5ec99d51cb8e52532db52e2a8e36",
+          "bytes": 139227
+        },
+        "native_png": {
+          "path": "assets/posters/overcast-daylight-native.png",
+          "sha256": "386edac46ef955ff745f0a4153a74e5fd7946ac4b021446f15f02480c9984f86",
+          "bytes": 73485
+        }
+      }
+    },
+    {
+      "id": "moonlit-night",
+      "label": "Moonlit night",
+      "files": {
+        "png": {
+          "path": "downloads/moonlit-night.png",
+          "sha256": "af953e8326670b563f778cf1d1d1bdcdc139e5cf2920446c6a10cf375b19a517",
+          "bytes": 133913
+        },
+        "native_png": {
+          "path": "assets/posters/moonlit-night-native.png",
+          "sha256": "08a99933c63915620a24c98ad610bc72f133dde3e56be4c169b0dbbf6840e98e",
+          "bytes": 70866
+        }
+      }
+    },
+    {
+      "id": "clearing-after-rain",
+      "label": "Clearing after rain",
+      "files": {
+        "png": {
+          "path": "downloads/clearing-after-rain.png",
+          "sha256": "25e7bcc8f8dc38379875225a607e5cfb311d7140c41ed686f46ddf17a433d83c",
+          "bytes": 150073
+        },
+        "native_png": {
+          "path": "assets/posters/clearing-after-rain-native.png",
+          "sha256": "ccef951e61d0a1cc7ec3db59c6c17a29b451f66d5bb51f6846f6c68d3834cbf5",
+          "bytes": 79169
+        }
+      }
+    },
+    {
+      "id": "first-frost",
+      "label": "First frost",
+      "files": {
+        "png": {
+          "path": "downloads/first-frost.png",
+          "sha256": "97b4167230b71fe998deaa9baf79f567dd8c01156bbcb988eeee54edd15f3535",
+          "bytes": 142390
+        },
+        "native_png": {
+          "path": "assets/posters/first-frost-native.png",
+          "sha256": "32859a1bab042faeb088c41043350fdef4ec3994ccf4f82f4a6ee532dab64808",
+          "bytes": 74354
+        }
+      }
+    },
+    {
+      "id": "late-summer-low-water",
+      "label": "Late-summer low water",
+      "files": {
+        "png": {
+          "path": "downloads/late-summer-low-water.png",
+          "sha256": "611f033a07a98aeca942b88c6235c8f66e9840d778f6c01d2422a151b837859d",
+          "bytes": 144592
+        },
+        "native_png": {
+          "path": "assets/posters/late-summer-low-water-native.png",
+          "sha256": "479a81db5550e6873a9f4ba0ca304790c4ae869e26a87ba1a672f87ab2640408",
+          "bytes": 75477
+        }
+      }
+    },
+    {
+      "id": "extreme-snow",
+      "label": "Extreme snow",
+      "files": {
+        "png": {
+          "path": "downloads/extreme-snow.png",
+          "sha256": "02acd11402bb400648ac29f579f3ae4e2ff9507c9b3b37e96c9bd361c7d2c1c6",
+          "bytes": 156292
+        },
+        "native_png": {
+          "path": "assets/posters/extreme-snow-native.png",
+          "sha256": "178cbf21f776253fa58b6c9310747fb4707921632a8636f897b568844cf8d156",
+          "bytes": 80873
+        }
+      }
+    },
+    {
+      "id": "ludicrous-snow",
+      "label": "Ludicrous snow",
+      "files": {
+        "png": {
+          "path": "downloads/ludicrous-snow.png",
+          "sha256": "74fcc37b695c08ccb30e396031a7f0fa64f0cad66df59a796b715d4f30012445",
+          "bytes": 137964
+        },
+        "native_png": {
+          "path": "assets/posters/ludicrous-snow-native.png",
+          "sha256": "37a7702b97bebe0c5c01548cb000e53f86dfc3213cae0a7a662f5f51a6e3d0e0",
+          "bytes": 72045
+        }
+      }
+    },
+    {
+      "id": "inner-tube-tourists",
+      "label": "Inner-tube tourists",
+      "files": {
+        "png": {
+          "path": "downloads/inner-tube-tourists.png",
+          "sha256": "92a1c72234e8eb6a7299078587650f1e83266b549e3a75a4dca65f6edde6cd8d",
+          "bytes": 143902
+        },
+        "native_png": {
+          "path": "assets/posters/inner-tube-tourists-native.png",
+          "sha256": "08a25a58ce05565816d391bfc8690fefdbfb8ca7f11c2fc7bb2c5466e104a15d",
+          "bytes": 94021
+        }
+      }
+    },
+    {
+      "id": "foreground-squirrel",
+      "label": "Foreground squirrel",
+      "files": {
+        "png": {
+          "path": "downloads/foreground-squirrel.png",
+          "sha256": "b9e0b7a1d7d6cb453f802d744ee10f378028d37bd7eefbe4c6b584f52683810d",
+          "bytes": 143027
+        },
+        "native_png": {
+          "path": "assets/posters/foreground-squirrel-native.png",
+          "sha256": "9096e26622f2a817cb07cea876c290ad4b9360be02ec4caca4430c5d555ef23a",
+          "bytes": 73683
+        }
+      }
+    },
+    {
+      "id": "peeking-bear",
+      "label": "Peeking bear",
+      "files": {
+        "png": {
+          "path": "downloads/peeking-bear.png",
+          "sha256": "9ccadd74ddeb69ad8a6486ff71d710ad29133a9df48483d0c3587e266ac75be3",
+          "bytes": 144849
+        },
+        "native_png": {
+          "path": "assets/posters/peeking-bear-native.png",
+          "sha256": "fe1fe1a9efaf5eb16e354fa76c9b634773b54d06dd228c7081237a5d74bf450a",
+          "bytes": 75325
         }
       }
     }
