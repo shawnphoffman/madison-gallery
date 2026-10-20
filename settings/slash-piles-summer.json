@@ -1,0 +1,31 @@
+{
+  "id": "slash-piles-summer",
+  "label": "Slash piles, summer",
+  "group": "Slash piles",
+  "channels": {
+    "pollen": 1
+  },
+  "note": "Same five-pile clearing and locked camera. Sparse drifting pollen.",
+  "wind_mode": "calm",
+  "theme_id": "slash-piles",
+  "review_status": "approved",
+  "static_only": false,
+  "comparison_reference": "slash-piles-winter-burning",
+  "gif_size": [
+    1920,
+    1080
+  ],
+  "native_size": [
+    320,
+    180
+  ],
+  "hd_png_size": [
+    1920,
+    1080
+  ],
+  "frames": 160,
+  "frame_duration_ms": 50,
+  "duration_ms": 8000,
+  "loop": 0,
+  "clouds": "static"
+}

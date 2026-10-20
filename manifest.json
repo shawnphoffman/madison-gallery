@@ -1,6 +1,6 @@
 {
   "release": "v3",
-  "count": 57,
+  "count": 60,
   "native_size": [
     320,
     180
@@ -1033,11 +1033,6 @@
           "sha256": "1b4401a899b5a690aa5608b88d5da40ef0ed74448ff372de4c73d61d56368a46",
           "bytes": 143175
         },
-        "preview": {
-          "path": "downloads/madison-bg-base-day-branch-flex-study-v3-native.gif",
-          "sha256": "9193371d4ae463ed5c582785159a4a4fc5939e8661c137dcd5f6922768da3fcd",
-          "bytes": 3390500
-        },
         "native_png": {
           "path": "assets/posters/base-day-branch-flex-study-native.png",
           "sha256": "aed10540235630624de711fe0ca605652418dadf0787c2e337461d3c0e4cd91d",
@@ -1053,11 +1048,6 @@
           "path": "downloads/madison-bg-rain-heavy-branch-flex-study-v3.png",
           "sha256": "40f798f4eb5d706e6f533db75802c4bea37e923d30973a296aebe981fbcf4ab6",
           "bytes": 134631
-        },
-        "preview": {
-          "path": "downloads/madison-bg-rain-heavy-branch-flex-study-v3-native.gif",
-          "sha256": "435d7803f032d60b26e105584fcccd85afa4805207a487cd3b59dc58e497f3ce",
-          "bytes": 4954593
         },
         "native_png": {
           "path": "assets/posters/rain-heavy-branch-flex-study-native.png",
@@ -1079,6 +1069,64 @@
           "path": "assets/posters/rain-heavy-block-reference-native.png",
           "sha256": "d0a4249ddc6a5694838ad249d72b894d45818c9896170fe4d775cc894fd07597",
           "bytes": 70173
+        }
+      }
+    },
+    {
+      "id": "slash-piles-summer",
+      "label": "Slash piles, summer",
+      "files": {
+        "png": {
+          "path": "downloads/slash-piles-summer.png",
+          "sha256": "359d85c9cfe3d595cf92766dc50a1642be7892fafcfa83fbd1cd330a4996d7c6",
+          "bytes": 177868
+        },
+        "native_png": {
+          "path": "assets/posters/slash-piles-summer-native.png",
+          "sha256": "bbfdc8efcd67e6fdbc30f0e2ff2c916fa7b4cc54be7da33302bd1bad15d676bb",
+          "bytes": 93583
+        },
+        "gif": {
+          "path": "downloads/slash-piles-summer.gif",
+          "sha256": "704fdd47eda46554e26f4b3f5e76d0848ead92c05160b3a8cb1ed9d4b9f55ce5",
+          "bytes": 711220
+        }
+      }
+    },
+    {
+      "id": "slash-piles-winter-unlit",
+      "label": "Slash piles, winter unlit",
+      "files": {
+        "png": {
+          "path": "downloads/slash-piles-winter-unlit.png",
+          "sha256": "875d54ba38e55499872062be81b6b6471e2dd5b4380046ff7e2df0b7d5bb8df4",
+          "bytes": 195673
+        },
+        "native_png": {
+          "path": "assets/posters/slash-piles-winter-unlit-native.png",
+          "sha256": "0464c6a42064dccb58036e470c2f255a808100fa928ddca5ae40aa03ea7ace2c",
+          "bytes": 105881
+        }
+      }
+    },
+    {
+      "id": "slash-piles-winter-burning",
+      "label": "Slash piles, winter burning",
+      "files": {
+        "png": {
+          "path": "downloads/slash-piles-winter-burning.png",
+          "sha256": "f6b1291a51aa7ecd9fc0ba3b7e6f83644e5794115228853c94abf98e33b0ec70",
+          "bytes": 197468
+        },
+        "native_png": {
+          "path": "assets/posters/slash-piles-winter-burning-native.png",
+          "sha256": "95a21b55dd2c5a825b31e619028493e11539d27321cf9c939aaa8a9768a0d7ea",
+          "bytes": 111879
+        },
+        "gif": {
+          "path": "downloads/slash-piles-winter-burning.gif",
+          "sha256": "59a26229d7db701e648ec590a08cc376fd3ebfec05b6005996e03fbf53a6b3dc",
+          "bytes": 1369524
         }
       }
     }
