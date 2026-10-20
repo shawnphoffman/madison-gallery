@@ -1,10 +1,10 @@
 {
   "release": "v3",
-  "count": 78,
-  "background_scenes": 25,
+  "count": 90,
+  "background_scenes": 29,
   "extras": 3,
-  "images": 78,
-  "animations": 75,
+  "images": 90,
+  "animations": 87,
   "native_size": [
     320,
     180
@@ -535,6 +535,90 @@
       }
     },
     {
+      "id": "dawn-calm",
+      "label": "Dawn - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-dawn-calm-v3.png",
+          "sha256": "34d37c1f2affe2e221d880606d67ad0fe3307375dcbc5a33a801b394ddbc800f",
+          "bytes": 126572
+        },
+        "preview": {
+          "path": "downloads/madison-bg-dawn-calm-v3-native.gif",
+          "sha256": "618579a4c0cdad74a03a6e4ed7f449af0fd725f9db770d98f5fc70c9bf9f2606",
+          "bytes": 89503
+        },
+        "native_png": {
+          "path": "assets/posters/dawn-calm-native.png",
+          "sha256": "971e733e57ee512c3677c7c3fd649bd2a6bf60fbc9c9c221f27f31a84e9cc9c8",
+          "bytes": 66485
+        }
+      }
+    },
+    {
+      "id": "sunrise-calm",
+      "label": "Sunrise - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-sunrise-calm-v3.png",
+          "sha256": "3fc822d7b2599ffca4840087e4d3acd5bbf6c2f18a454f683f61b81a199ce011",
+          "bytes": 131770
+        },
+        "preview": {
+          "path": "downloads/madison-bg-sunrise-calm-v3-native.gif",
+          "sha256": "4f4561acb10900e5483ea4aa5e52179d40c1e9bc86df564960704434caa88760",
+          "bytes": 90440
+        },
+        "native_png": {
+          "path": "assets/posters/sunrise-calm-native.png",
+          "sha256": "ad4cafffc35e57a5b33093a7c5ff742f06130414f81ac0dad763eeab684dc2b6",
+          "bytes": 67222
+        }
+      }
+    },
+    {
+      "id": "sunset-calm",
+      "label": "Sunset - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-sunset-calm-v3.png",
+          "sha256": "0c0ea7f810a2b1ee5c85aae612fdec6964eb820db589da0f32c8f7bf8b4cfc34",
+          "bytes": 130472
+        },
+        "preview": {
+          "path": "downloads/madison-bg-sunset-calm-v3-native.gif",
+          "sha256": "8c4c9b23057d54b1f84bac420e4345500edf773ce6c99ad85cf9aef64f629f17",
+          "bytes": 90319
+        },
+        "native_png": {
+          "path": "assets/posters/sunset-calm-native.png",
+          "sha256": "26a1261d0a10657db769fa3cd25c81f6f172af6d8fc214226ffe08cdb1ec9f8a",
+          "bytes": 66772
+        }
+      }
+    },
+    {
+      "id": "dusk-calm",
+      "label": "Dusk - windless",
+      "files": {
+        "png": {
+          "path": "downloads/madison-bg-dusk-calm-v3.png",
+          "sha256": "63efddb1fc5fa38ca10c49314754391d97c19e48f9f66354500b9a6ee55af6b1",
+          "bytes": 119133
+        },
+        "preview": {
+          "path": "downloads/madison-bg-dusk-calm-v3-native.gif",
+          "sha256": "f1fab2b142d4ce2e289776cc15c19c889f600614244ce4b2837e48b7dec57bbc",
+          "bytes": 86579
+        },
+        "native_png": {
+          "path": "assets/posters/dusk-calm-native.png",
+          "sha256": "57d320b636ef3f02748c4953b8283d0b1e15345c0c0754fcc4be6bec2b6d5259",
+          "bytes": 64164
+        }
+      }
+    },
+    {
       "id": "slash-piles-summer",
       "label": "Slash piles, summer",
       "files": {
@@ -602,7 +686,7 @@
           "bytes": 143804
         },
         "native_png": {
-          "path": "assets/posters/base-day-breeze-native.png",
+          "path": "downloads/base-day-breeze.png",
           "sha256": "9ff499bb8e85554cd81721b818af327618b37b46156a50637efbd6bc933f7586",
           "bytes": 143804
         },
@@ -623,7 +707,7 @@
           "bytes": 147342
         },
         "native_png": {
-          "path": "assets/posters/base-day-gust-native.png",
+          "path": "downloads/base-day-gust.png",
           "sha256": "867be2464bc64434b85112cc87a3585b5b3fa50e6d3d5636d742c47c32593636",
           "bytes": 147342
         },
@@ -644,7 +728,7 @@
           "bytes": 145911
         },
         "native_png": {
-          "path": "assets/posters/spring-day-breeze-native.png",
+          "path": "downloads/spring-day-breeze.png",
           "sha256": "0df054ccf3b0508cee0621b62b0928ae53590a62f4ed2fabb8cb247b71b39fde",
           "bytes": 145911
         },
@@ -665,7 +749,7 @@
           "bytes": 149515
         },
         "native_png": {
-          "path": "assets/posters/spring-day-gust-native.png",
+          "path": "downloads/spring-day-gust.png",
           "sha256": "670a68b2f5828ce3669a204144c73479bdc8959419d815673711c485983089b7",
           "bytes": 149515
         },
@@ -686,7 +770,7 @@
           "bytes": 138562
         },
         "native_png": {
-          "path": "assets/posters/summer-day-breeze-native.png",
+          "path": "downloads/summer-day-breeze.png",
           "sha256": "5c3b80973d203a5c5503a0552d94fd3562a78ef4ea9c46fed30e2f51170d8092",
           "bytes": 138562
         },
@@ -707,7 +791,7 @@
           "bytes": 142205
         },
         "native_png": {
-          "path": "assets/posters/summer-day-gust-native.png",
+          "path": "downloads/summer-day-gust.png",
           "sha256": "1425eb51e307f42a29366794cdb1922c304320d341bb46c6cc8c3b546ce95b0e",
           "bytes": 142205
         },
@@ -728,7 +812,7 @@
           "bytes": 137693
         },
         "native_png": {
-          "path": "assets/posters/autumn-day-breeze-native.png",
+          "path": "downloads/autumn-day-breeze.png",
           "sha256": "2ab770b28d6288b9900c2d0be89a303cf76dcd33d62dc25b0089f072ac5ae9cf",
           "bytes": 137693
         },
@@ -749,7 +833,7 @@
           "bytes": 141056
         },
         "native_png": {
-          "path": "assets/posters/autumn-day-gust-native.png",
+          "path": "downloads/autumn-day-gust.png",
           "sha256": "2b1e110e616ec4f1a578f82221c8a7be97075507ba380ae23a91d0642d3e5cec",
           "bytes": 141056
         },
@@ -770,7 +854,7 @@
           "bytes": 137777
         },
         "native_png": {
-          "path": "assets/posters/autumn-leaves-day-breeze-native.png",
+          "path": "downloads/autumn-leaves-day-breeze.png",
           "sha256": "fa25ddaacb85049643dd007d2f50f7d8eeb5573a4067e6a8843b88b615ee192a",
           "bytes": 137777
         },
@@ -791,7 +875,7 @@
           "bytes": 141221
         },
         "native_png": {
-          "path": "assets/posters/autumn-leaves-day-gust-native.png",
+          "path": "downloads/autumn-leaves-day-gust.png",
           "sha256": "a28f09e4c2cf97cd53ed722045af6836e5152502285ddfd9effab1af3462906b",
           "bytes": 141221
         },
@@ -812,7 +896,7 @@
           "bytes": 154051
         },
         "native_png": {
-          "path": "assets/posters/winter-day-breeze-native.png",
+          "path": "downloads/winter-day-breeze.png",
           "sha256": "6bd327262671f3164261803f60b5228d62d8a0ae1648254b1823ff9e020a1071",
           "bytes": 154051
         },
@@ -833,7 +917,7 @@
           "bytes": 157313
         },
         "native_png": {
-          "path": "assets/posters/winter-day-gust-native.png",
+          "path": "downloads/winter-day-gust.png",
           "sha256": "75909aad1cb4666706ca6db3b6e8daa92ee5eb4c72950c42844a5fa2f3c0a048",
           "bytes": 157313
         },
@@ -854,7 +938,7 @@
           "bytes": 106215
         },
         "native_png": {
-          "path": "assets/posters/clear-night-breeze-native.png",
+          "path": "downloads/clear-night-breeze.png",
           "sha256": "e2de5a497980088b1295a34170954594c80aecf5b25ecf08af4010f056a79e16",
           "bytes": 106215
         },
@@ -875,7 +959,7 @@
           "bytes": 109618
         },
         "native_png": {
-          "path": "assets/posters/clear-night-gust-native.png",
+          "path": "downloads/clear-night-gust.png",
           "sha256": "7b3b32f9ec0f89e6073d91c98f3e787dcb63832af5ed6fdf5c563155d231926e",
           "bytes": 109618
         },
@@ -896,7 +980,7 @@
           "bytes": 131820
         },
         "native_png": {
-          "path": "assets/posters/rain-steady-day-breeze-native.png",
+          "path": "downloads/rain-steady-day-breeze.png",
           "sha256": "204f2e2147dda76ef6bb55177cdf5dba9483499d4180319e2ac4f01522e93638",
           "bytes": 131820
         },
@@ -917,7 +1001,7 @@
           "bytes": 136301
         },
         "native_png": {
-          "path": "assets/posters/rain-steady-day-gust-native.png",
+          "path": "downloads/rain-steady-day-gust.png",
           "sha256": "34579c8c34e63753fdfbb0836879d567c4c56b987bb62c383ae04143c599dc18",
           "bytes": 136301
         },
@@ -938,7 +1022,7 @@
           "bytes": 135034
         },
         "native_png": {
-          "path": "assets/posters/rain-heavy-day-breeze-native.png",
+          "path": "downloads/rain-heavy-day-breeze.png",
           "sha256": "6ebf31681c40288bf079bdfdbb5318865b519650c5e3d8f979bbe1888bbb5b57",
           "bytes": 135034
         },
@@ -959,7 +1043,7 @@
           "bytes": 139465
         },
         "native_png": {
-          "path": "assets/posters/rain-heavy-day-gust-native.png",
+          "path": "downloads/rain-heavy-day-gust.png",
           "sha256": "d9f5451ddbe2811480a5cf4a9590d446f9c5c98fc358f26b9925e4dd5e1721af",
           "bytes": 139465
         },
@@ -980,7 +1064,7 @@
           "bytes": 146396
         },
         "native_png": {
-          "path": "assets/posters/snow-gentle-day-breeze-native.png",
+          "path": "downloads/snow-gentle-day-breeze.png",
           "sha256": "15fdbcbcd736b334a78558af6a440733efba2c6ca1b1e9b8f894ced73d873d46",
           "bytes": 146396
         },
@@ -1001,7 +1085,7 @@
           "bytes": 149946
         },
         "native_png": {
-          "path": "assets/posters/snow-gentle-day-gust-native.png",
+          "path": "downloads/snow-gentle-day-gust.png",
           "sha256": "ac5d98d52ae828a06c757ab001141837ddd1a7469bf719cb7cb51c05ad86328a",
           "bytes": 149946
         },
@@ -1022,7 +1106,7 @@
           "bytes": 158431
         },
         "native_png": {
-          "path": "assets/posters/snow-fuller-day-breeze-native.png",
+          "path": "downloads/snow-fuller-day-breeze.png",
           "sha256": "8a22971a57d16724ea8d0dc2b5344cc2e3e9ec2bf66d173cf3beef8653a00399",
           "bytes": 158431
         },
@@ -1043,7 +1127,7 @@
           "bytes": 162883
         },
         "native_png": {
-          "path": "assets/posters/snow-fuller-day-gust-native.png",
+          "path": "downloads/snow-fuller-day-gust.png",
           "sha256": "bdce437cb7fde6010b29d6585c141b3e9a928a19fef7c52f82a76656f805ce8a",
           "bytes": 162883
         },
@@ -1064,7 +1148,7 @@
           "bytes": 164750
         },
         "native_png": {
-          "path": "assets/posters/snow-intense-day-breeze-native.png",
+          "path": "downloads/snow-intense-day-breeze.png",
           "sha256": "057e8506607971cf55d621a9d3821b01798aba9bf1dc0f602acc7e40e8265d6c",
           "bytes": 164750
         },
@@ -1085,7 +1169,7 @@
           "bytes": 169660
         },
         "native_png": {
-          "path": "assets/posters/snow-intense-day-gust-native.png",
+          "path": "downloads/snow-intense-day-gust.png",
           "sha256": "5d78c229ecefe4a6452d943c0cca80a2d9236ea4e5674cdf47357a31ea5c5ae0",
           "bytes": 169660
         },
@@ -1106,7 +1190,7 @@
           "bytes": 156922
         },
         "native_png": {
-          "path": "assets/posters/fog-light-day-breeze-native.png",
+          "path": "downloads/fog-light-day-breeze.png",
           "sha256": "260c9a7ec49120db6ec28e5ee7e401c5e0e4d615b28ff94c82f5fef71ea8a7d6",
           "bytes": 156922
         },
@@ -1127,7 +1211,7 @@
           "bytes": 160866
         },
         "native_png": {
-          "path": "assets/posters/fog-light-day-gust-native.png",
+          "path": "downloads/fog-light-day-gust.png",
           "sha256": "46a5fa9cd1970b8b7178e8ec20df9c82ddbfe2d049b68432051c9fd8e70bc1b9",
           "bytes": 160866
         },
@@ -1148,7 +1232,7 @@
           "bytes": 156129
         },
         "native_png": {
-          "path": "assets/posters/fog-dense-day-breeze-native.png",
+          "path": "downloads/fog-dense-day-breeze.png",
           "sha256": "1ca647995c63208a3d0e79fa13f4ef6f2732a5c698381032fb6d1dd1b017113f",
           "bytes": 156129
         },
@@ -1169,7 +1253,7 @@
           "bytes": 159536
         },
         "native_png": {
-          "path": "assets/posters/fog-dense-day-gust-native.png",
+          "path": "downloads/fog-dense-day-gust.png",
           "sha256": "ffdb275c62344bf165c15028cb0b8091465815a68727b2316326942fe1350d82",
           "bytes": 159536
         },
@@ -1190,7 +1274,7 @@
           "bytes": 131820
         },
         "native_png": {
-          "path": "assets/posters/lightning-distant-day-breeze-native.png",
+          "path": "downloads/lightning-distant-day-breeze.png",
           "sha256": "204f2e2147dda76ef6bb55177cdf5dba9483499d4180319e2ac4f01522e93638",
           "bytes": 131820
         },
@@ -1211,7 +1295,7 @@
           "bytes": 136301
         },
         "native_png": {
-          "path": "assets/posters/lightning-distant-day-gust-native.png",
+          "path": "downloads/lightning-distant-day-gust.png",
           "sha256": "34579c8c34e63753fdfbb0836879d567c4c56b987bb62c383ae04143c599dc18",
           "bytes": 136301
         },
@@ -1232,7 +1316,7 @@
           "bytes": 131820
         },
         "native_png": {
-          "path": "assets/posters/lightning-active-day-breeze-native.png",
+          "path": "downloads/lightning-active-day-breeze.png",
           "sha256": "204f2e2147dda76ef6bb55177cdf5dba9483499d4180319e2ac4f01522e93638",
           "bytes": 131820
         },
@@ -1253,7 +1337,7 @@
           "bytes": 136301
         },
         "native_png": {
-          "path": "assets/posters/lightning-active-day-gust-native.png",
+          "path": "downloads/lightning-active-day-gust.png",
           "sha256": "34579c8c34e63753fdfbb0836879d567c4c56b987bb62c383ae04143c599dc18",
           "bytes": 136301
         },
@@ -1274,7 +1358,7 @@
           "bytes": 106291
         },
         "native_png": {
-          "path": "assets/posters/meteor-subtle-night-breeze-native.png",
+          "path": "downloads/meteor-subtle-night-breeze.png",
           "sha256": "9949fb5559dcb3fb4cfa9fa52a6a8bbe6bd53fcaa4bc5765d892d690e8f49a74",
           "bytes": 106291
         },
@@ -1295,7 +1379,7 @@
           "bytes": 109618
         },
         "native_png": {
-          "path": "assets/posters/meteor-subtle-night-gust-native.png",
+          "path": "downloads/meteor-subtle-night-gust.png",
           "sha256": "7b3b32f9ec0f89e6073d91c98f3e787dcb63832af5ed6fdf5c563155d231926e",
           "bytes": 109618
         },
@@ -1316,7 +1400,7 @@
           "bytes": 106283
         },
         "native_png": {
-          "path": "assets/posters/meteor-bright-night-breeze-native.png",
+          "path": "downloads/meteor-bright-night-breeze.png",
           "sha256": "91876c4f74972caabfdb692f597bb5449ac8a84bc292e17e5bfbe81eafcd8b27",
           "bytes": 106283
         },
@@ -1337,7 +1421,7 @@
           "bytes": 109618
         },
         "native_png": {
-          "path": "assets/posters/meteor-bright-night-gust-native.png",
+          "path": "downloads/meteor-bright-night-gust.png",
           "sha256": "7b3b32f9ec0f89e6073d91c98f3e787dcb63832af5ed6fdf5c563155d231926e",
           "bytes": 109618
         },
@@ -1358,7 +1442,7 @@
           "bytes": 141683
         },
         "native_png": {
-          "path": "assets/posters/drought-day-breeze-native.png",
+          "path": "downloads/drought-day-breeze.png",
           "sha256": "2d96a96e29d269ae7c0b0bd561cbfe92e1d0796f90370f138bdd6f2d0a31d42c",
           "bytes": 141683
         },
@@ -1379,7 +1463,7 @@
           "bytes": 144862
         },
         "native_png": {
-          "path": "assets/posters/drought-day-gust-native.png",
+          "path": "downloads/drought-day-gust.png",
           "sha256": "95142bf49e1f05f97e29a8b0aaa179ef023afdf26c70c69bfbefb4c2771a1f7f",
           "bytes": 144862
         },
@@ -1400,7 +1484,7 @@
           "bytes": 112562
         },
         "native_png": {
-          "path": "assets/posters/rain-night-breeze-native.png",
+          "path": "downloads/rain-night-breeze.png",
           "sha256": "253bc119b1f9db4487adacead38c957e6e870713dcdf9d9de7a7def003dbd83a",
           "bytes": 112562
         },
@@ -1421,7 +1505,7 @@
           "bytes": 116598
         },
         "native_png": {
-          "path": "assets/posters/rain-night-gust-native.png",
+          "path": "downloads/rain-night-gust.png",
           "sha256": "2c98cf0c3d7b0bbe6059a50c7622fcb41a722c06152a83a6f7eeefaaa4bee4ed",
           "bytes": 116598
         },
@@ -1442,7 +1526,7 @@
           "bytes": 117384
         },
         "native_png": {
-          "path": "assets/posters/thunderstorm-night-breeze-native.png",
+          "path": "downloads/thunderstorm-night-breeze.png",
           "sha256": "47e6b04ba8b590eab31c8ff81deaaba92ddfdfed6313652ce9883f80e09d9439",
           "bytes": 117384
         },
@@ -1463,7 +1547,7 @@
           "bytes": 121216
         },
         "native_png": {
-          "path": "assets/posters/thunderstorm-night-gust-native.png",
+          "path": "downloads/thunderstorm-night-gust.png",
           "sha256": "af374d4fe1fd9e35e71cb04cb76103f8cf747200b21589c1d1bef40f8bc18b74",
           "bytes": 121216
         },
@@ -1484,7 +1568,7 @@
           "bytes": 128531
         },
         "native_png": {
-          "path": "assets/posters/fog-night-breeze-native.png",
+          "path": "downloads/fog-night-breeze.png",
           "sha256": "9d24bcc937264037a67e8de927c3f525ec62345b48787c27aa0a85acf0bb2f7f",
           "bytes": 128531
         },
@@ -1505,7 +1589,7 @@
           "bytes": 131640
         },
         "native_png": {
-          "path": "assets/posters/fog-night-gust-native.png",
+          "path": "downloads/fog-night-gust.png",
           "sha256": "174566e7cb952c492d50092db97468f2ca00c1d6b078673dba6bb4b3ff716a2a",
           "bytes": 131640
         },
@@ -1526,7 +1610,7 @@
           "bytes": 130863
         },
         "native_png": {
-          "path": "assets/posters/snow-night-breeze-native.png",
+          "path": "downloads/snow-night-breeze.png",
           "sha256": "0ebaf0aca68138f8a679b96862206d1ce9c08889d6ca0f703fa2e471001a3061",
           "bytes": 130863
         },
@@ -1547,7 +1631,7 @@
           "bytes": 134558
         },
         "native_png": {
-          "path": "assets/posters/snow-night-gust-native.png",
+          "path": "downloads/snow-night-gust.png",
           "sha256": "5f9b9520c1321c0eb74958a8a7c5daad2c91d637de79f56cd1fc6bf536b8871b",
           "bytes": 134558
         },
@@ -1568,7 +1652,7 @@
           "bytes": 148879
         },
         "native_png": {
-          "path": "assets/posters/wildfire-medium-day-breeze-native.png",
+          "path": "downloads/wildfire-medium-day-breeze.png",
           "sha256": "c8640872581747d60d99b1e7fe0fbe77e6409f29c6f445f70656b2650194f5de",
           "bytes": 148879
         },
@@ -1589,7 +1673,7 @@
           "bytes": 152248
         },
         "native_png": {
-          "path": "assets/posters/wildfire-medium-day-gust-native.png",
+          "path": "downloads/wildfire-medium-day-gust.png",
           "sha256": "e246a956ca30c6587b15ec14a4dbdcd48009e1b08ad0be4174a1d19d4ef3e1df",
           "bytes": 152248
         },
@@ -1610,7 +1694,7 @@
           "bytes": 148751
         },
         "native_png": {
-          "path": "assets/posters/wildfire-intense-day-breeze-native.png",
+          "path": "downloads/wildfire-intense-day-breeze.png",
           "sha256": "4173b43124e55e7417cbfea3262632059e3b8305969e17c37f430ae0e7945e1c",
           "bytes": 148751
         },
@@ -1631,7 +1715,7 @@
           "bytes": 152142
         },
         "native_png": {
-          "path": "assets/posters/wildfire-intense-day-gust-native.png",
+          "path": "downloads/wildfire-intense-day-gust.png",
           "sha256": "76e40604c77acfb6d12d8303626c8d159d93cd17d62a13ff7b44056db89b891c",
           "bytes": 152142
         },
@@ -1639,6 +1723,174 @@
           "path": "downloads/wildfire-intense-day-gust.gif",
           "sha256": "27640d7a1adc8e12b614fac9443ed26eaff34d3d9845de6a9836201b3c8ad46e",
           "bytes": 2957676
+        }
+      }
+    },
+    {
+      "id": "dawn-breeze",
+      "label": "Dawn, gentle breeze",
+      "files": {
+        "png": {
+          "path": "downloads/dawn-breeze.png",
+          "sha256": "a2bf41fddcc5d69ba3ace55d1a4ed09755fe10ff11eadfec3a818b8c80c9334a",
+          "bytes": 127295
+        },
+        "native_png": {
+          "path": "downloads/dawn-breeze.png",
+          "sha256": "a2bf41fddcc5d69ba3ace55d1a4ed09755fe10ff11eadfec3a818b8c80c9334a",
+          "bytes": 127295
+        },
+        "gif": {
+          "path": "downloads/dawn-breeze.gif",
+          "sha256": "919a77e76d2cfcbb8f23f79682ae5e1f24fd26e195cbe7cd8a04082ea8010e3b",
+          "bytes": 1109474
+        }
+      }
+    },
+    {
+      "id": "dawn-gust",
+      "label": "Dawn, gust",
+      "files": {
+        "png": {
+          "path": "downloads/dawn-gust.png",
+          "sha256": "d4af9ddda34adf531e0fe868526ed6542a58b1a34cc0697201da72a431855a56",
+          "bytes": 131059
+        },
+        "native_png": {
+          "path": "downloads/dawn-gust.png",
+          "sha256": "d4af9ddda34adf531e0fe868526ed6542a58b1a34cc0697201da72a431855a56",
+          "bytes": 131059
+        },
+        "gif": {
+          "path": "downloads/dawn-gust.gif",
+          "sha256": "ff42d0339827cb5bafe26d0c8aaaadace237d958deccfb0d5029cff2a9c8e03a",
+          "bytes": 1641910
+        }
+      }
+    },
+    {
+      "id": "sunrise-breeze",
+      "label": "Sunrise, gentle breeze",
+      "files": {
+        "png": {
+          "path": "downloads/sunrise-breeze.png",
+          "sha256": "f9fc334b63157ba1b6c9607d0060540c3dd6fb7a2e6298e639a5373279a5ac59",
+          "bytes": 132411
+        },
+        "native_png": {
+          "path": "downloads/sunrise-breeze.png",
+          "sha256": "f9fc334b63157ba1b6c9607d0060540c3dd6fb7a2e6298e639a5373279a5ac59",
+          "bytes": 132411
+        },
+        "gif": {
+          "path": "downloads/sunrise-breeze.gif",
+          "sha256": "54f4c7eb1e65f256c0c64e40239f55f8ed708c67fed60c2ab7d1c3a4cdfd12fb",
+          "bytes": 1132121
+        }
+      }
+    },
+    {
+      "id": "sunrise-gust",
+      "label": "Sunrise, gust",
+      "files": {
+        "png": {
+          "path": "downloads/sunrise-gust.png",
+          "sha256": "64d917549f28d044d2cbeeeff39db1dea245f70076e3bdb67d99c9b2f1622ddb",
+          "bytes": 136024
+        },
+        "native_png": {
+          "path": "downloads/sunrise-gust.png",
+          "sha256": "64d917549f28d044d2cbeeeff39db1dea245f70076e3bdb67d99c9b2f1622ddb",
+          "bytes": 136024
+        },
+        "gif": {
+          "path": "downloads/sunrise-gust.gif",
+          "sha256": "a20f25e305dcbd67fddd7aadc73c8e4930523de3e3bcdb1a2d654c60da437df7",
+          "bytes": 1671012
+        }
+      }
+    },
+    {
+      "id": "sunset-breeze",
+      "label": "Sunset, gentle breeze",
+      "files": {
+        "png": {
+          "path": "downloads/sunset-breeze.png",
+          "sha256": "eb2671da72d929845a0069c3c6c4d6fdc23cd510d5406f755113c0309baee524",
+          "bytes": 131123
+        },
+        "native_png": {
+          "path": "downloads/sunset-breeze.png",
+          "sha256": "eb2671da72d929845a0069c3c6c4d6fdc23cd510d5406f755113c0309baee524",
+          "bytes": 131123
+        },
+        "gif": {
+          "path": "downloads/sunset-breeze.gif",
+          "sha256": "9f0c11bec54dba91487fe0795b4a35f62ab1a66daed0824fd9beca716f1603a2",
+          "bytes": 1128709
+        }
+      }
+    },
+    {
+      "id": "sunset-gust",
+      "label": "Sunset, gust",
+      "files": {
+        "png": {
+          "path": "downloads/sunset-gust.png",
+          "sha256": "6ceba12afa53abae24df0d1c62c13726349585639a4596f6e22e045c664a5606",
+          "bytes": 134879
+        },
+        "native_png": {
+          "path": "downloads/sunset-gust.png",
+          "sha256": "6ceba12afa53abae24df0d1c62c13726349585639a4596f6e22e045c664a5606",
+          "bytes": 134879
+        },
+        "gif": {
+          "path": "downloads/sunset-gust.gif",
+          "sha256": "3821939c0019e797ff53ee9cd477f3255bcf315ce4cf148605c72f4c131befe8",
+          "bytes": 1668420
+        }
+      }
+    },
+    {
+      "id": "dusk-breeze",
+      "label": "Dusk, gentle breeze",
+      "files": {
+        "png": {
+          "path": "downloads/dusk-breeze.png",
+          "sha256": "adbedfed5e4d147a6f4d7e4b124531e7e31aa6ff71741f74faa73993a2640720",
+          "bytes": 119765
+        },
+        "native_png": {
+          "path": "downloads/dusk-breeze.png",
+          "sha256": "adbedfed5e4d147a6f4d7e4b124531e7e31aa6ff71741f74faa73993a2640720",
+          "bytes": 119765
+        },
+        "gif": {
+          "path": "downloads/dusk-breeze.gif",
+          "sha256": "b933936507eb65bfbd32e4f39ba83785f61cb758c4255af568c599b46f160a7b",
+          "bytes": 1043120
+        }
+      }
+    },
+    {
+      "id": "dusk-gust",
+      "label": "Dusk, gust",
+      "files": {
+        "png": {
+          "path": "downloads/dusk-gust.png",
+          "sha256": "4b6fe14685a92b9b5e35c676bf989b93e2b633859aa6eff96d3b09703fe36a5c",
+          "bytes": 123035
+        },
+        "native_png": {
+          "path": "downloads/dusk-gust.png",
+          "sha256": "4b6fe14685a92b9b5e35c676bf989b93e2b633859aa6eff96d3b09703fe36a5c",
+          "bytes": 123035
+        },
+        "gif": {
+          "path": "downloads/dusk-gust.gif",
+          "sha256": "1b125118c740f7e5653236a64df6751efe77cf4a0af5c3e3d152270879cff031",
+          "bytes": 1544697
         }
       }
     }
