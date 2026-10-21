@@ -13,9 +13,9 @@
     1920,
     1080
   ],
-  "gif_size": [
-    320,
-    180
+  "animation_size": [
+    1920,
+    1080
   ],
   "duration_ms": 8000,
   "assets": [
@@ -29,9 +29,9 @@
           "bytes": 143073
         },
         "preview": {
-          "path": "downloads/madison-bg-base-day-calm-v3-native.webp",
-          "sha256": "9ecab5067caef814d3dc9912376d4a42747d7b2e334db0838aeb5b8e804b98bf",
-          "bytes": 95014
+          "path": "downloads/madison-bg-base-day-calm-v3-hd.webp",
+          "sha256": "29968a9b06212105be9bc78b5639c584b9ad6f621e8dedcb994873665da429e8",
+          "bytes": 155196
         },
         "native_png": {
           "path": "assets/posters/base-day-calm-native.png",
@@ -50,9 +50,9 @@
           "bytes": 145104
         },
         "preview": {
-          "path": "downloads/madison-bg-spring-day-calm-v3-native.webp",
-          "sha256": "d0747134a3f0ed5fdef586b351cd347425374ea63b0b8d52483788a1ab4658e9",
-          "bytes": 95410
+          "path": "downloads/madison-bg-spring-day-calm-v3-hd.webp",
+          "sha256": "bd9caab419f6a0b685e2d2ff220434b681597994db5608ca52de75bba4cb65af",
+          "bytes": 155732
         },
         "native_png": {
           "path": "assets/posters/spring-day-calm-native.png",
@@ -71,9 +71,9 @@
           "bytes": 137822
         },
         "preview": {
-          "path": "downloads/madison-bg-summer-day-calm-v3-native.webp",
-          "sha256": "4a83e623d713227764f175da6fe868cdffc435d0df1ad5a2aee755adb04ddd3f",
-          "bytes": 91368
+          "path": "downloads/madison-bg-summer-day-calm-v3-hd.webp",
+          "sha256": "a6a16cfc66bcb8e2def5c9a7674e6720454e5287428cdeb66215b6b0cf7fdd78",
+          "bytes": 148852
         },
         "native_png": {
           "path": "assets/posters/summer-day-calm-native.png",
@@ -92,9 +92,9 @@
           "bytes": 136967
         },
         "preview": {
-          "path": "downloads/madison-bg-autumn-day-calm-v3-native.webp",
-          "sha256": "3efaa3367622e5a709a193e7c3d98e4befb4af4838c91a6c1a4a1b80b4116070",
-          "bytes": 87670
+          "path": "downloads/madison-bg-autumn-day-calm-v3-hd.webp",
+          "sha256": "5433a9f44d3bf8b2951ae9000c33c88cbf84963f924bd160efb6102430441025",
+          "bytes": 143712
         },
         "native_png": {
           "path": "assets/posters/autumn-day-calm-native.png",
@@ -113,9 +113,9 @@
           "bytes": 137102
         },
         "preview": {
-          "path": "downloads/madison-bg-autumn-leaves-day-calm-v3-native.webp",
-          "sha256": "8d180eb79d21e97c91bab145bdb6a21c5403ab5667a256469b6b1eca6f5e0a92",
-          "bytes": 102340
+          "path": "downloads/madison-bg-autumn-leaves-day-calm-v3-hd.webp",
+          "sha256": "bc9698b07d465c3b55b96dcf79e2a0198568227ca814686af9ac6432c512fc29",
+          "bytes": 218838
         },
         "native_png": {
           "path": "assets/posters/autumn-leaves-day-calm-native.png",
@@ -134,9 +134,9 @@
           "bytes": 153277
         },
         "preview": {
-          "path": "downloads/madison-bg-winter-day-calm-v3-native.webp",
-          "sha256": "0bfc42b3bab95393d10fc6918fe3d6fdbfda0484596e9b0bf039ec50c199c8d8",
-          "bytes": 97194
+          "path": "downloads/madison-bg-winter-day-calm-v3-hd.webp",
+          "sha256": "b042dea4dd82b0a543c000ee9aac40bd5e143dbd2ed924933e848d1a7447c434",
+          "bytes": 159334
         },
         "native_png": {
           "path": "assets/posters/winter-day-calm-native.png",
@@ -171,9 +171,9 @@
           "bytes": 131382
         },
         "preview": {
-          "path": "downloads/madison-bg-rain-steady-day-calm-v3-native.webp",
-          "sha256": "17e541aca1430e64ccbb18f31f869e2552bf3da0782dfa197dcc586f14e5f40c",
-          "bytes": 254264
+          "path": "downloads/madison-bg-rain-steady-day-calm-v3-hd.webp",
+          "sha256": "eb320d889056bf60417d9e2fb3c9f7c2c35b69fa607b976096eda06754fddeb5",
+          "bytes": 490522
         },
         "native_png": {
           "path": "assets/posters/rain-steady-day-calm-native.png",
@@ -192,9 +192,9 @@
           "bytes": 134511
         },
         "preview": {
-          "path": "downloads/madison-bg-rain-heavy-day-calm-v3-native.webp",
-          "sha256": "9fa5970a9cae3e6f0540869849758a799b0687645c9f84df23c7679774df8135",
-          "bytes": 567234
+          "path": "downloads/madison-bg-rain-heavy-day-calm-v3-hd.webp",
+          "sha256": "ee850d785c690ab75a85969464ab701a7487ce0713db027911e686c61be2d006",
+          "bytes": 1036280
         },
         "native_png": {
           "path": "assets/posters/rain-heavy-day-calm-native.png",
@@ -213,9 +213,9 @@
           "bytes": 145616
         },
         "preview": {
-          "path": "downloads/madison-bg-snow-gentle-day-calm-v3-native.webp",
-          "sha256": "623b89ffab20a1ea66cdcff4ddec621eda08a80fb836647a6de19eac12e77efd",
-          "bytes": 203144
+          "path": "downloads/madison-bg-snow-gentle-day-calm-v3-hd.webp",
+          "sha256": "8e0ec381f18fc761eafeacef76e3d2f41b70ca83c91fba5d6ad2f4d606a53878",
+          "bytes": 413048
         },
         "native_png": {
           "path": "assets/posters/snow-gentle-day-calm-native.png",
@@ -234,9 +234,9 @@
           "bytes": 156574
         },
         "preview": {
-          "path": "downloads/madison-bg-snow-fuller-day-calm-v3-native.webp",
-          "sha256": "fd6685728a7b635dcf270bc5c000434c02ff0cf94b783bf72244f964d2c709ef",
-          "bytes": 501800
+          "path": "downloads/madison-bg-snow-fuller-day-calm-v3-hd.webp",
+          "sha256": "99a7f541c2b55f810c1ea6d0e0eafd4ebe187418698013190bdd1e5f0e7da6b4",
+          "bytes": 967748
         },
         "native_png": {
           "path": "assets/posters/snow-fuller-day-calm-native.png",
@@ -255,9 +255,9 @@
           "bytes": 162780
         },
         "preview": {
-          "path": "downloads/madison-bg-snow-intense-day-calm-v3-native.webp",
-          "sha256": "3f4e2a435fc2c453a2484dc93b4ab54febac44fe8937c9a44363165ebe90d47d",
-          "bytes": 791408
+          "path": "downloads/madison-bg-snow-intense-day-calm-v3-hd.webp",
+          "sha256": "b2fd0fea1d26e77f3d6b65c05029a9a39a898e0e00a7b6700f70bfcfac52a0b7",
+          "bytes": 1461424
         },
         "native_png": {
           "path": "assets/posters/snow-intense-day-calm-native.png",
@@ -276,9 +276,9 @@
           "bytes": 156071
         },
         "preview": {
-          "path": "downloads/madison-bg-fog-light-day-calm-v3-native.webp",
-          "sha256": "b03c2159d9f673251ab405a7b25ad910b9430c5630d11ef9be5d2eef98efd653",
-          "bytes": 112594
+          "path": "downloads/madison-bg-fog-light-day-calm-v3-hd.webp",
+          "sha256": "447d335c3bddbecb72db5f9fc5246b004fe3e240df9b1cd5d7bbe759cd8997c3",
+          "bytes": 185888
         },
         "native_png": {
           "path": "assets/posters/fog-light-day-calm-native.png",
@@ -297,9 +297,9 @@
           "bytes": 155045
         },
         "preview": {
-          "path": "downloads/madison-bg-fog-dense-day-calm-v3-native.webp",
-          "sha256": "6f94563c124300d2e851ea22c08f823dc85acd2d1fd9ddce54fa89a7148dced0",
-          "bytes": 118998
+          "path": "downloads/madison-bg-fog-dense-day-calm-v3-hd.webp",
+          "sha256": "e5299c4dd00a4b09d2224f87a5c5c6d497a1230c7317fc9cef1d62d229f7c5f2",
+          "bytes": 197462
         },
         "native_png": {
           "path": "assets/posters/fog-dense-day-calm-native.png",
@@ -318,9 +318,9 @@
           "bytes": 131382
         },
         "preview": {
-          "path": "downloads/madison-bg-lightning-distant-day-calm-v3-native.webp",
-          "sha256": "d07636f82eefabc58cafe01f4516febfecf0f6da0ca9366615a5d7c8858dffe1",
-          "bytes": 444582
+          "path": "downloads/madison-bg-lightning-distant-day-calm-v3-hd.webp",
+          "sha256": "acb0bb598d2f3ded615346ca2ff6a94d426f6269b24523319740d7d935bae735",
+          "bytes": 795328
         },
         "native_png": {
           "path": "assets/posters/lightning-distant-day-calm-native.png",
@@ -339,9 +339,9 @@
           "bytes": 131382
         },
         "preview": {
-          "path": "downloads/madison-bg-lightning-active-day-calm-v3-native.webp",
-          "sha256": "14aeee4505da4f44f0cbe040695c9551bb23ecb975d57283a89f35414f3cb0d7",
-          "bytes": 634032
+          "path": "downloads/madison-bg-lightning-active-day-calm-v3-hd.webp",
+          "sha256": "a56fff04f1d451e1659510b59608b1812ab477e5ec9c2ba2983e9ae00eb3f6d1",
+          "bytes": 1097530
         },
         "native_png": {
           "path": "assets/posters/lightning-active-day-calm-native.png",
@@ -360,7 +360,7 @@
           "bytes": 105462
         },
         "preview": {
-          "path": "downloads/madison-bg-meteor-subtle-night-calm-v3-native.webp",
+          "path": "downloads/madison-bg-meteor-subtle-night-calm-v3-hd.webp",
           "sha256": "e39a2e58ec15351da13427447969d072f1174a761fb950eccb8a0b9ec596fb7e",
           "bytes": 35586
         },
@@ -381,7 +381,7 @@
           "bytes": 105554
         },
         "preview": {
-          "path": "downloads/madison-bg-meteor-bright-night-calm-v3-native.webp",
+          "path": "downloads/madison-bg-meteor-bright-night-calm-v3-hd.webp",
           "sha256": "3956b80b2cb4177501ec6982947c95de1d09b96db075eb6c65885833aa32682b",
           "bytes": 35900
         },
@@ -418,9 +418,9 @@
           "bytes": 112352
         },
         "preview": {
-          "path": "downloads/madison-bg-rain-night-calm-v3-native.webp",
-          "sha256": "5cd17b2c2c59098a282e05472dcbb51e1977d9a9c4c6a304a3717a23926e8793",
-          "bytes": 219704
+          "path": "downloads/madison-bg-rain-night-calm-v3-hd.webp",
+          "sha256": "0c3c69389af9c69e8df4d609b19fd86e1d0f72320981ada2107ced53761aa813",
+          "bytes": 448650
         },
         "native_png": {
           "path": "assets/posters/rain-night-calm-native.png",
@@ -439,9 +439,9 @@
           "bytes": 117071
         },
         "preview": {
-          "path": "downloads/madison-bg-thunderstorm-night-calm-v3-native.webp",
-          "sha256": "0f55691a86cd4578d2101b0739a7980762c66101896b759dfda20206a2b34bd5",
-          "bytes": 777876
+          "path": "downloads/madison-bg-thunderstorm-night-calm-v3-hd.webp",
+          "sha256": "f271aad152f215763a0d64931a39aa3726a5560698a6fece925cd79a14ad26d4",
+          "bytes": 1373286
         },
         "native_png": {
           "path": "assets/posters/thunderstorm-night-calm-native.png",
@@ -460,9 +460,9 @@
           "bytes": 127530
         },
         "preview": {
-          "path": "downloads/madison-bg-fog-night-calm-v3-native.webp",
-          "sha256": "e1b9de8216976a379b6289fd477fdae25a417a68dd8a1f1ebb8b53d88f63369c",
-          "bytes": 100670
+          "path": "downloads/madison-bg-fog-night-calm-v3-hd.webp",
+          "sha256": "42d5facc0740a15778cb51ad920145851b51152e7fa3731cc1959b3cd323a008",
+          "bytes": 175952
         },
         "native_png": {
           "path": "assets/posters/fog-night-calm-native.png",
@@ -481,9 +481,9 @@
           "bytes": 130459
         },
         "preview": {
-          "path": "downloads/madison-bg-snow-night-calm-v3-native.webp",
-          "sha256": "90983dfe4dacba389dbbf86f0ec79a4dcc124ff0cd024771778e34dd8a1a7f2c",
-          "bytes": 336710
+          "path": "downloads/madison-bg-snow-night-calm-v3-hd.webp",
+          "sha256": "ffbe813111b39f54b2364e291b43527ad48f603c95869759925fc95e42987413",
+          "bytes": 707822
         },
         "native_png": {
           "path": "assets/posters/snow-night-calm-native.png",
@@ -502,9 +502,9 @@
           "bytes": 148189
         },
         "preview": {
-          "path": "downloads/madison-bg-wildfire-medium-day-calm-v3-native.webp",
-          "sha256": "1b1fc2d1ea4c684dbbc82544ef61d4f418aab7f299d20fc3f1340178f03bc630",
-          "bytes": 222948
+          "path": "downloads/madison-bg-wildfire-medium-day-calm-v3-hd.webp",
+          "sha256": "e4239bbdd2e98b29dc7a615187d31953a8c4a9c599ce6ae8b90e547a94c2fa81",
+          "bytes": 378166
         },
         "native_png": {
           "path": "assets/posters/wildfire-medium-day-calm-native.png",
@@ -523,9 +523,9 @@
           "bytes": 147925
         },
         "preview": {
-          "path": "downloads/madison-bg-wildfire-intense-day-calm-v3-native.webp",
-          "sha256": "1a6de24bd2a1dd939b5cd638a6b95b5b4f40965d68251a9c1055feb085a3adcf",
-          "bytes": 220516
+          "path": "downloads/madison-bg-wildfire-intense-day-calm-v3-hd.webp",
+          "sha256": "7b5d7d6fa813f0bb1eada366719447ddb3844dec105cb38bb660521458222278",
+          "bytes": 376328
         },
         "native_png": {
           "path": "assets/posters/wildfire-intense-day-calm-native.png",
@@ -544,9 +544,9 @@
           "bytes": 126572
         },
         "preview": {
-          "path": "downloads/madison-bg-dawn-calm-v3-native.webp",
-          "sha256": "81266a0b374dbd12619eba6ece8ad360b6653e77ccb9d6709423a3fe062cf4d6",
-          "bytes": 87966
+          "path": "downloads/madison-bg-dawn-calm-v3-hd.webp",
+          "sha256": "57bbab540f8064a69f8a8af94bc6ba7c422ab210ebe181796aa57648c31e9b18",
+          "bytes": 145684
         },
         "native_png": {
           "path": "assets/posters/dawn-calm-native.png",
@@ -565,9 +565,9 @@
           "bytes": 131770
         },
         "preview": {
-          "path": "downloads/madison-bg-sunrise-calm-v3-native.webp",
-          "sha256": "9f03fcb5819656057dbc542c7843e4988c00717f9f903ecf1a7786b5af3b6505",
-          "bytes": 91614
+          "path": "downloads/madison-bg-sunrise-calm-v3-hd.webp",
+          "sha256": "70aad104a9caeefa235ed7088c8b91c1f3cd89b21db60ee63a2293a362bbdfaa",
+          "bytes": 149724
         },
         "native_png": {
           "path": "assets/posters/sunrise-calm-native.png",
@@ -586,9 +586,9 @@
           "bytes": 130472
         },
         "preview": {
-          "path": "downloads/madison-bg-sunset-calm-v3-native.webp",
-          "sha256": "abcdf7bbf13891933de6fa355a78da440cb0849431eb55b29cc6eaaa8bf91d44",
-          "bytes": 91364
+          "path": "downloads/madison-bg-sunset-calm-v3-hd.webp",
+          "sha256": "7cfe65ca5b47dd00e90a131ad1cfec1993ec3b1be42c744f309789a753516411",
+          "bytes": 149112
         },
         "native_png": {
           "path": "assets/posters/sunset-calm-native.png",
@@ -607,9 +607,9 @@
           "bytes": 119133
         },
         "preview": {
-          "path": "downloads/madison-bg-dusk-calm-v3-native.webp",
-          "sha256": "0e9f6492d92a45bda1c3f7c900fc48f3b663630b0f6fbfb94dcd81e3487e1ab9",
-          "bytes": 82690
+          "path": "downloads/madison-bg-dusk-calm-v3-hd.webp",
+          "sha256": "bde77bee902d6393a388180830444392c289cd8014fa48c99ccd9434a7e84632",
+          "bytes": 138456
         },
         "native_png": {
           "path": "assets/posters/dusk-calm-native.png",

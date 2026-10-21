@@ -30,9 +30,9 @@
     1920,
     1080
   ],
-  "gif_size": [
-    320,
-    180
+  "animation_size": [
+    1920,
+    1080
   ],
   "frames": 160,
   "frame_duration_ms": 50,

@@ -22,7 +22,7 @@
   "frames": 1,
   "frame_duration_ms": 0,
   "duration_ms": 0,
-  "gif_size": null,
+  "animation_size": null,
   "loop": 0,
   "clouds": "static"
 }
