@@ -1,9 +1,9 @@
 {
   "release": "v3",
-  "count": 100,
+  "count": 101,
   "background_scenes": 39,
-  "extras": 3,
-  "images": 100,
+  "extras": 4,
+  "images": 101,
   "animations": 87,
   "native_size": [
     320,
@@ -2051,6 +2051,22 @@
           "path": "assets/posters/peeking-bear-native.png",
           "sha256": "fe1fe1a9efaf5eb16e354fa76c9b634773b54d06dd228c7081237a5d74bf450a",
           "bytes": 75325
+        }
+      }
+    },
+    {
+      "id": "madison-backpack-v1",
+      "label": "Madison with backpack",
+      "files": {
+        "png": {
+          "path": "downloads/portrait.png",
+          "sha256": "28477883e086e06c63b94b25377c5bdb079046b4faff7c416b0739e38ef1c276",
+          "bytes": 19150
+        },
+        "native_png": {
+          "path": "assets/posters/madison-backpack-v1-native.png",
+          "sha256": "3f003d8d72c74dd98ceabe3620fd8882cff3bc347e5f2f36d142b914e99f0a6d",
+          "bytes": 11353
         }
       }
     }
