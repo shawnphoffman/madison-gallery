@@ -2554,14 +2554,14 @@
           "bytes": 74774
         },
         "webp": {
-          "path": "downloads/foreground-squirrel-calm-v3.webp",
-          "sha256": "f57cae77da51002abac271cd1f3b6d1ce40dd468457bc5d218e5c636c66a8ecf",
-          "bytes": 155810
+          "path": "downloads/foreground-squirrel-calm-v4.webp",
+          "sha256": "c7b6d0c8528d10efece6647eefadb8d6c942c5fbb82070ee34d22a5f5bd76e2d",
+          "bytes": 160804
         },
         "mp4": {
-          "sha256": "33a5dd7b21cb5bb59d17f51b84ddec41f909b6267527694a84a20e2ade2b48e1",
-          "bytes": 594985,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-calm-v3.mp4"
+          "sha256": "5c0c983c1e7f2a2bbd0c2c65e522c0c3c787e2c7987075e18e84f12d1abbc7f7",
+          "bytes": 603675,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-calm-v4.mp4"
         }
       }
     },
@@ -2799,14 +2799,14 @@
           "bytes": 74774
         },
         "webp": {
-          "path": "downloads/foreground-squirrel-gust-v3.webp",
-          "sha256": "225bccc128a9083c0db939810e90b007fea8166f5ebbb6719f794e19f4be4126",
-          "bytes": 435502
+          "path": "downloads/foreground-squirrel-gust-v4.webp",
+          "sha256": "34a38e469d56af75ce7a6199e487bfde115fc45ba7e5de6c902c98c7a6351b90",
+          "bytes": 439052
         },
         "mp4": {
-          "sha256": "481c4a6a384388e08e9bf1f196fa5a730489b760f1243e8ce1ce08415660ce71",
-          "bytes": 965713,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-gust-v3.mp4"
+          "sha256": "731c04e570f9af542ac83517800489592db7514b2e2d7254c42690fa00bf458d",
+          "bytes": 974660,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-gust-v4.mp4"
         }
       }
     },
