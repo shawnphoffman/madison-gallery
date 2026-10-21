@@ -2606,9 +2606,9 @@
           "bytes": 11353
         },
         "webp": {
-          "path": "downloads/madison-backpack.webp",
-          "sha256": "df86be60794b903cf9f7e89787a22cb28ee867b438e605ed3e8018d38d677839",
-          "bytes": 25458
+          "path": "downloads/madison-backpack-acting.webp",
+          "sha256": "459235e7b81cbeb2ccd0d1f70e88f6aabb8623dabc8a5a40a7821dc5a42af737",
+          "bytes": 14916
         }
       }
     },
@@ -2627,9 +2627,9 @@
           "bytes": 4096
         },
         "webp": {
-          "path": "downloads/madison-backpack-transparent.webp",
-          "sha256": "22daa4592250eceea57f9471569bca883a08bcc0c888538bce2a0b6eb79e2568",
-          "bytes": 18794
+          "path": "downloads/madison-backpack-transparent-acting.webp",
+          "sha256": "039409145a58db686be850ca3e3855ea183340ecef88a8a2c8d9ee7e3e2ec412",
+          "bytes": 17426
         }
       }
     },
