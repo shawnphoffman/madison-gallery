@@ -1,9 +1,9 @@
 {
   "release": "v3",
-  "count": 101,
+  "count": 102,
   "background_scenes": 39,
-  "extras": 4,
-  "images": 101,
+  "extras": 5,
+  "images": 102,
   "animations": 87,
   "native_size": [
     320,
@@ -2067,6 +2067,22 @@
           "path": "assets/posters/madison-backpack-v1-native.png",
           "sha256": "3f003d8d72c74dd98ceabe3620fd8882cff3bc347e5f2f36d142b914e99f0a6d",
           "bytes": 11353
+        }
+      }
+    },
+    {
+      "id": "madison-backpack-transparent-v1",
+      "label": "Madison with backpack, transparent",
+      "files": {
+        "png": {
+          "path": "downloads/avatar.png",
+          "sha256": "e868e1222d9e9a02954ffef2327e982429d184f0c1910392c87205b506cc85a9",
+          "bytes": 15893
+        },
+        "native_png": {
+          "path": "assets/posters/madison-backpack-transparent-v1-native.png",
+          "sha256": "fee81df9fdc9cb562f26c92d682151e33dffadc06323496a86c4495a4e6a6fd9",
+          "bytes": 4096
         }
       }
     }
