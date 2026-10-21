@@ -2,11 +2,11 @@
   "id": "madison-backpack-transparent-v1",
   "label": "Madison with backpack, transparent",
   "group": "Portraits",
-  "user_approved": true,
+  "user_approved": false,
   "mechanical_checks_passed": true,
-  "note": "800 x 800 transparent avatar with neutral lighting. 8px artwork and 4px facial features. Fits square, 600 x 800 portrait and 800 x 640 landscape frames.",
-  "review_status": "approved",
-  "static_only": true,
+  "note": "Eight-second pixel-art loop with breathing, blinking, gentle hair movement and a subtle strap pull. 8px artwork, 4px facial features.",
+  "review_status": "derived",
+  "static_only": false,
   "section": "extras",
   "native_size": [
     200,
@@ -17,10 +17,11 @@
     800
   ],
   "transparent": true,
-  "animation_size": null,
-  "frames": 1,
+  "frames": 160,
   "frame_duration_ms": 50,
-  "duration_ms": 0,
+  "duration_ms": 8000,
+  "atlas_columns": 10,
+  "animation_size": null,
   "loop": 0,
   "clouds": "static"
 }

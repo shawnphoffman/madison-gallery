@@ -1,10 +1,12 @@
 {
   "release": "v3",
-  "count": 105,
+  "count": 125,
+  "gallery_assets": 115,
+  "original_background_downloads": 10,
   "background_scenes": 39,
   "extras": 8,
-  "images": 105,
-  "animations": 89,
+  "images": 115,
+  "animations": 111,
   "native_size": [
     320,
     180
@@ -2331,161 +2333,261 @@
     },
     {
       "id": "overcast-daylight",
-      "label": "Overcast daylight",
+      "label": "Overcast daylight, windless",
       "files": {
         "png": {
-          "path": "downloads/overcast-daylight.png",
+          "path": "downloads/overcast-daylight-v1.png",
           "sha256": "9092d19c75585a3342f065110877d20413fd5ec99d51cb8e52532db52e2a8e36",
           "bytes": 139227
         },
         "native_png": {
           "path": "assets/posters/overcast-daylight-native.png",
-          "sha256": "386edac46ef955ff745f0a4153a74e5fd7946ac4b021446f15f02480c9984f86",
-          "bytes": 73485
+          "sha256": "96b3aa419d4aea66a5e83baeefa8b33023799c4f9cb8c9d93d731064cd9f1143",
+          "bytes": 74085
+        },
+        "webp": {
+          "path": "downloads/overcast-daylight-calm.webp",
+          "sha256": "55297d8df02ecaea81f73df4b0a4761219376f747aa0b0c59a7524c7e8e7864a",
+          "bytes": 153460
+        },
+        "mp4": {
+          "sha256": "31c3c180d760dc543b04e538e899018b38a505f6ad2be89b6fc6b475099fb867",
+          "bytes": 507620,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/overcast-daylight-calm.mp4"
         }
       }
     },
     {
       "id": "moonlit-night",
-      "label": "Moonlit night",
+      "label": "Moonlit night, windless",
       "files": {
         "png": {
-          "path": "downloads/moonlit-night.png",
+          "path": "downloads/moonlit-night-v1.png",
           "sha256": "af953e8326670b563f778cf1d1d1bdcdc139e5cf2920446c6a10cf375b19a517",
           "bytes": 133913
         },
         "native_png": {
           "path": "assets/posters/moonlit-night-native.png",
-          "sha256": "08a99933c63915620a24c98ad610bc72f133dde3e56be4c169b0dbbf6840e98e",
-          "bytes": 70866
+          "sha256": "940d43e72f76576e877bfb3042cee3f087dadb34b343d6dda3f4c1e19a75bbab",
+          "bytes": 71639
+        },
+        "webp": {
+          "path": "downloads/moonlit-night-calm.webp",
+          "sha256": "eec385715038f0e85c9c7e85bf8131b79bbe9ef15f8606ac716bde73a65ae843",
+          "bytes": 152354
+        },
+        "mp4": {
+          "sha256": "ae7406aacbd6dd6580cd9e6869a2b34c809f4d16eaa5129858f1da832b46dea0",
+          "bytes": 496721,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/moonlit-night-calm.mp4"
         }
       }
     },
     {
       "id": "clearing-after-rain",
-      "label": "Clearing after rain",
+      "label": "Clearing after rain, windless",
       "files": {
         "png": {
-          "path": "downloads/clearing-after-rain.png",
+          "path": "downloads/clearing-after-rain-v1.png",
           "sha256": "25e7bcc8f8dc38379875225a607e5cfb311d7140c41ed686f46ddf17a433d83c",
           "bytes": 150073
         },
         "native_png": {
           "path": "assets/posters/clearing-after-rain-native.png",
-          "sha256": "ccef951e61d0a1cc7ec3db59c6c17a29b451f66d5bb51f6846f6c68d3834cbf5",
-          "bytes": 79169
+          "sha256": "d8e5b5840ab147452c066af1984f173eedd25ce1711f5f28136dcaed125aa46f",
+          "bytes": 79581
+        },
+        "webp": {
+          "path": "downloads/clearing-after-rain-calm.webp",
+          "sha256": "7e94450b0c24ed7c2d08eeff5403180bde5e32403668f34a592998bcdea37b3f",
+          "bytes": 154592
+        },
+        "mp4": {
+          "sha256": "10da6e580537040905d930fb37a8c429fba695c32f4e4149353e98d01b361868",
+          "bytes": 587892,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/clearing-after-rain-calm.mp4"
         }
       }
     },
     {
       "id": "first-frost",
-      "label": "First frost",
+      "label": "First frost, windless",
       "files": {
         "png": {
-          "path": "downloads/first-frost.png",
+          "path": "downloads/first-frost-v1.png",
           "sha256": "97b4167230b71fe998deaa9baf79f567dd8c01156bbcb988eeee54edd15f3535",
           "bytes": 142390
         },
         "native_png": {
           "path": "assets/posters/first-frost-native.png",
-          "sha256": "32859a1bab042faeb088c41043350fdef4ec3994ccf4f82f4a6ee532dab64808",
-          "bytes": 74354
+          "sha256": "b701fe1f42aa10e203b9847b5ddc51d115e5ab23b28525903eab8fbecadcf2ef",
+          "bytes": 74855
+        },
+        "webp": {
+          "path": "downloads/first-frost-calm.webp",
+          "sha256": "013a71d0d306f57158f559a2fef35260c16f5d1945e220d86bd9bc211c4ff237",
+          "bytes": 156526
+        },
+        "mp4": {
+          "sha256": "69a22ec8f735a27a54b7c67b1f3d04394f0fbf2c9309f822a10627ef29772516",
+          "bytes": 585849,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/first-frost-calm.mp4"
         }
       }
     },
     {
       "id": "late-summer-low-water",
-      "label": "Late-summer low water",
+      "label": "Late-summer low water, windless",
       "files": {
         "png": {
-          "path": "downloads/late-summer-low-water.png",
+          "path": "downloads/late-summer-low-water-v2.png",
           "sha256": "611f033a07a98aeca942b88c6235c8f66e9840d778f6c01d2422a151b837859d",
           "bytes": 144592
         },
         "native_png": {
           "path": "assets/posters/late-summer-low-water-native.png",
-          "sha256": "479a81db5550e6873a9f4ba0ca304790c4ae869e26a87ba1a672f87ab2640408",
-          "bytes": 75477
+          "sha256": "82e1893e8cdf0207ff2d5791b98473047313d81324f656c46718608d5cebc669",
+          "bytes": 75490
+        },
+        "webp": {
+          "path": "downloads/late-summer-low-water-calm.webp",
+          "sha256": "4794d9d7ecaf16ee10c6a585383e569cdf57e5cba5854645fcef3167ef348663",
+          "bytes": 73986
+        },
+        "mp4": {
+          "sha256": "a59b97bcd85b21312bb1c915f6dcc0966d20a72a123edd5b20a6cfa077a58951",
+          "bytes": 482050,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/late-summer-low-water-calm.mp4"
         }
       }
     },
     {
       "id": "extreme-snow",
-      "label": "Extreme snow",
+      "label": "Extreme snow, windless",
       "files": {
         "png": {
-          "path": "downloads/extreme-snow.png",
+          "path": "downloads/extreme-snow-v1.png",
           "sha256": "02acd11402bb400648ac29f579f3ae4e2ff9507c9b3b37e96c9bd361c7d2c1c6",
           "bytes": 156292
         },
         "native_png": {
           "path": "assets/posters/extreme-snow-native.png",
-          "sha256": "178cbf21f776253fa58b6c9310747fb4707921632a8636f897b568844cf8d156",
-          "bytes": 80873
+          "sha256": "42fabf9af6c266d30168f6bcfd660e07f43c5560fa8a01560b88e50a78d0e9f6",
+          "bytes": 92579
+        },
+        "webp": {
+          "path": "downloads/extreme-snow-calm.webp",
+          "sha256": "a4895db35f28eaa08a15dace9be56a22ba3a31abcd188345fb69acbeaf8fa2ac",
+          "bytes": 1077350
+        },
+        "mp4": {
+          "sha256": "99865f9944e2901eef00a229edb219269db6a77eed199879b380484caf43371a",
+          "bytes": 3813929,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/extreme-snow-calm.mp4"
         }
       }
     },
     {
       "id": "ludicrous-snow",
-      "label": "Ludicrous snow",
+      "label": "Ludicrous snow, windless",
       "files": {
         "png": {
-          "path": "downloads/ludicrous-snow.png",
+          "path": "downloads/ludicrous-snow-v1.png",
           "sha256": "74fcc37b695c08ccb30e396031a7f0fa64f0cad66df59a796b715d4f30012445",
           "bytes": 137964
         },
         "native_png": {
           "path": "assets/posters/ludicrous-snow-native.png",
-          "sha256": "37a7702b97bebe0c5c01548cb000e53f86dfc3213cae0a7a662f5f51a6e3d0e0",
-          "bytes": 72045
+          "sha256": "16b87356af354cbb277bae32634125ba595107d2e6a0f7b207ef351dc8cd52af",
+          "bytes": 85169
+        },
+        "webp": {
+          "path": "downloads/ludicrous-snow-calm.webp",
+          "sha256": "b08a090d7cb99347f93e1e7fc2c44da5b065788349594dc4427f959350f714ff",
+          "bytes": 1332778
+        },
+        "mp4": {
+          "sha256": "273b748f4bf6eee0d33b395abac3b6717747a03220879e29ef6a5b6e74db5484",
+          "bytes": 4516001,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/ludicrous-snow-calm.mp4"
         }
       }
     },
     {
       "id": "inner-tube-tourists",
-      "label": "Inner-tube tourists",
+      "label": "Inner-tube tourists, windless",
       "files": {
         "png": {
-          "path": "downloads/inner-tube-tourists.png",
+          "path": "downloads/inner-tube-tourists-v3.png",
           "sha256": "92a1c72234e8eb6a7299078587650f1e83266b549e3a75a4dca65f6edde6cd8d",
           "bytes": 143902
         },
         "native_png": {
           "path": "assets/posters/inner-tube-tourists-native.png",
-          "sha256": "08a25a58ce05565816d391bfc8690fefdbfb8ca7f11c2fc7bb2c5466e104a15d",
-          "bytes": 94021
+          "sha256": "efa7a2c14f767c4182b75a781ce2a4181bb5d68d187971522a363149da921616",
+          "bytes": 94573
+        },
+        "webp": {
+          "path": "downloads/inner-tube-tourists-calm.webp",
+          "sha256": "2bd2f97b9086f0281c99c6ef5c1f03f6aa5af13dac4f16b6979d8a43cb674020",
+          "bytes": 155012
+        },
+        "mp4": {
+          "sha256": "17f056ac308f3f70889b109c7ad5fabb7b61679fab341e33c6f07b8ab24ea7d0",
+          "bytes": 591316,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/inner-tube-tourists-calm.mp4"
         }
       }
     },
     {
       "id": "foreground-squirrel",
-      "label": "Foreground squirrel",
+      "label": "Foreground squirrel, windless",
       "files": {
         "png": {
-          "path": "downloads/foreground-squirrel.png",
+          "path": "downloads/foreground-squirrel-v1.png",
           "sha256": "b9e0b7a1d7d6cb453f802d744ee10f378028d37bd7eefbe4c6b584f52683810d",
           "bytes": 143027
         },
         "native_png": {
           "path": "assets/posters/foreground-squirrel-native.png",
-          "sha256": "9096e26622f2a817cb07cea876c290ad4b9360be02ec4caca4430c5d555ef23a",
-          "bytes": 73683
+          "sha256": "de8180b3b7f4361de1d6768bc27059272397005e100cb77e813da9257eb74435",
+          "bytes": 74302
+        },
+        "webp": {
+          "path": "downloads/foreground-squirrel-calm.webp",
+          "sha256": "b9286037e08a8bd6794d22eaead7a7435d37fbf24554475f83a096a2a827d7c1",
+          "bytes": 155606
+        },
+        "mp4": {
+          "sha256": "66dceec1193dc29c537da6f3595e8e7e58b50cba17f842409dc23d3315ace009",
+          "bytes": 594292,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-calm.mp4"
         }
       }
     },
     {
       "id": "peeking-bear",
-      "label": "Peeking bear",
+      "label": "Peeking bear, windless",
       "files": {
         "png": {
-          "path": "downloads/peeking-bear.png",
+          "path": "downloads/peeking-bear-v4.png",
           "sha256": "9ccadd74ddeb69ad8a6486ff71d710ad29133a9df48483d0c3587e266ac75be3",
           "bytes": 144849
         },
         "native_png": {
           "path": "assets/posters/peeking-bear-native.png",
-          "sha256": "fe1fe1a9efaf5eb16e354fa76c9b634773b54d06dd228c7081237a5d74bf450a",
-          "bytes": 75325
+          "sha256": "b3a77c2caf1af24495ade327ea239990ceb621e1ec722cbe5559d315f3fc4c29",
+          "bytes": 75624
+        },
+        "webp": {
+          "path": "downloads/peeking-bear-calm.webp",
+          "sha256": "8651dd7d1b3a9466831e45825c6e0929b84cf5aedeeabfa9e4fe3298e1be11e8",
+          "bytes": 154684
+        },
+        "mp4": {
+          "sha256": "bba45a45cffb4e0744462feb080f57781f0633b4fa1f996109127fbf5e1e8b9b",
+          "bytes": 591865,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/peeking-bear-calm.mp4"
         }
       }
     },
@@ -2502,6 +2604,11 @@
           "path": "assets/posters/madison-backpack-v1-native.png",
           "sha256": "3f003d8d72c74dd98ceabe3620fd8882cff3bc347e5f2f36d142b914e99f0a6d",
           "bytes": 11353
+        },
+        "webp": {
+          "path": "downloads/madison-backpack.webp",
+          "sha256": "df86be60794b903cf9f7e89787a22cb28ee867b438e605ed3e8018d38d677839",
+          "bytes": 25458
         }
       }
     },
@@ -2518,6 +2625,11 @@
           "path": "assets/posters/madison-backpack-transparent-v1-native.png",
           "sha256": "fee81df9fdc9cb562f26c92d682151e33dffadc06323496a86c4495a4e6a6fd9",
           "bytes": 4096
+        },
+        "webp": {
+          "path": "downloads/madison-backpack-transparent.webp",
+          "sha256": "22daa4592250eceea57f9471569bca883a08bcc0c888538bce2a0b6eb79e2568",
+          "bytes": 18794
         }
       }
     },
@@ -2555,6 +2667,11 @@
           "path": "downloads/madi-transparent.gif",
           "sha256": "4f87cdcf8775ffd10022cea808b51dabc422acd14eeff9d5a2511a4af8823b72",
           "bytes": 951836
+        },
+        "webp": {
+          "path": "downloads/madison-original-transparent.webp",
+          "sha256": "2d6db3771c0a3fc524b3193cc748410c85560399f77878d1300458f536a1054e",
+          "bytes": 27776
         }
       }
     },
@@ -2576,6 +2693,496 @@
           "path": "downloads/madi.gif",
           "sha256": "d1ef3cbd581f642cc3798e2d9f1197889333dc567b822436cb5e2e403ab89025",
           "bytes": 1523753
+        },
+        "webp": {
+          "path": "downloads/madison-original-animated.webp",
+          "sha256": "1eec0575ab1fe244e1cb30f31f99dc0417adfe5214cf7911e5e1c6fe256a1928",
+          "bytes": 28214
+        },
+        "mp4": {
+          "sha256": "74ce64271554c6437dda6376b54a2e46f82d7bb12d5bed520b7498aaad5c5afb",
+          "bytes": 32199,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/madison-original-animated.mp4"
+        }
+      }
+    },
+    {
+      "id": "clearing-after-rain-gust",
+      "label": "Clearing after rain, gust",
+      "files": {
+        "png": {
+          "path": "downloads/clearing-after-rain-v1.png",
+          "sha256": "25e7bcc8f8dc38379875225a607e5cfb311d7140c41ed686f46ddf17a433d83c",
+          "bytes": 150073
+        },
+        "native_png": {
+          "path": "assets/posters/clearing-after-rain-gust-native.png",
+          "sha256": "d8e5b5840ab147452c066af1984f173eedd25ce1711f5f28136dcaed125aa46f",
+          "bytes": 79581
+        },
+        "webp": {
+          "path": "downloads/clearing-after-rain-gust.webp",
+          "sha256": "5e27e4d99898d22f9d209a63f9781936b6ddad625bb7a03d0c33dcd018aeba33",
+          "bytes": 435886
+        },
+        "mp4": {
+          "sha256": "804c0dc8e7cb6bf73f225c428089b5ded53a41bdcb5fde27b8e9826edc250706",
+          "bytes": 916824,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/clearing-after-rain-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "extreme-snow-gust",
+      "label": "Extreme snow, gust",
+      "files": {
+        "png": {
+          "path": "downloads/extreme-snow-v1.png",
+          "sha256": "02acd11402bb400648ac29f579f3ae4e2ff9507c9b3b37e96c9bd361c7d2c1c6",
+          "bytes": 156292
+        },
+        "native_png": {
+          "path": "assets/posters/extreme-snow-gust-native.png",
+          "sha256": "42fabf9af6c266d30168f6bcfd660e07f43c5560fa8a01560b88e50a78d0e9f6",
+          "bytes": 92579
+        },
+        "webp": {
+          "path": "downloads/extreme-snow-gust.webp",
+          "sha256": "d88820c98d7685546b731ed29b9421b49fd4318409989ae397d8a4fe53c9f7a4",
+          "bytes": 1360134
+        },
+        "mp4": {
+          "sha256": "daca3106626bece609fe0fb3e92281fc4ee1f88463ec1e4a92a72b29506db766",
+          "bytes": 4309013,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/extreme-snow-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "first-frost-gust",
+      "label": "First frost, gust",
+      "files": {
+        "png": {
+          "path": "downloads/first-frost-v1.png",
+          "sha256": "97b4167230b71fe998deaa9baf79f567dd8c01156bbcb988eeee54edd15f3535",
+          "bytes": 142390
+        },
+        "native_png": {
+          "path": "assets/posters/first-frost-gust-native.png",
+          "sha256": "b701fe1f42aa10e203b9847b5ddc51d115e5ab23b28525903eab8fbecadcf2ef",
+          "bytes": 74855
+        },
+        "webp": {
+          "path": "downloads/first-frost-gust.webp",
+          "sha256": "b2e1b6e1187f549905a0b30beb4b800ee967732e2b0e9c89132138bfa930face",
+          "bytes": 439954
+        },
+        "mp4": {
+          "sha256": "3ee7ec605b5e7a3105f68c94ed7e4cdd183180291fde2ba87d09ef4159c8ed22",
+          "bytes": 944859,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/first-frost-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "foreground-squirrel-gust",
+      "label": "Foreground squirrel, gust",
+      "files": {
+        "png": {
+          "path": "downloads/foreground-squirrel-v1.png",
+          "sha256": "b9e0b7a1d7d6cb453f802d744ee10f378028d37bd7eefbe4c6b584f52683810d",
+          "bytes": 143027
+        },
+        "native_png": {
+          "path": "assets/posters/foreground-squirrel-gust-native.png",
+          "sha256": "de8180b3b7f4361de1d6768bc27059272397005e100cb77e813da9257eb74435",
+          "bytes": 74302
+        },
+        "webp": {
+          "path": "downloads/foreground-squirrel-gust.webp",
+          "sha256": "e72b05704d7189eba36378dbf630d34b13605d076374894e6d51b634d3752842",
+          "bytes": 436316
+        },
+        "mp4": {
+          "sha256": "8170b667244be23a41c0959dc709966b587ae62b8969beee3d8439eacf72f708",
+          "bytes": 967756,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "inner-tube-tourists-gust",
+      "label": "Inner-tube tourists, gust",
+      "files": {
+        "png": {
+          "path": "downloads/inner-tube-tourists-v3.png",
+          "sha256": "92a1c72234e8eb6a7299078587650f1e83266b549e3a75a4dca65f6edde6cd8d",
+          "bytes": 143902
+        },
+        "native_png": {
+          "path": "assets/posters/inner-tube-tourists-gust-native.png",
+          "sha256": "aa4a82a2b67a4a4850598e6f7a15d09af11fc0350846317dff074e16b624d180",
+          "bytes": 94646
+        },
+        "webp": {
+          "path": "downloads/inner-tube-tourists-gust.webp",
+          "sha256": "c04d2cdad744a9a538ff0aa27ad181f5bf8af6ff5d86b4f8be633c93fee330e5",
+          "bytes": 435496
+        },
+        "mp4": {
+          "sha256": "b50e471db3894f5b75697789a8ab5c88bcc5e725384fb9da4d8d385b1f4b7909",
+          "bytes": 964621,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/inner-tube-tourists-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "late-summer-low-water-gust",
+      "label": "Late-summer low water, gust",
+      "files": {
+        "png": {
+          "path": "downloads/late-summer-low-water-v2.png",
+          "sha256": "611f033a07a98aeca942b88c6235c8f66e9840d778f6c01d2422a151b837859d",
+          "bytes": 144592
+        },
+        "native_png": {
+          "path": "assets/posters/late-summer-low-water-gust-native.png",
+          "sha256": "82e1893e8cdf0207ff2d5791b98473047313d81324f656c46718608d5cebc669",
+          "bytes": 75490
+        },
+        "webp": {
+          "path": "downloads/late-summer-low-water-gust.webp",
+          "sha256": "e719720f694cc5a16031761ca1be28ac5ffcc9f50fdc7bb2bb896fbb9de64394",
+          "bytes": 350160
+        },
+        "mp4": {
+          "sha256": "d682471fe79c8f21111fc0d3c751c316c4b0ed5c1aaa3eff10b22f375d833fff",
+          "bytes": 865779,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/late-summer-low-water-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "ludicrous-snow-gust",
+      "label": "Ludicrous snow, gust",
+      "files": {
+        "png": {
+          "path": "downloads/ludicrous-snow-v1.png",
+          "sha256": "74fcc37b695c08ccb30e396031a7f0fa64f0cad66df59a796b715d4f30012445",
+          "bytes": 137964
+        },
+        "native_png": {
+          "path": "assets/posters/ludicrous-snow-gust-native.png",
+          "sha256": "16b87356af354cbb277bae32634125ba595107d2e6a0f7b207ef351dc8cd52af",
+          "bytes": 85169
+        },
+        "webp": {
+          "path": "downloads/ludicrous-snow-gust.webp",
+          "sha256": "ad61c35a53bc4d3016baa3ebeba9fcef4864a7556137654c6bfbfdbdef243146",
+          "bytes": 1597850
+        },
+        "mp4": {
+          "sha256": "504ca0b4d95f6ef1d83000cc91ebdbc52a2ce886a5a178c3e4953ee19058e995",
+          "bytes": 4868529,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/ludicrous-snow-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "moonlit-night-gust",
+      "label": "Moonlit night, gust",
+      "files": {
+        "png": {
+          "path": "downloads/moonlit-night-v1.png",
+          "sha256": "af953e8326670b563f778cf1d1d1bdcdc139e5cf2920446c6a10cf375b19a517",
+          "bytes": 133913
+        },
+        "native_png": {
+          "path": "assets/posters/moonlit-night-gust-native.png",
+          "sha256": "940d43e72f76576e877bfb3042cee3f087dadb34b343d6dda3f4c1e19a75bbab",
+          "bytes": 71639
+        },
+        "webp": {
+          "path": "downloads/moonlit-night-gust.webp",
+          "sha256": "8b3e232b34d849a59189b20d712e91e8d7b366a9ce51afa619635681727d2ca0",
+          "bytes": 429344
+        },
+        "mp4": {
+          "sha256": "8cde97de769b8fd9b5cd830101ca2d0c94b125887062967029dc8e692aa8ba51",
+          "bytes": 759231,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/moonlit-night-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "overcast-daylight-gust",
+      "label": "Overcast daylight, gust",
+      "files": {
+        "png": {
+          "path": "downloads/overcast-daylight-v1.png",
+          "sha256": "9092d19c75585a3342f065110877d20413fd5ec99d51cb8e52532db52e2a8e36",
+          "bytes": 139227
+        },
+        "native_png": {
+          "path": "assets/posters/overcast-daylight-gust-native.png",
+          "sha256": "96b3aa419d4aea66a5e83baeefa8b33023799c4f9cb8c9d93d731064cd9f1143",
+          "bytes": 74085
+        },
+        "webp": {
+          "path": "downloads/overcast-daylight-gust.webp",
+          "sha256": "d1f78cf1ba06cea4531dd240b24cc0e7039248eb99d54595c8508aafd9afcafd",
+          "bytes": 434488
+        },
+        "mp4": {
+          "sha256": "3e913b8a189f8f737343c62ef801e8cf0d2b134bcf142c796d07f189832647a2",
+          "bytes": 784561,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/overcast-daylight-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "peeking-bear-gust",
+      "label": "Peeking bear, gust",
+      "files": {
+        "png": {
+          "path": "downloads/peeking-bear-v4.png",
+          "sha256": "9ccadd74ddeb69ad8a6486ff71d710ad29133a9df48483d0c3587e266ac75be3",
+          "bytes": 144849
+        },
+        "native_png": {
+          "path": "assets/posters/peeking-bear-gust-native.png",
+          "sha256": "b3a77c2caf1af24495ade327ea239990ceb621e1ec722cbe5559d315f3fc4c29",
+          "bytes": 75624
+        },
+        "webp": {
+          "path": "downloads/peeking-bear-gust.webp",
+          "sha256": "7cd7aef8315113bb00432a045870519bf87cc29183b79076390c5d8009fa3941",
+          "bytes": 438824
+        },
+        "mp4": {
+          "sha256": "047d06dcc0ebc03b55a1ba319436f586e7bbb832cca29534b06375d82ff77a23",
+          "bytes": 965592,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/peeking-bear-gust.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-base-1",
+      "label": "Original Base",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-base-1.png",
+          "sha256": "62af332f12aa9c97b7f7eb842569aebfdb6abe804b2323a6f1cc523a0504ce65",
+          "bytes": 1532409
+        },
+        "webp": {
+          "path": "downloads/original-base-1.webp",
+          "sha256": "17ba1f16891c4ad2969671e23090444d37a69d225ec8ba1fc5425422e7a69990",
+          "bytes": 3112352
+        },
+        "mp4": {
+          "sha256": "9fd193fdeea32b5c16adaaaa3d51bb8b62cb77534faa40657e93cd604046f5e2",
+          "bytes": 1826786,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-base-1.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-wildfire",
+      "label": "Original Wildfire",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-wildfire.png",
+          "sha256": "4f31e5633ef1c39d7927c74c47620445f24fe0d5405094ca9bcaa0825d201ce4",
+          "bytes": 813464
+        },
+        "webp": {
+          "path": "downloads/original-wildfire.webp",
+          "sha256": "8ef73856886176d0fe0bcdf191cb39288a7437a2651af3b2cf79fb3f258a42fd",
+          "bytes": 948716
+        },
+        "mp4": {
+          "sha256": "747a19eb09fe6eb9915c0e31c0fea7b2b673c9c42d4f34712bcb57512a22ecf3",
+          "bytes": 3570511,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-wildfire.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-fall",
+      "label": "Original Fall",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-fall.png",
+          "sha256": "f787161c31a64b73fb0969b7cd0d1e383d3665a3098d46c28d0d3dd1bbe9fb8e",
+          "bytes": 1412049
+        },
+        "webp": {
+          "path": "downloads/original-fall.webp",
+          "sha256": "96f7629adbd14df430eba058f4c5c926d9900a1ea13828e774a31201c3b05ed2",
+          "bytes": 2829464
+        },
+        "mp4": {
+          "sha256": "ee70bd87d7377e112c75a97c4de5ef1d28ac16d614ac9e183e517cd8d0c2dd39",
+          "bytes": 3866010,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-fall.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-spring",
+      "label": "Original Spring",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-spring.png",
+          "sha256": "f7d43ce408ab0fa1ab490bc8eb5c4847bf71736be101dea5e31f16b1b391add8",
+          "bytes": 1138695
+        },
+        "webp": {
+          "path": "downloads/original-spring.webp",
+          "sha256": "b9a65c558c3fefc43a38d99bb133a4930b912800885753c656c141ee86a6f294",
+          "bytes": 2125214
+        },
+        "mp4": {
+          "sha256": "a19937002b3f0c81cc5656cc12aa92f9611a0b031e81bbd61b54eb62c56043a2",
+          "bytes": 2288468,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-spring.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-winter",
+      "label": "Original Winter",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-winter.png",
+          "sha256": "1aaaa6fd9be96cb993ae66b13ac230b1808eb29aaf744f500754b494db786ca5",
+          "bytes": 1889880
+        },
+        "webp": {
+          "path": "downloads/original-winter.webp",
+          "sha256": "53c2043b78aed8f672bd3355b00d7f98ddb08b21f9c245771890b2d20170c62a",
+          "bytes": 3053784
+        },
+        "mp4": {
+          "sha256": "bb8258c9989022d732a8d00f589957bde2a219c969cebd1667f3a8f0acb44d82",
+          "bytes": 3240557,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-winter.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-dawn",
+      "label": "Original Dawn",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-dawn.png",
+          "sha256": "008077f63ec3c7bec75efc4883bfb07bc3e07ba21cea2dddb93fc88902963df7",
+          "bytes": 1370084
+        },
+        "webp": {
+          "path": "downloads/original-dawn.webp",
+          "sha256": "4a10461ab978d91c70eaccdc2a068810e650b26128cbd0b4c540c30656c2863d",
+          "bytes": 4831562
+        },
+        "mp4": {
+          "sha256": "29e3d5d694d744de8d8928073c6c69cab15d7097af49534d13fa65988d42a3ab",
+          "bytes": 3212564,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-dawn.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-dusk",
+      "label": "Original Dusk",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-dusk.png",
+          "sha256": "ec2fcc4b645ac74ec1038706d7888040492c1ac7181aa9320c4255a92a98c08f",
+          "bytes": 1426076
+        },
+        "webp": {
+          "path": "downloads/original-dusk.webp",
+          "sha256": "208df40142a0a9bf740d8ef421bb3e2c7927c8d6394d2eb19c3b0f54590da421",
+          "bytes": 2422016
+        },
+        "mp4": {
+          "sha256": "4e54d96cd66163b644efddbbe6728383409ea2b7f502a15dc28111f8b1025f73",
+          "bytes": 2033449,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-dusk.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-night",
+      "label": "Original Night",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-night.png",
+          "sha256": "ff3ef04c5b8d5473ed1edd0c4bfd9fcbc1efd63dfc363ce32fcbc861da843516",
+          "bytes": 1202921
+        },
+        "webp": {
+          "path": "downloads/original-night.webp",
+          "sha256": "180f449e203b4f944cd9bea9e860673e59b35a67e891c17a269a3b129d31e69e",
+          "bytes": 2622746
+        },
+        "mp4": {
+          "sha256": "a925282f662a7c510792fdb30c406f7e2f8039524299c5b4060a4ee49db3deb6",
+          "bytes": 1839201,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-night.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-lightning-1",
+      "label": "Original Lightning",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-lightning-1.png",
+          "sha256": "f90b491fcddd0650e6391baaddbfcc6c3b55a1496a5948f20d2a28088d393fb7",
+          "bytes": 1109299
+        },
+        "webp": {
+          "path": "downloads/original-lightning-1.webp",
+          "sha256": "545b45152712b6588104fb3fd3901d66c94df3cdc14cb55fcf714baf1568959f",
+          "bytes": 5003752
+        },
+        "mp4": {
+          "sha256": "233c496ee3808a089a093c6e2542ffebefd1cdc29863c83ee3ec612accdd361f",
+          "bytes": 4493288,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-lightning-1.mp4"
+        }
+      }
+    },
+    {
+      "id": "original-snow-1",
+      "label": "Original Snow",
+      "downloads_only": true,
+      "files": {
+        "png": {
+          "path": "downloads/original-snow-1.png",
+          "sha256": "70ff2b3cc1ce57ed99337eb1002e6a2e1d69586f7084379c1642290d05534d3f",
+          "bytes": 1640220
+        },
+        "webp": {
+          "path": "downloads/original-snow-1.webp",
+          "sha256": "cbcd70670f0871530e4f4d03fd60d9582f6016ad1271b13c5939d408682519e8",
+          "bytes": 1532154
+        },
+        "mp4": {
+          "sha256": "e8a592b0deeaf28666306d8d697e708e8fd4e104adde581b4def390fc5d1edce",
+          "bytes": 3261145,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/original-snow-1.mp4"
         }
       }
     }

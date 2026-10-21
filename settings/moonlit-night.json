@@ -1,15 +1,23 @@
 {
   "id": "moonlit-night",
-  "label": "Moonlit night",
+  "label": "Moonlit night, windless",
   "group": "Baseline",
-  "user_approved": true,
-  "mechanical_checks_passed": true,
-  "note": "Approved static landscape. Animation is deferred.",
+  "channels": {
+    "water": 0.25,
+    "waterfall": 0.25,
+    "spray": 0.25,
+    "wind": 0
+  },
+  "user_approved": false,
+  "note": "Approved static artwork with local water motion and trees at rest.",
   "wind_mode": "calm",
   "theme_id": "moonlit-night",
-  "review_status": "approved",
-  "static_only": true,
+  "review_status": "derived",
+  "static_only": false,
   "section": "backgrounds",
+  "frames": 160,
+  "frame_duration_ms": 50,
+  "duration_ms": 8000,
   "native_size": [
     320,
     180
@@ -19,9 +27,6 @@
     1080
   ],
   "animation_size": null,
-  "frames": 1,
-  "frame_duration_ms": 50,
-  "duration_ms": 0,
   "loop": 0,
   "clouds": "static"
 }
