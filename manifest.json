@@ -378,7 +378,7 @@
       "label": "Distant lightning with rain - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-lightning-distant-day-calm-v3.png",
+          "path": "downloads/madison-bg-rain-steady-day-calm-v3.png",
           "sha256": "3d568d27e16fa216481741e92bb3f739f45ac92de0233ef07e564712b4b03eba",
           "bytes": 131382
         },
@@ -404,7 +404,7 @@
       "label": "Active lightning with rain - windless",
       "files": {
         "png": {
-          "path": "downloads/madison-bg-lightning-active-day-calm-v3.png",
+          "path": "downloads/madison-bg-rain-steady-day-calm-v3.png",
           "sha256": "3d568d27e16fa216481741e92bb3f739f45ac92de0233ef07e564712b4b03eba",
           "bytes": 131382
         },
@@ -1554,12 +1554,12 @@
       "label": "Distant lightning with rain, gentle breeze",
       "files": {
         "png": {
-          "path": "downloads/lightning-distant-day-breeze.png",
+          "path": "downloads/rain-steady-day-breeze.png",
           "sha256": "204f2e2147dda76ef6bb55177cdf5dba9483499d4180319e2ac4f01522e93638",
           "bytes": 131820
         },
         "native_png": {
-          "path": "downloads/lightning-distant-day-breeze.png",
+          "path": "downloads/rain-steady-day-breeze.png",
           "sha256": "204f2e2147dda76ef6bb55177cdf5dba9483499d4180319e2ac4f01522e93638",
           "bytes": 131820
         },
@@ -1580,12 +1580,12 @@
       "label": "Distant lightning with rain, gust",
       "files": {
         "png": {
-          "path": "downloads/lightning-distant-day-gust.png",
+          "path": "downloads/rain-steady-day-gust.png",
           "sha256": "34579c8c34e63753fdfbb0836879d567c4c56b987bb62c383ae04143c599dc18",
           "bytes": 136301
         },
         "native_png": {
-          "path": "downloads/lightning-distant-day-gust.png",
+          "path": "downloads/rain-steady-day-gust.png",
           "sha256": "34579c8c34e63753fdfbb0836879d567c4c56b987bb62c383ae04143c599dc18",
           "bytes": 136301
         },
@@ -1606,12 +1606,12 @@
       "label": "Active lightning with rain, gentle breeze",
       "files": {
         "png": {
-          "path": "downloads/lightning-active-day-breeze.png",
+          "path": "downloads/rain-steady-day-breeze.png",
           "sha256": "204f2e2147dda76ef6bb55177cdf5dba9483499d4180319e2ac4f01522e93638",
           "bytes": 131820
         },
         "native_png": {
-          "path": "downloads/lightning-active-day-breeze.png",
+          "path": "downloads/rain-steady-day-breeze.png",
           "sha256": "204f2e2147dda76ef6bb55177cdf5dba9483499d4180319e2ac4f01522e93638",
           "bytes": 131820
         },
@@ -1632,12 +1632,12 @@
       "label": "Active lightning with rain, gust",
       "files": {
         "png": {
-          "path": "downloads/lightning-active-day-gust.png",
+          "path": "downloads/rain-steady-day-gust.png",
           "sha256": "34579c8c34e63753fdfbb0836879d567c4c56b987bb62c383ae04143c599dc18",
           "bytes": 136301
         },
         "native_png": {
-          "path": "downloads/lightning-active-day-gust.png",
+          "path": "downloads/rain-steady-day-gust.png",
           "sha256": "34579c8c34e63753fdfbb0836879d567c4c56b987bb62c383ae04143c599dc18",
           "bytes": 136301
         },
@@ -1684,12 +1684,12 @@
       "label": "Subtle shooting star, gust",
       "files": {
         "png": {
-          "path": "downloads/meteor-subtle-night-gust.png",
+          "path": "downloads/clear-night-gust.png",
           "sha256": "7b3b32f9ec0f89e6073d91c98f3e787dcb63832af5ed6fdf5c563155d231926e",
           "bytes": 109618
         },
         "native_png": {
-          "path": "downloads/meteor-subtle-night-gust.png",
+          "path": "downloads/clear-night-gust.png",
           "sha256": "7b3b32f9ec0f89e6073d91c98f3e787dcb63832af5ed6fdf5c563155d231926e",
           "bytes": 109618
         },
@@ -1736,12 +1736,12 @@
       "label": "Bright shooting star, gust",
       "files": {
         "png": {
-          "path": "downloads/meteor-bright-night-gust.png",
+          "path": "downloads/clear-night-gust.png",
           "sha256": "7b3b32f9ec0f89e6073d91c98f3e787dcb63832af5ed6fdf5c563155d231926e",
           "bytes": 109618
         },
         "native_png": {
-          "path": "downloads/meteor-bright-night-gust.png",
+          "path": "downloads/clear-night-gust.png",
           "sha256": "7b3b32f9ec0f89e6073d91c98f3e787dcb63832af5ed6fdf5c563155d231926e",
           "bytes": 109618
         },
