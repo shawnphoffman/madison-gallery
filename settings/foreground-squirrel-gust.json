@@ -9,7 +9,7 @@
     "wind": 1
   },
   "user_approved": false,
-  "note": "Approved static artwork with local water motion and the approved individually timed gust.",
+  "note": "Approved static artwork with local water motion and the approved individually timed gust. Two small tail flicks and a brief nose-forward sniff, with feet planted on the rock.",
   "wind_mode": "gust",
   "theme_id": "foreground-squirrel",
   "review_status": "derived",
@@ -31,10 +31,10 @@
   "clouds": "static",
   "tree_motion": {
     "trees": [
-      "assets/frames/150081b3877f5361edc1.png",
-      "assets/frames/1fdb308071ced53a7b67.png",
-      "assets/frames/edd5455571679f72307f.png",
-      "assets/frames/b3e207ddab20fa6df7fa.png"
+      "assets/frames/b6fda05f9bc1dc103b05.png",
+      "assets/frames/a9626ddb8d44fc3eec3d.png",
+      "assets/frames/3a54002cdd686f35233c.png",
+      "assets/frames/9ddba65ba4b462be527c.png"
     ],
     "foreground": [],
     "tint_layers": [],

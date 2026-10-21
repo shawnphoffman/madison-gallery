@@ -9,7 +9,7 @@
     "wind": 1
   },
   "user_approved": false,
-  "note": "Approved static artwork with local water motion and the approved individually timed gust. Tourist sprites retain their approved finer pixel grid.",
+  "note": "Approved static artwork with local water motion and the approved individually timed gust. Three independent closed floating paths, with small native-grid lateral drift and bobbing.",
   "wind_mode": "gust",
   "theme_id": "inner-tube-tourists",
   "review_status": "derived",

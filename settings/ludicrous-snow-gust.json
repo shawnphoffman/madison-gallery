@@ -9,7 +9,7 @@
     "wind": 1
   },
   "user_approved": false,
-  "note": "Approved static artwork with local water motion and the approved individually timed gust.",
+  "note": "Accumulated snow with no airborne flakes or snowfall. Approved tree gust.",
   "wind_mode": "gust",
   "theme_id": "ludicrous-snow",
   "review_status": "derived",
@@ -31,14 +31,12 @@
   "clouds": "static",
   "tree_motion": {
     "trees": [
-      "assets/frames/2e05af011996aabe6352.png",
-      "assets/frames/132ba0f31741449c4474.png",
-      "assets/frames/b107b2df242d51a5f75d.png",
-      "assets/frames/f09fa3bc12a5907e7da7.png"
+      "assets/frames/9ee815f6acbce4c4137e.png",
+      "assets/frames/c5674ee24d2478b17eaa.png",
+      "assets/frames/8052b3cfe942b6c175a3.png",
+      "assets/frames/8c760f5d19b0aeafb555.png"
     ],
-    "foreground": [
-      "assets/frames/93b807b6e1bde481d4ac.png"
-    ],
+    "foreground": [],
     "tint_layers": [],
     "lighting": [
       0,

@@ -9,7 +9,7 @@
     "wind": 0
   },
   "user_approved": false,
-  "note": "Approved static artwork with local water motion and trees at rest. Tourist sprites retain their approved finer pixel grid.",
+  "note": "Approved static artwork with local water motion and trees at rest. Three independent closed floating paths, with small native-grid lateral drift and bobbing.",
   "wind_mode": "calm",
   "theme_id": "inner-tube-tourists",
   "review_status": "derived",

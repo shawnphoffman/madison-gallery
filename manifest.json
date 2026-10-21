@@ -2492,24 +2492,24 @@
       "label": "Ludicrous snow, windless",
       "files": {
         "png": {
-          "path": "downloads/ludicrous-snow-v1.png",
-          "sha256": "74fcc37b695c08ccb30e396031a7f0fa64f0cad66df59a796b715d4f30012445",
-          "bytes": 137964
+          "path": "downloads/ludicrous-snow-calm-still.png",
+          "sha256": "3a5a9a3ab16b3d4abd9a4b82a9bf042d12dae8f43ecb900334c58e4669b4372f",
+          "bytes": 136272
         },
         "native_png": {
           "path": "assets/posters/ludicrous-snow-native.png",
-          "sha256": "16b87356af354cbb277bae32634125ba595107d2e6a0f7b207ef351dc8cd52af",
-          "bytes": 85169
+          "sha256": "459c204dabdae83e00594c22caded3a18e6ac30e472f8c885d1d96bcd7e0eaa9",
+          "bytes": 71420
         },
         "webp": {
-          "path": "downloads/ludicrous-snow-calm.webp",
-          "sha256": "b08a090d7cb99347f93e1e7fc2c44da5b065788349594dc4427f959350f714ff",
-          "bytes": 1332778
+          "path": "downloads/ludicrous-snow-calm-v2.webp",
+          "sha256": "29159d0ceae2e5bad5e360d3a62a2a17b7425c9d5f4fdef368527de3a3e72343",
+          "bytes": 94128
         },
         "mp4": {
-          "sha256": "273b748f4bf6eee0d33b395abac3b6717747a03220879e29ef6a5b6e74db5484",
-          "bytes": 4516001,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/ludicrous-snow-calm.mp4"
+          "sha256": "3219d516305c30b58a8fea1e08053420aece1b53896e97b559f7099ce6336fb2",
+          "bytes": 360143,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/ludicrous-snow-calm-v2.mp4"
         }
       }
     },
@@ -2524,18 +2524,18 @@
         },
         "native_png": {
           "path": "assets/posters/inner-tube-tourists-native.png",
-          "sha256": "efa7a2c14f767c4182b75a781ce2a4181bb5d68d187971522a363149da921616",
-          "bytes": 94573
+          "sha256": "0a2f537160381568fc87600c8c5d323b50a94dfed6674d7061ed54cade4b700f",
+          "bytes": 94589
         },
         "webp": {
-          "path": "downloads/inner-tube-tourists-calm.webp",
-          "sha256": "2bd2f97b9086f0281c99c6ef5c1f03f6aa5af13dac4f16b6979d8a43cb674020",
-          "bytes": 155012
+          "path": "downloads/inner-tube-tourists-calm-v2.webp",
+          "sha256": "031d75b8f97ebb1c6de7afae6e12a130bbd72b259d9fa06d1aaa6327b606cc08",
+          "bytes": 168058
         },
         "mp4": {
-          "sha256": "17f056ac308f3f70889b109c7ad5fabb7b61679fab341e33c6f07b8ab24ea7d0",
-          "bytes": 591316,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/inner-tube-tourists-calm.mp4"
+          "sha256": "0b990c660d722c97f4838ef108b1aed8a3e74de0170ba7babf00ac7ad86e682a",
+          "bytes": 612368,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/inner-tube-tourists-calm-v2.mp4"
         }
       }
     },
@@ -2554,14 +2554,14 @@
           "bytes": 74302
         },
         "webp": {
-          "path": "downloads/foreground-squirrel-calm.webp",
-          "sha256": "b9286037e08a8bd6794d22eaead7a7435d37fbf24554475f83a096a2a827d7c1",
-          "bytes": 155606
+          "path": "downloads/foreground-squirrel-calm-v2.webp",
+          "sha256": "98fa4beaf367824417bf543081efe0797ddc2bcfcea1618f88be4e430da4491b",
+          "bytes": 160990
         },
         "mp4": {
-          "sha256": "66dceec1193dc29c537da6f3595e8e7e58b50cba17f842409dc23d3315ace009",
-          "bytes": 594292,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-calm.mp4"
+          "sha256": "e38dc0ccc7b82be18ae204562cf608fd87527e8d85d34c1e145169e724832e91",
+          "bytes": 601804,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-calm-v2.mp4"
         }
       }
     },
@@ -2576,18 +2576,18 @@
         },
         "native_png": {
           "path": "assets/posters/peeking-bear-native.png",
-          "sha256": "b3a77c2caf1af24495ade327ea239990ceb621e1ec722cbe5559d315f3fc4c29",
+          "sha256": "f85f672b27003baed8d8e0dd71ca5677c04513859f95184e705de24f300a5b77",
           "bytes": 75624
         },
         "webp": {
-          "path": "downloads/peeking-bear-calm.webp",
-          "sha256": "8651dd7d1b3a9466831e45825c6e0929b84cf5aedeeabfa9e4fe3298e1be11e8",
-          "bytes": 154684
+          "path": "downloads/peeking-bear-calm-v2.webp",
+          "sha256": "4f802f91ed787d5a9fe4e51539a7a675e9a1de77ea0f167fec6ab60a90cb28c7",
+          "bytes": 174534
         },
         "mp4": {
-          "sha256": "bba45a45cffb4e0744462feb080f57781f0633b4fa1f996109127fbf5e1e8b9b",
-          "bytes": 591865,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/peeking-bear-calm.mp4"
+          "sha256": "0ee3f750cb8d772827af5ab820574417335d5157173784d525c1421ab24f9eb0",
+          "bytes": 615631,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/peeking-bear-calm-v2.mp4"
         }
       }
     },
@@ -2799,14 +2799,14 @@
           "bytes": 74302
         },
         "webp": {
-          "path": "downloads/foreground-squirrel-gust.webp",
-          "sha256": "e72b05704d7189eba36378dbf630d34b13605d076374894e6d51b634d3752842",
-          "bytes": 436316
+          "path": "downloads/foreground-squirrel-gust-v2.webp",
+          "sha256": "36035a98be897960333a64735bc9f45eb1e4a871c516f9143447b626d492473d",
+          "bytes": 439384
         },
         "mp4": {
-          "sha256": "8170b667244be23a41c0959dc709966b587ae62b8969beee3d8439eacf72f708",
-          "bytes": 967756,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-gust.mp4"
+          "sha256": "e5890ce7627520942379fdf2dc0d9dd170396637409e94a7069c5499bb563831",
+          "bytes": 975347,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/foreground-squirrel-gust-v2.mp4"
         }
       }
     },
@@ -2821,18 +2821,18 @@
         },
         "native_png": {
           "path": "assets/posters/inner-tube-tourists-gust-native.png",
-          "sha256": "aa4a82a2b67a4a4850598e6f7a15d09af11fc0350846317dff074e16b624d180",
-          "bytes": 94646
+          "sha256": "443a919808e626457fb569f40947058bc24951b28677b3abf2b66794bc329872",
+          "bytes": 94661
         },
         "webp": {
-          "path": "downloads/inner-tube-tourists-gust.webp",
-          "sha256": "c04d2cdad744a9a538ff0aa27ad181f5bf8af6ff5d86b4f8be633c93fee330e5",
-          "bytes": 435496
+          "path": "downloads/inner-tube-tourists-gust-v2.webp",
+          "sha256": "3a27b8dda4e200baa20e3e11ccabb56d48c5ae340f8010584e4b3a88ef7b93e2",
+          "bytes": 449556
         },
         "mp4": {
-          "sha256": "b50e471db3894f5b75697789a8ab5c88bcc5e725384fb9da4d8d385b1f4b7909",
-          "bytes": 964621,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/inner-tube-tourists-gust.mp4"
+          "sha256": "adcdf234f8475de5c9b8e9df1b6ad564c14078d0d345c0c91d38693aba084a1e",
+          "bytes": 985121,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/inner-tube-tourists-gust-v2.mp4"
         }
       }
     },
@@ -2867,24 +2867,24 @@
       "label": "Ludicrous snow, gust",
       "files": {
         "png": {
-          "path": "downloads/ludicrous-snow-v1.png",
-          "sha256": "74fcc37b695c08ccb30e396031a7f0fa64f0cad66df59a796b715d4f30012445",
-          "bytes": 137964
+          "path": "downloads/ludicrous-snow-gust-still.png",
+          "sha256": "bfb52928447ca58a4977174ab881955e2b50a3118ed145236e578daebd639690",
+          "bytes": 137236
         },
         "native_png": {
           "path": "assets/posters/ludicrous-snow-gust-native.png",
-          "sha256": "16b87356af354cbb277bae32634125ba595107d2e6a0f7b207ef351dc8cd52af",
-          "bytes": 85169
+          "sha256": "459c204dabdae83e00594c22caded3a18e6ac30e472f8c885d1d96bcd7e0eaa9",
+          "bytes": 71420
         },
         "webp": {
-          "path": "downloads/ludicrous-snow-gust.webp",
-          "sha256": "ad61c35a53bc4d3016baa3ebeba9fcef4864a7556137654c6bfbfdbdef243146",
-          "bytes": 1597850
+          "path": "downloads/ludicrous-snow-gust-v2.webp",
+          "sha256": "5aaae7be237fb732bd7eed6129b22c1f207c47a7eeb541efcfb5eb1597aa0f83",
+          "bytes": 361814
         },
         "mp4": {
-          "sha256": "504ca0b4d95f6ef1d83000cc91ebdbc52a2ce886a5a178c3e4953ee19058e995",
-          "bytes": 4868529,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/ludicrous-snow-gust.mp4"
+          "sha256": "985219c766e760e5bbda53e6bd6ad0664a57d815ce98fb804733dce2b1f3bd08",
+          "bytes": 621275,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/ludicrous-snow-gust-v2.mp4"
         }
       }
     },
@@ -2951,18 +2951,18 @@
         },
         "native_png": {
           "path": "assets/posters/peeking-bear-gust-native.png",
-          "sha256": "b3a77c2caf1af24495ade327ea239990ceb621e1ec722cbe5559d315f3fc4c29",
+          "sha256": "f85f672b27003baed8d8e0dd71ca5677c04513859f95184e705de24f300a5b77",
           "bytes": 75624
         },
         "webp": {
-          "path": "downloads/peeking-bear-gust.webp",
-          "sha256": "7cd7aef8315113bb00432a045870519bf87cc29183b79076390c5d8009fa3941",
-          "bytes": 438824
+          "path": "downloads/peeking-bear-gust-v2.webp",
+          "sha256": "d12693bb50fb429a2f3b79092dddecd3b3f9a9972d87d534d3584c4ab6af8d3a",
+          "bytes": 453068
         },
         "mp4": {
-          "sha256": "047d06dcc0ebc03b55a1ba319436f586e7bbb832cca29534b06375d82ff77a23",
-          "bytes": 965592,
-          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/peeking-bear-gust.mp4"
+          "sha256": "9603474d4449f31affac555038ee70cf8faddcce464767e576b80a702e803b9c",
+          "bytes": 985983,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/peeking-bear-gust-v2.mp4"
         }
       }
     },
