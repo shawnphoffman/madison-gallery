@@ -37,6 +37,11 @@
           "path": "assets/posters/base-day-calm-native.png",
           "sha256": "cd33bc9aea228e88ec9e1084ce3d256f51bd3fa080c20c31aae19016e89904c1",
           "bytes": 73830
+        },
+        "mp4": {
+          "sha256": "25dd155824628eda81427c41baf284aad780b1d1bf6272ea27d04715b2a4d04c",
+          "bytes": 606691,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/base-day-calm.mp4"
         }
       }
     },
@@ -58,6 +63,11 @@
           "path": "assets/posters/spring-day-calm-native.png",
           "sha256": "4135c7744629ce2eec2dff78155f23b99baa849b2baf59c245bff6c48b4b0ab4",
           "bytes": 76248
+        },
+        "mp4": {
+          "sha256": "d68ee93c1d46ca674f9b13f485ff5a8ae967349aa8e9fb0f25602b14ffb01779",
+          "bytes": 611220,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/spring-day-calm.mp4"
         }
       }
     },
@@ -79,6 +89,11 @@
           "path": "assets/posters/summer-day-calm-native.png",
           "sha256": "d9cb81447b94e7a0d232aa1a4701bff0173f42dd7307b2074796bf039be7c696",
           "bytes": 72642
+        },
+        "mp4": {
+          "sha256": "64e532a476fe741ee6c8b4b06b008a68ee736c407220fb37f283f93a1bee923a",
+          "bytes": 585566,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/summer-day-calm.mp4"
         }
       }
     },
@@ -100,6 +115,11 @@
           "path": "assets/posters/autumn-day-calm-native.png",
           "sha256": "f18d6e0b5859bee90801a8c98a2619e3e8cdfabbe47a016aea2be39198dbbd78",
           "bytes": 71158
+        },
+        "mp4": {
+          "sha256": "4e5255dc9d66aadf098f713444ecd8337749a454db29f25083897697fc7183a8",
+          "bytes": 576202,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/autumn-day-calm.mp4"
         }
       }
     },
@@ -121,6 +141,11 @@
           "path": "assets/posters/autumn-leaves-day-calm-native.png",
           "sha256": "7f94b4b6cbce5aae857746ef37a8ed6cc6bfd2c681051432e10eaabeba3bb643",
           "bytes": 71280
+        },
+        "mp4": {
+          "sha256": "22485d38dfd0805413bcf0ea87a7d7cea02f971dd2d925a47f69316788ebd8c8",
+          "bytes": 642507,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/autumn-leaves-day-calm.mp4"
         }
       }
     },
@@ -142,6 +167,11 @@
           "path": "assets/posters/winter-day-calm-native.png",
           "sha256": "bf6802013ef8df19a142599c189ff502c5f492b316d0ae3fde4def646e257ea2",
           "bytes": 83572
+        },
+        "mp4": {
+          "sha256": "a7438b17594082a4ec61ae5be5f57c9cb7389026792d67a5db989b47a713368f",
+          "bytes": 604927,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/winter-day-calm.mp4"
         }
       }
     },
@@ -179,6 +209,11 @@
           "path": "assets/posters/rain-steady-day-calm-native.png",
           "sha256": "34e25cc2e834dcc97ca4f65386ae53d7b7b0efe8c16de274f928f888490c639d",
           "bytes": 67736
+        },
+        "mp4": {
+          "sha256": "df6ee934dafd6df0973ae8848768bab7c1900493fe1eed0176b7277eeb180c16",
+          "bytes": 1186219,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-steady-day-calm.mp4"
         }
       }
     },
@@ -200,6 +235,11 @@
           "path": "assets/posters/rain-heavy-day-calm-native.png",
           "sha256": "2531745fe820c527aa69db92688add005f8838d5acd948171c662338cb897703",
           "bytes": 70092
+        },
+        "mp4": {
+          "sha256": "895997c89ba1441c264df6a15eb611aab870b2938f544a500ff1b1f32a3e5ee6",
+          "bytes": 2666076,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-heavy-day-calm.mp4"
         }
       }
     },
@@ -221,6 +261,11 @@
           "path": "assets/posters/snow-gentle-day-calm-native.png",
           "sha256": "4777b2300e9774a11bf93df118e54d8ca9d2f473f2f2d14135b1b30875c1004e",
           "bytes": 78744
+        },
+        "mp4": {
+          "sha256": "52c7c6fde5b7dff3f962e0e1254b961f9f8b5883ce75afba0084ebc495376d23",
+          "bytes": 1256678,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-gentle-day-calm.mp4"
         }
       }
     },
@@ -242,6 +287,11 @@
           "path": "assets/posters/snow-fuller-day-calm-native.png",
           "sha256": "f11c35378cd3b978e31115eea82a49172d2750ab54b77028723c818f70d6683f",
           "bytes": 85935
+        },
+        "mp4": {
+          "sha256": "244240f218e221828d370fe8ac2435ba4c49197f3e1db0ccb949690201c174f2",
+          "bytes": 3655729,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-fuller-day-calm.mp4"
         }
       }
     },
@@ -263,6 +313,11 @@
           "path": "assets/posters/snow-intense-day-calm-native.png",
           "sha256": "55c7f59bfdb7f8e8a936245c6e49936529cbc7ba23f9cba9dea98acb72143736",
           "bytes": 90016
+        },
+        "mp4": {
+          "sha256": "dc67008c787aa90a0eb2505e0584d862fd0846720b86af6dd43e9e192d8a58d9",
+          "bytes": 5973418,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-intense-day-calm.mp4"
         }
       }
     },
@@ -284,6 +339,11 @@
           "path": "assets/posters/fog-light-day-calm-native.png",
           "sha256": "b6050838d3817f51fe9476a70fa34d0726bdf1ab16e7249afbd00a6cb7955f90",
           "bytes": 88254
+        },
+        "mp4": {
+          "sha256": "6815c4c07b3223c99b04eddd93ffacbe1093fec08ecfae2db9aa8ff7bf37cf9b",
+          "bytes": 773085,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-light-day-calm.mp4"
         }
       }
     },
@@ -305,6 +365,11 @@
           "path": "assets/posters/fog-dense-day-calm-native.png",
           "sha256": "22f7c2de91ad73cf2af9a07d362dec52ed613b126d1e6041dc52b835e5358399",
           "bytes": 87807
+        },
+        "mp4": {
+          "sha256": "5925cd95539fc93e98ff7a1506be6f7d738d9d9b17ac046add3d7b48fd5abef0",
+          "bytes": 795770,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-dense-day-calm.mp4"
         }
       }
     },
@@ -326,6 +391,11 @@
           "path": "assets/posters/lightning-distant-day-calm-native.png",
           "sha256": "34e25cc2e834dcc97ca4f65386ae53d7b7b0efe8c16de274f928f888490c639d",
           "bytes": 67736
+        },
+        "mp4": {
+          "sha256": "d1e96c77788d9a56f8c18647473b26868ee52199a0bb14d747f7f3137609b69f",
+          "bytes": 2291047,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/lightning-distant-day-calm.mp4"
         }
       }
     },
@@ -347,6 +417,11 @@
           "path": "assets/posters/lightning-active-day-calm-native.png",
           "sha256": "34e25cc2e834dcc97ca4f65386ae53d7b7b0efe8c16de274f928f888490c639d",
           "bytes": 67736
+        },
+        "mp4": {
+          "sha256": "a62b57f41fb780f6d67564755bf89ad5aff4f4a28adff633e10bcdb69ca7ad30",
+          "bytes": 3638063,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/lightning-active-day-calm.mp4"
         }
       }
     },
@@ -368,6 +443,11 @@
           "path": "assets/posters/meteor-subtle-night-calm-native.png",
           "sha256": "75455e246f57e5a166a66e2d942355ce932d6799e46bb2f77efe090a6d14d1db",
           "bytes": 53493
+        },
+        "mp4": {
+          "sha256": "253f783804cd155e79d3ce12d562cc802d027ef8cef2553c29b4e8a97670af82",
+          "bytes": 329701,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/meteor-subtle-night-calm.mp4"
         }
       }
     },
@@ -389,6 +469,11 @@
           "path": "assets/posters/meteor-bright-night-calm-native.png",
           "sha256": "00cf350c8446aed91aaf14d533ca09ec5d5a09fa82ba80c1171a6704628d13bb",
           "bytes": 53548
+        },
+        "mp4": {
+          "sha256": "f13e6d561b799c9664d8a65ffc588f343ff8036a945bdf7cc25847f5b7bd023b",
+          "bytes": 331468,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/meteor-bright-night-calm.mp4"
         }
       }
     },
@@ -426,6 +511,11 @@
           "path": "assets/posters/rain-night-calm-native.png",
           "sha256": "39a8716c88e66e8ce2f6047b161a409e16b68cd378f51fc7cae8fc8651ef5857",
           "bytes": 62395
+        },
+        "mp4": {
+          "sha256": "3df317c0a01819f5846c0d6a8595ae0603d88d4ad278db13cd5be5aecb52af7e",
+          "bytes": 1030431,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-night-calm.mp4"
         }
       }
     },
@@ -447,6 +537,11 @@
           "path": "assets/posters/thunderstorm-night-calm-native.png",
           "sha256": "e0d58572075b155a40220170b5c3120e673d1119a27958cf0d55e04ca87a6513",
           "bytes": 65465
+        },
+        "mp4": {
+          "sha256": "60e38f4926f239a559654e316010cc93453e0dc3f26a57f40e97bde3a07c7c4c",
+          "bytes": 4137936,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/thunderstorm-night-calm.mp4"
         }
       }
     },
@@ -468,6 +563,11 @@
           "path": "assets/posters/fog-night-calm-native.png",
           "sha256": "b1592d32235bcecc1575143048d2898d10f919e58f81573710e21b7e7d5eb857",
           "bytes": 74576
+        },
+        "mp4": {
+          "sha256": "99d17cf8996d3aa325aae160cd4d73a4ce83596176509defaef6fa3bd1c96dc0",
+          "bytes": 469525,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-night-calm.mp4"
         }
       }
     },
@@ -489,6 +589,11 @@
           "path": "assets/posters/snow-night-calm-native.png",
           "sha256": "9337a20a98a027ba086726d836698de549e7ddd6ca612fbe097186bf042c1d78",
           "bytes": 73000
+        },
+        "mp4": {
+          "sha256": "993bf2b1728667534db3b2da924168322da26061e4a07f064e283192a55e1abf",
+          "bytes": 1700887,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-night-calm.mp4"
         }
       }
     },
@@ -510,6 +615,11 @@
           "path": "assets/posters/wildfire-medium-day-calm-native.png",
           "sha256": "4555c0e4fab77fcdaa62ee828e07bf561ec792257cfa7becccf080764fbcafd8",
           "bytes": 81460
+        },
+        "mp4": {
+          "sha256": "64a2bcafb91cb3acb615425d0e111a5926d0a869bb3474ab81c9bd12558c8945",
+          "bytes": 1576453,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/wildfire-medium-day-calm.mp4"
         }
       }
     },
@@ -531,6 +641,11 @@
           "path": "assets/posters/wildfire-intense-day-calm-native.png",
           "sha256": "ce987d8433b6a00d96dcec8adf237b97d36504cc13c1ddfbd3d78642a0ee5c81",
           "bytes": 81448
+        },
+        "mp4": {
+          "sha256": "d73ae96d8654078106ee1aaca2e4b29e13b6de72291c17764865a206b1233f06",
+          "bytes": 1570892,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/wildfire-intense-day-calm.mp4"
         }
       }
     },
@@ -552,6 +667,11 @@
           "path": "assets/posters/dawn-calm-native.png",
           "sha256": "971e733e57ee512c3677c7c3fd649bd2a6bf60fbc9c9c221f27f31a84e9cc9c8",
           "bytes": 66485
+        },
+        "mp4": {
+          "sha256": "843d82f048925090db1a5cd1411fd35eec38836cac48b4831b38e6eb2c37aa77",
+          "bytes": 484571,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/dawn-calm.mp4"
         }
       }
     },
@@ -573,6 +693,11 @@
           "path": "assets/posters/sunrise-calm-native.png",
           "sha256": "ad4cafffc35e57a5b33093a7c5ff742f06130414f81ac0dad763eeab684dc2b6",
           "bytes": 67222
+        },
+        "mp4": {
+          "sha256": "83dbe6a86cf72e040b8e23a42f74ccc2deabf2866266c2f706354f479c5152c5",
+          "bytes": 574347,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/sunrise-calm.mp4"
         }
       }
     },
@@ -594,6 +719,11 @@
           "path": "assets/posters/sunset-calm-native.png",
           "sha256": "26a1261d0a10657db769fa3cd25c81f6f172af6d8fc214226ffe08cdb1ec9f8a",
           "bytes": 66772
+        },
+        "mp4": {
+          "sha256": "7333f3c8373c99e89dba0b672a23caaea9945eedb9e19d47bf1f75fed8c722e4",
+          "bytes": 559667,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/sunset-calm.mp4"
         }
       }
     },
@@ -615,6 +745,11 @@
           "path": "assets/posters/dusk-calm-native.png",
           "sha256": "57d320b636ef3f02748c4953b8283d0b1e15345c0c0754fcc4be6bec2b6d5259",
           "bytes": 64164
+        },
+        "mp4": {
+          "sha256": "25ccd388962e2fb3d917f500a43ee9af7f1763a2a7484b23dc80caf67ee4d51c",
+          "bytes": 407085,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/dusk-calm.mp4"
         }
       }
     },
@@ -636,6 +771,11 @@
           "path": "downloads/slash-piles-summer.webp",
           "sha256": "620d07a414f8e05ee16028100061ff52e01fd85deeb0a2001451a89e46c2c06d",
           "bytes": 114328
+        },
+        "mp4": {
+          "sha256": "eb1a616c21e9778f746f4e3467652edf7e4bb662337e8e0d2fb8e64c33a48bcf",
+          "bytes": 738414,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/slash-piles-summer.mp4"
         }
       }
     },
@@ -673,6 +813,11 @@
           "path": "downloads/slash-piles-winter-burning.webp",
           "sha256": "2cf3fdc3ed3b178d64a9a1bbba8b5710aa2f939b620021f57c9184e2cb1297a7",
           "bytes": 235676
+        },
+        "mp4": {
+          "sha256": "ed3fa12f62061fc35465adc3b4fc9477cd9e4fbe73d741cbb631489163f589a0",
+          "bytes": 1589100,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/slash-piles-winter-burning.mp4"
         }
       }
     },
@@ -694,6 +839,11 @@
           "path": "downloads/base-day-breeze.webp",
           "sha256": "b7e4dcba03407df4ec09990fd4fab307b8a0762809de9b8b86d227a5da2780f2",
           "bytes": 271926
+        },
+        "mp4": {
+          "sha256": "34ffff25c9ec53e6dfa25815e807a21f7d1a4f56320b4c31306f37086c384391",
+          "bytes": 710500,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/base-day-breeze.mp4"
         }
       }
     },
@@ -715,6 +865,11 @@
           "path": "downloads/base-day-gust.webp",
           "sha256": "f88686daf76891179cb67f4d1d273bb4dbc84ea6dce99e6f8a01a057c7c95627",
           "bytes": 427672
+        },
+        "mp4": {
+          "sha256": "11d8b632ec1c414138902aa851bbc41c95590e091c48157836f09162c71c4b55",
+          "bytes": 979979,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/base-day-gust.mp4"
         }
       }
     },
@@ -736,6 +891,11 @@
           "path": "downloads/spring-day-breeze.webp",
           "sha256": "19554f91c4138a760fea2877eb85fe9128bb7d0184380d0c869ecebbb23e5702",
           "bytes": 270864
+        },
+        "mp4": {
+          "sha256": "e2484323607b27ce7a830ee6dc2df92f520bb2b5b7561b9e696d3634c8280897",
+          "bytes": 713388,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/spring-day-breeze.mp4"
         }
       }
     },
@@ -757,6 +917,11 @@
           "path": "downloads/spring-day-gust.webp",
           "sha256": "90247a4aac44a60c452fb1c77e104f25719d08169a6ff87f654d6fdce4483e2b",
           "bytes": 426760
+        },
+        "mp4": {
+          "sha256": "6990917d3a2a431ece5ad3eabde47076a56923a8257d9f745a51d489a474b785",
+          "bytes": 982261,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/spring-day-gust.mp4"
         }
       }
     },
@@ -778,6 +943,11 @@
           "path": "downloads/summer-day-breeze.webp",
           "sha256": "64181c2c766dbf7a80ac4a7903f770d94aa38d5c8157c9f457c609ea337e426c",
           "bytes": 263276
+        },
+        "mp4": {
+          "sha256": "1f8f37645c8a4921660314c888f0e7c753eba303af6806daf7dc334b87f9b18d",
+          "bytes": 693148,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/summer-day-breeze.mp4"
         }
       }
     },
@@ -799,6 +969,11 @@
           "path": "downloads/summer-day-gust.webp",
           "sha256": "349fbd86bd2e838200445ebfbc12d3e653c039e947c9e809c98c08a781b262f3",
           "bytes": 422510
+        },
+        "mp4": {
+          "sha256": "322997034f14074ea737bf71f2f5157280864f6373d7513b53eff6fcf13948fd",
+          "bytes": 972764,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/summer-day-gust.mp4"
         }
       }
     },
@@ -820,6 +995,11 @@
           "path": "downloads/autumn-day-breeze.webp",
           "sha256": "cfe7efd24fc93bccff8cb95193c25486c88f22d3888b1a74868d34cf701c9443",
           "bytes": 259112
+        },
+        "mp4": {
+          "sha256": "045d8f51542afd9f020e23441add2f54e547c3b48c2c646d292eed49dead1410",
+          "bytes": 674432,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/autumn-day-breeze.mp4"
         }
       }
     },
@@ -841,6 +1021,11 @@
           "path": "downloads/autumn-day-gust.webp",
           "sha256": "d8535f9390d01b6445d9fac0997f8de1fbd20761aac3bb66e52ea54c0074b812",
           "bytes": 415012
+        },
+        "mp4": {
+          "sha256": "0990f8450ea0039a1a5d48554e42811ceb4059e3a49587bfc1142c3027569eba",
+          "bytes": 940283,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/autumn-day-gust.mp4"
         }
       }
     },
@@ -862,6 +1047,11 @@
           "path": "downloads/autumn-leaves-day-breeze.webp",
           "sha256": "d5232eb43a3beed428096f85c4dd48470055e2a91d2ec0caab022e1758e72769",
           "bytes": 284398
+        },
+        "mp4": {
+          "sha256": "e3b9b6bdb62db7a55bfa406729eff4e3c56ffba8e3150bce2e775091627b21f3",
+          "bytes": 743012,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/autumn-leaves-day-breeze.mp4"
         }
       }
     },
@@ -883,6 +1073,11 @@
           "path": "downloads/autumn-leaves-day-gust.webp",
           "sha256": "7cf8eff021caa6670c6d91fc93bc5ecc84f2bde60b86d5fd04918de08b7abd4a",
           "bytes": 436524
+        },
+        "mp4": {
+          "sha256": "818b5ea3ed56b1be92763a15f074965d687c82680d54b536ebdd97161b34d58b",
+          "bytes": 1010773,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/autumn-leaves-day-gust.mp4"
         }
       }
     },
@@ -904,6 +1099,11 @@
           "path": "downloads/winter-day-breeze.webp",
           "sha256": "10e725b362ebdbc208c64f7373a94d720536ff6c4592ed3b6b56db4dea7b84d7",
           "bytes": 285494
+        },
+        "mp4": {
+          "sha256": "ee1022065572944a37681120ed80f9d62a7209f45c6034bd28774f83e1d92b01",
+          "bytes": 711474,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/winter-day-breeze.mp4"
         }
       }
     },
@@ -925,6 +1125,11 @@
           "path": "downloads/winter-day-gust.webp",
           "sha256": "0c2006c0812d4fa9915e6e29e1b780a1efd5dc2ef236ccbdf39acd3c1a668760",
           "bytes": 462920
+        },
+        "mp4": {
+          "sha256": "68dc0c81d8c31d18bd03cfd7531da211e7ae8441455f10d7225502d77151f984",
+          "bytes": 1009754,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/winter-day-gust.mp4"
         }
       }
     },
@@ -946,6 +1151,11 @@
           "path": "downloads/clear-night-breeze.webp",
           "sha256": "d5d51d0ef74e4fb803453d08a2a8bbc2c8b2aeba80f7cbb375564d124ae1c40a",
           "bytes": 143132
+        },
+        "mp4": {
+          "sha256": "268749ea1bb8f20b2e40384133ef13f217283cb39a4557899eb16f9dc55bec4a",
+          "bytes": 403144,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/clear-night-breeze.mp4"
         }
       }
     },
@@ -967,6 +1177,11 @@
           "path": "downloads/clear-night-gust.webp",
           "sha256": "27fc58aa974c817d28ff1075966e01a29020f9c6921e46919c1506831b364b04",
           "bytes": 283844
+        },
+        "mp4": {
+          "sha256": "cfa810c3468ef6fd4bd42005ee1a8dbfb6a40fe107cd52de3f1677c961aadfb8",
+          "bytes": 566152,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/clear-night-gust.mp4"
         }
       }
     },
@@ -988,6 +1203,11 @@
           "path": "downloads/rain-steady-day-breeze.webp",
           "sha256": "c77c9f30b245d718220c469b914d35127997563f18ebffdcd7606ddbe14e5623",
           "bytes": 547204
+        },
+        "mp4": {
+          "sha256": "139d77511053dc1eec1252ca0d9930c4897d88679ea071823f32688bf04442f3",
+          "bytes": 1281462,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-steady-day-breeze.mp4"
         }
       }
     },
@@ -1009,6 +1229,11 @@
           "path": "downloads/rain-steady-day-gust.webp",
           "sha256": "d4f554af8edc0ff0ca09c4f2fe5d8d34ba190d601d348509b103bba0908ab290",
           "bytes": 708872
+        },
+        "mp4": {
+          "sha256": "d1e4d4e1c9fd881d050afd3e3720aef34fb575349be444d38d20b2a338aa7a91",
+          "bytes": 1522520,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-steady-day-gust.mp4"
         }
       }
     },
@@ -1030,6 +1255,11 @@
           "path": "downloads/rain-heavy-day-breeze.webp",
           "sha256": "d645273dd2eb415d797ed198337b665b9e7013e3c2adf800521768e5134f2904",
           "bytes": 1112990
+        },
+        "mp4": {
+          "sha256": "cabd95c5ab9bdfb7ccea710a7938c7918f8c288fc740c6c76502ed4a667de8d3",
+          "bytes": 2757650,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-heavy-day-breeze.mp4"
         }
       }
     },
@@ -1051,6 +1281,11 @@
           "path": "downloads/rain-heavy-day-gust.webp",
           "sha256": "bd9933e447fa2f4aafde3a12564228fcec9f6d44989f300f466dd7b301470b32",
           "bytes": 1271300
+        },
+        "mp4": {
+          "sha256": "53a33fd47bfd8fbb8759350a4053dbc2ec6b20d1d896481e1f4370cdafa665c5",
+          "bytes": 3005386,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-heavy-day-gust.mp4"
         }
       }
     },
@@ -1072,6 +1307,11 @@
           "path": "downloads/snow-gentle-day-breeze.webp",
           "sha256": "f449d743d0814268eafc999cd4d2b2393eadb3f6638f85a5df2676afae2bd6e7",
           "bytes": 471312
+        },
+        "mp4": {
+          "sha256": "0ae95ff2d2cb552483b6ff9b22608b93763f7c0fedb0197a85e71cf7c3f6bfd4",
+          "bytes": 1364058,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-gentle-day-breeze.mp4"
         }
       }
     },
@@ -1093,6 +1333,11 @@
           "path": "downloads/snow-gentle-day-gust.webp",
           "sha256": "b1638e55c45be26d31cfe790f532c8bccd63823ca103e010948a0930ad5d8d98",
           "bytes": 651830
+        },
+        "mp4": {
+          "sha256": "150b3153f35db02d7c53d92bde0e67b2c4f715dd08f9fb060f97175591ee0f3b",
+          "bytes": 1657738,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-gentle-day-gust.mp4"
         }
       }
     },
@@ -1114,6 +1359,11 @@
           "path": "downloads/snow-fuller-day-breeze.webp",
           "sha256": "9656553dc0f36e24d8bfee749ef92b5abdce54c30fe5c501539191623f5d9078",
           "bytes": 1040644
+        },
+        "mp4": {
+          "sha256": "032f93505e8f1c5ed1b7f9c0c81633f3d369e4e64870cb525fb53cc8e5e29760",
+          "bytes": 3779459,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-fuller-day-breeze.mp4"
         }
       }
     },
@@ -1135,6 +1385,11 @@
           "path": "downloads/snow-fuller-day-gust.webp",
           "sha256": "0410d8189731857a91647a23d1bcd3787718a3449f0cc79dd8598b54ca6d7100",
           "bytes": 1214558
+        },
+        "mp4": {
+          "sha256": "12e8d789f9e57e377bf43ffa242b9c25d0a42ee004ec5a6a39cd8a1fd32c07b1",
+          "bytes": 4120462,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-fuller-day-gust.mp4"
         }
       }
     },
@@ -1156,6 +1411,11 @@
           "path": "downloads/snow-intense-day-breeze.webp",
           "sha256": "d6efda5565f97d8fc84c1b1d20f31dee0d04212120539beb10de0055faac40bd",
           "bytes": 1561444
+        },
+        "mp4": {
+          "sha256": "00fed27c94bd6abc4cbadc34ca9e8233fb42c25abf745eaf1f6e983c4663148c",
+          "bytes": 6154297,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-intense-day-breeze.mp4"
         }
       }
     },
@@ -1177,6 +1437,11 @@
           "path": "downloads/snow-intense-day-gust.webp",
           "sha256": "ea8010b7bb67243bb3758f0aaef20ae6eaf671dfc52c49a6588d50ecdcd2be10",
           "bytes": 1736998
+        },
+        "mp4": {
+          "sha256": "9b0810217a18d1deb9680c6e709c04256c090d318e67386da17b7823f89eb321",
+          "bytes": 6518850,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-intense-day-gust.mp4"
         }
       }
     },
@@ -1198,6 +1463,11 @@
           "path": "downloads/fog-light-day-breeze.webp",
           "sha256": "33d8feb076cb83de0480b3cee9705bef2f1bb82072dd82135cf59510ba865fcb",
           "bytes": 291968
+        },
+        "mp4": {
+          "sha256": "f14039d0c516890f762289811dea303256c851a9c9938be7710ea4270256a188",
+          "bytes": 846928,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-light-day-breeze.mp4"
         }
       }
     },
@@ -1219,6 +1489,11 @@
           "path": "downloads/fog-light-day-gust.webp",
           "sha256": "fba53df0be21dc32af086d6fa2dca8afc88a73364c296d32c2473c8c3dfc16c3",
           "bytes": 456636
+        },
+        "mp4": {
+          "sha256": "47ed7d2a55b8ce56e7d229b369d1d54432c66b0aab19ac5ad57d83952fc438c6",
+          "bytes": 1106557,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-light-day-gust.mp4"
         }
       }
     },
@@ -1240,6 +1515,11 @@
           "path": "downloads/fog-dense-day-breeze.webp",
           "sha256": "d5978d746e8bfb75a6b0b0c6b16a52d23949a06a4fb2b92d25ff68c1c6a0c6a4",
           "bytes": 302082
+        },
+        "mp4": {
+          "sha256": "88575fb4ea8eca8b0b31721ae11459e770492200ffd8da2241dfc730347b227b",
+          "bytes": 867216,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-dense-day-breeze.mp4"
         }
       }
     },
@@ -1261,6 +1541,11 @@
           "path": "downloads/fog-dense-day-gust.webp",
           "sha256": "a591edb9b9c6af3a269297a819ed4be89dc514b873089e2e930b8d2688e0fc0f",
           "bytes": 467502
+        },
+        "mp4": {
+          "sha256": "85d8ad7f1ee7bd21b2fb2ba8737bd6c75fe282b71acf9e81907ed93e2e350d23",
+          "bytes": 1127168,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-dense-day-gust.mp4"
         }
       }
     },
@@ -1282,6 +1567,11 @@
           "path": "downloads/lightning-distant-day-breeze.webp",
           "sha256": "3f4f73b08ddc9e4d49542de50f6c4747ac76bbfdd77630c9a1339a37e20b8321",
           "bytes": 846126
+        },
+        "mp4": {
+          "sha256": "98ed9825f96750002e64733b076637daf6a24eadc883e34fb3e33a2032e65f20",
+          "bytes": 2338313,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/lightning-distant-day-breeze.mp4"
         }
       }
     },
@@ -1303,6 +1593,11 @@
           "path": "downloads/lightning-distant-day-gust.webp",
           "sha256": "f212c0b6cf7512c4cdf59b95b6eb7bca8259e5e4ef8aec3a57062b3940cf47a3",
           "bytes": 990050
+        },
+        "mp4": {
+          "sha256": "2d66d799bf229a8bf7590e09e4a7dcd88895278a6efdc3e2b6273f1759d4b987",
+          "bytes": 2597415,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/lightning-distant-day-gust.mp4"
         }
       }
     },
@@ -1324,6 +1619,11 @@
           "path": "downloads/lightning-active-day-breeze.webp",
           "sha256": "c3f8e8fae223ed3ae70de5d0dc6a9c3192393da51f1d2ee82a8b45d27bbdc967",
           "bytes": 1174602
+        },
+        "mp4": {
+          "sha256": "fe94824c4969a78dd83d5dd584ac56027710b97956a75fadd0d56e2a4f6a9e0e",
+          "bytes": 3660064,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/lightning-active-day-breeze.mp4"
         }
       }
     },
@@ -1345,6 +1645,11 @@
           "path": "downloads/lightning-active-day-gust.webp",
           "sha256": "e1ef10037d86d618bec50a6f42a88abb623f8d8f7925c6d0a1c16f9a8e25b258",
           "bytes": 1303390
+        },
+        "mp4": {
+          "sha256": "e25acafb24c34bbf0edf2a8a3ae9e0056f7b62c0d5a869f26419e40c0c47821d",
+          "bytes": 3878145,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/lightning-active-day-gust.mp4"
         }
       }
     },
@@ -1366,6 +1671,11 @@
           "path": "downloads/meteor-subtle-night-breeze.webp",
           "sha256": "45f32c2454cf20494f251298058d1f9cb0504792e8ac54589060c4d0d350c5ed",
           "bytes": 144372
+        },
+        "mp4": {
+          "sha256": "3b11c3c5c5e732d9bb821d2d18e6ff2bf68a964b9bf47485b0745d1c7484a954",
+          "bytes": 404668,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/meteor-subtle-night-breeze.mp4"
         }
       }
     },
@@ -1387,6 +1697,11 @@
           "path": "downloads/meteor-subtle-night-gust.webp",
           "sha256": "a84b9d97e6f98569b18f820ed57ae0912c11bd445a5d3c1faac637ccc2e1a327",
           "bytes": 284470
+        },
+        "mp4": {
+          "sha256": "349f812a8399ab96c33385b0973c2d1cd7b48c615926a5f4568cb16037d293f0",
+          "bytes": 567756,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/meteor-subtle-night-gust.mp4"
         }
       }
     },
@@ -1408,6 +1723,11 @@
           "path": "downloads/meteor-bright-night-breeze.webp",
           "sha256": "474bb64dc5a3fb0edbd5052f9ad1002488ac170ca82b12f27bf0e74c5e6244bc",
           "bytes": 144772
+        },
+        "mp4": {
+          "sha256": "3c909d758e87c614cb1298323d2673c537c164b853aeb34ccb43c9422fda00d1",
+          "bytes": 406607,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/meteor-bright-night-breeze.mp4"
         }
       }
     },
@@ -1429,6 +1749,11 @@
           "path": "downloads/meteor-bright-night-gust.webp",
           "sha256": "a0dd0a63f08adf870c7db065bb261a17d35cac1c9cb8b78e7e6b498ab4673474",
           "bytes": 284806
+        },
+        "mp4": {
+          "sha256": "457f688cc6964ed8c33119311f84efcb978e1647549dc3406a484812c147d77e",
+          "bytes": 569963,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/meteor-bright-night-gust.mp4"
         }
       }
     },
@@ -1450,6 +1775,11 @@
           "path": "downloads/drought-day-breeze.webp",
           "sha256": "a402793d9e4f53cb481693f44942d4627ef86a7b614df8fd25efbad001503ac6",
           "bytes": 155884
+        },
+        "mp4": {
+          "sha256": "a1cacf87be8f8f7bcb460cbc3b11f67c8b5f7bdd764543459b178ed0a1065320",
+          "bytes": 588269,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/drought-day-breeze.mp4"
         }
       }
     },
@@ -1471,6 +1801,11 @@
           "path": "downloads/drought-day-gust.webp",
           "sha256": "b758cf26823772c3fda3809af2cc05e7b0b41f35ad1faa60cd4d2d371cc3c86b",
           "bytes": 307420
+        },
+        "mp4": {
+          "sha256": "84a1f661d2b351dd6aff3f8bbec365d387039c55be1f9b1e7767419dec9454bb",
+          "bytes": 903329,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/drought-day-gust.mp4"
         }
       }
     },
@@ -1492,6 +1827,11 @@
           "path": "downloads/rain-night-breeze.webp",
           "sha256": "1be3d682c56b32ba7f7d5dc302e64b29dfc0e58ab142e0b4f3b176facd8198a6",
           "bytes": 495590
+        },
+        "mp4": {
+          "sha256": "865dc179d35d383f84aa6fc2a60d9304619d4ed3b37e37e6e6c4410717fcf7e6",
+          "bytes": 1034040,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-night-breeze.mp4"
         }
       }
     },
@@ -1513,6 +1853,11 @@
           "path": "downloads/rain-night-gust.webp",
           "sha256": "7525433aa862feb9a4e48a9661667cd7bba5827b469d1b72761bf9a98a7e7e63",
           "bytes": 638072
+        },
+        "mp4": {
+          "sha256": "18f4fc5176dcf47602eaca2564def0caa3e5a3acfa8b7b15101b15a9a8e42d36",
+          "bytes": 1127449,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/rain-night-gust.mp4"
         }
       }
     },
@@ -1534,6 +1879,11 @@
           "path": "downloads/thunderstorm-night-breeze.webp",
           "sha256": "074bb064e65e5b044215a2f9ba4040705c424859486ce577d3ecc6638315c1ee",
           "bytes": 1471830
+        },
+        "mp4": {
+          "sha256": "31086f1e2a088a87d9079df70d9f65cf5492f73fb3d4525893b9eb18399b93c0",
+          "bytes": 3803783,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/thunderstorm-night-breeze.mp4"
         }
       }
     },
@@ -1555,6 +1905,11 @@
           "path": "downloads/thunderstorm-night-gust.webp",
           "sha256": "0e321f040c34a40c182c06aa7f9c7cc5713a6ededc91e237a29a74a35782d396",
           "bytes": 1576168
+        },
+        "mp4": {
+          "sha256": "91cb3e302c8818228976e84db99515d889aa04873c73f8f2ed81cb0690cb12c2",
+          "bytes": 3880078,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/thunderstorm-night-gust.mp4"
         }
       }
     },
@@ -1576,6 +1931,11 @@
           "path": "downloads/fog-night-breeze.webp",
           "sha256": "9009fbef00ae5bcb635f6153a304e968b2c9c03edf5d921951cccfb2df79b2a0",
           "bytes": 266570
+        },
+        "mp4": {
+          "sha256": "ebf7c9a69b77cbbcb0fd35ffe3e23cc6847147b6feb0ba499b9158bbf36b5c0f",
+          "bytes": 513120,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-night-breeze.mp4"
         }
       }
     },
@@ -1597,6 +1957,11 @@
           "path": "downloads/fog-night-gust.webp",
           "sha256": "288f7be1a014508e34b2aee1327b9ecfe0c673d4702af65d6618e7ee024d3816",
           "bytes": 406026
+        },
+        "mp4": {
+          "sha256": "6605293c293018def089b73f4ff379117d7b9b9c48f8bfa05887b5b3fdabdcc1",
+          "bytes": 628709,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/fog-night-gust.mp4"
         }
       }
     },
@@ -1618,6 +1983,11 @@
           "path": "downloads/snow-night-breeze.webp",
           "sha256": "e9e117bbecb3520a5401ffcaf4e45e881130a52ea42f539a9bd73e2590b04f05",
           "bytes": 757902
+        },
+        "mp4": {
+          "sha256": "8d56e05f287a5b7da795e791358b94680365076dfb9dc83ef6d02d6373c6737a",
+          "bytes": 1754657,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-night-breeze.mp4"
         }
       }
     },
@@ -1639,6 +2009,11 @@
           "path": "downloads/snow-night-gust.webp",
           "sha256": "a7cc9c927653537dba0e30a4a5750488bee46ebe654dea87aa0c3e76813a27e6",
           "bytes": 906106
+        },
+        "mp4": {
+          "sha256": "ffa2df195f6e074878c0efb137d7e42664447f3ef9d926651fd101243175d249",
+          "bytes": 1917959,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/snow-night-gust.mp4"
         }
       }
     },
@@ -1660,6 +2035,11 @@
           "path": "downloads/wildfire-medium-day-breeze.webp",
           "sha256": "81748892cec50c570303dd0335b41ce5d80d4850d1e39817908359755bdd466a",
           "bytes": 483038
+        },
+        "mp4": {
+          "sha256": "a22b5ca6e1e9435a040ce479d148c216d8fa0f4a259c4298491e81ab9f01fb14",
+          "bytes": 1716903,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/wildfire-medium-day-breeze.mp4"
         }
       }
     },
@@ -1681,6 +2061,11 @@
           "path": "downloads/wildfire-medium-day-gust.webp",
           "sha256": "b58e0aedbbc1e7b15f96e5b0d625105f41d147247e69012a42fb6de4e63857c8",
           "bytes": 652116
+        },
+        "mp4": {
+          "sha256": "7fe063b5cd85bdadca2702bd84bb0d5659d43be6ffbb35b3c6abb93f934230e3",
+          "bytes": 1973070,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/wildfire-medium-day-gust.mp4"
         }
       }
     },
@@ -1702,6 +2087,11 @@
           "path": "downloads/wildfire-intense-day-breeze.webp",
           "sha256": "2ff57c70b6c3b26441a7b9f73860e656800972980f853cd96a360b88ea5bbd61",
           "bytes": 478772
+        },
+        "mp4": {
+          "sha256": "b95d76f8567ca24bed37822b10b746877d3d32ceaa32ea84d7e8d7af51202f55",
+          "bytes": 1705463,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/wildfire-intense-day-breeze.mp4"
         }
       }
     },
@@ -1723,6 +2113,11 @@
           "path": "downloads/wildfire-intense-day-gust.webp",
           "sha256": "66d6ad6e9969663d37547358740a7fe211c149514343b177660aff1256f19ce8",
           "bytes": 645300
+        },
+        "mp4": {
+          "sha256": "44a253bc48237ed3eda6a97bbf8a60c77a4c9a6ca4041cc6bb6ecb8fad6f9dae",
+          "bytes": 1958216,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/wildfire-intense-day-gust.mp4"
         }
       }
     },
@@ -1744,6 +2139,11 @@
           "path": "downloads/dawn-breeze.webp",
           "sha256": "bbfcd42b5a303d8996d2ed59dfa6a9cc0564b001562cc25ba1fb68ac8162e97f",
           "bytes": 258216
+        },
+        "mp4": {
+          "sha256": "5734146947d4cdc6c09ad36ca59f1c665e6156ceea95a64cdf7308e0f516af13",
+          "bytes": 561423,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/dawn-breeze.mp4"
         }
       }
     },
@@ -1765,6 +2165,11 @@
           "path": "downloads/dawn-gust.webp",
           "sha256": "011cc3dde60f2abcd9d9c067d863c5f3129e52a0352f2d4af6e3eb53d8bcf341",
           "bytes": 413300
+        },
+        "mp4": {
+          "sha256": "d78b2665c854581e8e5c9b4f1cdb65ac6c074a7b1b613198e499ab096df26570",
+          "bytes": 757962,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/dawn-gust.mp4"
         }
       }
     },
@@ -1786,6 +2191,11 @@
           "path": "downloads/sunrise-breeze.webp",
           "sha256": "2cd217c9d8f4202be2f98749a917fa7a3f624f515640c1d13e20772f7eac78fa",
           "bytes": 266490
+        },
+        "mp4": {
+          "sha256": "06a2138a7d6a9b7e43c6cde57cba87bb3276a5d1d4ff22b62c29682e0a30e626",
+          "bytes": 674138,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/sunrise-breeze.mp4"
         }
       }
     },
@@ -1807,6 +2217,11 @@
           "path": "downloads/sunrise-gust.webp",
           "sha256": "c853703708329530e470b502aeecec0ec732a6ed7664cc50f9f7b5903fcab38f",
           "bytes": 422564
+        },
+        "mp4": {
+          "sha256": "9dafbda7f9e287074b78b6178901d8d8dd0391602e023aab1ad0041d2f40f2cd",
+          "bytes": 930567,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/sunrise-gust.mp4"
         }
       }
     },
@@ -1828,6 +2243,11 @@
           "path": "downloads/sunset-breeze.webp",
           "sha256": "6f1cd8573c3f631a96ab145f4e2318aa398ef59adbaad683d5eb8ffeadad2695",
           "bytes": 264930
+        },
+        "mp4": {
+          "sha256": "50914e607afd39c43932467ba79594caf23ac12c1d41191cc242324d4e65e4df",
+          "bytes": 655304,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/sunset-breeze.mp4"
         }
       }
     },
@@ -1849,6 +2269,11 @@
           "path": "downloads/sunset-gust.webp",
           "sha256": "55d6733a0c798e5731baaee8222f17241d95759fce245c9ebc91db0d17b864fd",
           "bytes": 421276
+        },
+        "mp4": {
+          "sha256": "b879a9f51d6f154cdf7bc543704b4c5860e83509d8106798416b5f9d4d03b2bd",
+          "bytes": 891108,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/sunset-gust.mp4"
         }
       }
     },
@@ -1870,6 +2295,11 @@
           "path": "downloads/dusk-breeze.webp",
           "sha256": "f4c2b8c782543010a9c72e222293dc5271feb8c961dffb51efacdd05b1f4df82",
           "bytes": 242350
+        },
+        "mp4": {
+          "sha256": "6e6390cbf206a4033af273af73f4195aa45d647132aea518dbb3679007eaa83b",
+          "bytes": 459285,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/dusk-breeze.mp4"
         }
       }
     },
@@ -1891,6 +2321,11 @@
           "path": "downloads/dusk-gust.webp",
           "sha256": "00080d888d2e671da74acb7eaf0139a04aabc9b6c7a433abfb5005566923358e",
           "bytes": 387604
+        },
+        "mp4": {
+          "sha256": "05b2e0da75f675dc1cf9d72d667829ecae6de34e8ba7ccad2080dfd5e75423c5",
+          "bytes": 598842,
+          "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/dusk-gust.mp4"
         }
       }
     },
