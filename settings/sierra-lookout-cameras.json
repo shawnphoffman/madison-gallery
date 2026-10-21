@@ -1,0 +1,27 @@
+{
+  "id": "sierra-lookout-cameras",
+  "label": "Sierra lookout with cameras",
+  "group": "Sierra lookout",
+  "user_approved": true,
+  "mechanical_checks_passed": true,
+  "note": "Roof security cameras with pixelated translucent fields of view.",
+  "wind_mode": "calm",
+  "theme_id": "sierra-lookout-cameras",
+  "review_status": "approved",
+  "static_only": true,
+  "section": "extras",
+  "native_size": [
+    640,
+    360
+  ],
+  "hd_png_size": [
+    1920,
+    1080
+  ],
+  "frames": 1,
+  "duration_ms": 0,
+  "animation_size": null,
+  "frame_duration_ms": 50,
+  "loop": 0,
+  "clouds": "static"
+}

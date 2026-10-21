@@ -1,0 +1,27 @@
+{
+  "id": "sierra-lookout",
+  "label": "Sierra lookout",
+  "group": "Sierra lookout",
+  "user_approved": true,
+  "mechanical_checks_passed": true,
+  "note": "Approved tall wooden lookout with one straight vertical ladder.",
+  "wind_mode": "calm",
+  "theme_id": "sierra-lookout",
+  "review_status": "approved",
+  "static_only": true,
+  "section": "extras",
+  "native_size": [
+    640,
+    360
+  ],
+  "hd_png_size": [
+    1920,
+    1080
+  ],
+  "frames": 1,
+  "duration_ms": 0,
+  "animation_size": null,
+  "frame_duration_ms": 50,
+  "loop": 0,
+  "clouds": "static"
+}

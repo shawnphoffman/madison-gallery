@@ -1,11 +1,11 @@
 {
   "release": "v3",
-  "count": 125,
-  "gallery_assets": 115,
+  "count": 128,
+  "gallery_assets": 118,
   "original_background_downloads": 10,
   "background_scenes": 39,
-  "extras": 8,
-  "images": 115,
+  "extras": 11,
+  "images": 118,
   "animations": 111,
   "native_size": [
     320,
@@ -2963,6 +2963,54 @@
           "sha256": "9603474d4449f31affac555038ee70cf8faddcce464767e576b80a702e803b9c",
           "bytes": 985983,
           "path": "https://github.com/shawnphoffman/madison-gallery/releases/download/animation-mp4-v1/peeking-bear-gust-v2.mp4"
+        }
+      }
+    },
+    {
+      "id": "sierra-lookout",
+      "label": "Sierra lookout",
+      "files": {
+        "png": {
+          "path": "downloads/sierra-lookout.png",
+          "sha256": "c524c4e911dbfb07d51696da8bf2bc9e22a1b5f727127363f0732fdd6bcee64b",
+          "bytes": 367110
+        },
+        "native_png": {
+          "path": "assets/posters/sierra-lookout-native.png",
+          "sha256": "d6f5562aa660265906521c6d516ebff8076a6dcfbe800e0120ce278308523bfb",
+          "bytes": 264765
+        }
+      }
+    },
+    {
+      "id": "sierra-lookout-cameras",
+      "label": "Sierra lookout with cameras",
+      "files": {
+        "png": {
+          "path": "downloads/sierra-lookout-cameras.png",
+          "sha256": "ab2171374a64e8e56f7c262a87267a6f7febd827e536800dda825e9f197897ea",
+          "bytes": 370966
+        },
+        "native_png": {
+          "path": "assets/posters/sierra-lookout-cameras-native.png",
+          "sha256": "fd09539cef6cd44953593c486ed53972cf37626f3b2ae7dd6ac1912b0fd51cf4",
+          "bytes": 268623
+        }
+      }
+    },
+    {
+      "id": "sierra-lookout-tanker",
+      "label": "Sierra lookout with water tanker",
+      "files": {
+        "png": {
+          "path": "downloads/sierra-lookout-tanker.png",
+          "sha256": "c77f6f0252c4a9cb71992a4613eac418eb1c63b4fdb5ec687c3d38f560a696e2",
+          "bytes": 373758
+        },
+        "native_png": {
+          "path": "assets/posters/sierra-lookout-tanker-native.png",
+          "sha256": "9571dca56db29157ac7a47e1439fce348921d0abf69fabc8a8a64f2c9519bcbb",
+          "bytes": 270222
         }
       }
     },
