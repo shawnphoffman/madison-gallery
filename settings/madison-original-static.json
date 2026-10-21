@@ -1,0 +1,28 @@
+{
+  "id": "madison-original-static",
+  "label": "Original portrait, static",
+  "group": "Portraits",
+  "user_approved": true,
+  "mechanical_checks_passed": true,
+  "note": "Preserved original artwork. Original PNG download: 1600 x 1600.",
+  "review_status": "approved",
+  "static_only": true,
+  "section": "extras",
+  "native_size": [
+    100,
+    100
+  ],
+  "hd_png_size": [
+    1600,
+    1600
+  ],
+  "transparent": false,
+  "original": true,
+  "pixel_cell_size": 16,
+  "frames": 1,
+  "frame_duration_ms": 0,
+  "duration_ms": 0,
+  "gif_size": null,
+  "loop": 0,
+  "clouds": "static"
+}
