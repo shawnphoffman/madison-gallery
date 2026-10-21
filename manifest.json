@@ -361,8 +361,8 @@
         },
         "preview": {
           "path": "downloads/madison-bg-meteor-subtle-night-calm-v3-native.webp",
-          "sha256": "ce03f01ed40a322bd53fccfec6afb01f3df376f9d392e5bb522cac1329a61b17",
-          "bytes": 21986
+          "sha256": "e39a2e58ec15351da13427447969d072f1174a761fb950eccb8a0b9ec596fb7e",
+          "bytes": 35586
         },
         "native_png": {
           "path": "assets/posters/meteor-subtle-night-calm-native.png",
@@ -382,8 +382,8 @@
         },
         "preview": {
           "path": "downloads/madison-bg-meteor-bright-night-calm-v3-native.webp",
-          "sha256": "27d483e7d2f93dbe5d7f28ee32ff0aca9ca94d9a4d82306bd08e837e44415358",
-          "bytes": 22180
+          "sha256": "3956b80b2cb4177501ec6982947c95de1d09b96db075eb6c65885833aa32682b",
+          "bytes": 35900
         },
         "native_png": {
           "path": "assets/posters/meteor-bright-night-calm-native.png",
