@@ -1,11 +1,11 @@
 {
   "release": "v3",
-  "count": 128,
-  "gallery_assets": 118,
+  "count": 130,
+  "gallery_assets": 120,
   "original_background_downloads": 10,
   "background_scenes": 39,
-  "extras": 11,
-  "images": 118,
+  "extras": 13,
+  "images": 120,
   "animations": 111,
   "native_size": [
     320,
@@ -3011,6 +3011,38 @@
           "path": "assets/posters/sierra-lookout-tanker-native.png",
           "sha256": "9571dca56db29157ac7a47e1439fce348921d0abf69fabc8a8a64f2c9519bcbb",
           "bytes": 270222
+        }
+      }
+    },
+    {
+      "id": "ruby-fog",
+      "label": "Ruby conference - San Francisco fog",
+      "files": {
+        "png": {
+          "path": "downloads/ruby-fog.png",
+          "sha256": "b444599e8d01b75ae1dacb6780ac2eee1666b0e4bce6e56e5b10a6fa0a6aa83a",
+          "bytes": 2587861
+        },
+        "native_png": {
+          "path": "downloads/ruby-fog.png",
+          "sha256": "b444599e8d01b75ae1dacb6780ac2eee1666b0e4bce6e56e5b10a6fa0a6aa83a",
+          "bytes": 2587861
+        }
+      }
+    },
+    {
+      "id": "ruby-fire",
+      "label": "Ruby conference - beach and city fires",
+      "files": {
+        "png": {
+          "path": "downloads/ruby-fire.png",
+          "sha256": "194e8ab36c85d4b7b640f2d819453ff9c92e049dc3c27b3cfe994a1272f2ac59",
+          "bytes": 3139813
+        },
+        "native_png": {
+          "path": "downloads/ruby-fire.png",
+          "sha256": "194e8ab36c85d4b7b640f2d819453ff9c92e049dc3c27b3cfe994a1272f2ac59",
+          "bytes": 3139813
         }
       }
     },
